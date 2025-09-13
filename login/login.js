@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 3000);
     }
 
+    // Toggle password visibility
     document.querySelectorAll('.toggle-password').forEach(button => {
         button.addEventListener('click', () => {
             const passwordInput = button.previousElementSibling;
@@ -30,11 +31,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // Form submit handler
     document.getElementById('signin-form').addEventListener('submit', (e) => {
         e.preventDefault();
         const email = document.getElementById('signin-email').value;
         const password = document.getElementById('signin-password').value;
+        const captchaChecked = document.getElementById('captcha').checked;
 
+        // Check if captcha is ticked
+        if (!captchaChecked) {
+            showNotification("Please check 'I'm not a robot' before signing in.", "error");
+            return;
+        }
+
+        // Validate email + password
         if (email === "test@example.com" && password === "Password123!") {
             window.location.href = 'mfa.html';
         } else {
