@@ -1,0 +1,2001 @@
+Transaction_ID,Transaction_Date,Revenue,Expenses,Profit,Category,Region,Department,Product_Line,Customer_Segment,Payment_Method,Discount
+TXN0001,02-05-2023,42532,18537,23995,R&D,Europe,HR,Software,SMB,Cash,9%
+TXN0002,09-08-2022,10349,25295,-14946,Operations,Europe,IT,Furniture,B2B,Bank Transfer,22%
+TXN0003,31-12-2022,21977,10934,11043,R&D,North America,IT,Electronics,B2B,Cash,25%
+TXN0004,03-03-2023,45628,5035,40593,Sales,South America,Operations,Healthcare,B2C,Credit Card,4%
+TXN0005,08-08-2022,33779,10904,22875,Marketing,Africa,HR,Healthcare,SMB,Cash,13%
+TXN0006,14-06-2022,17652,8690,8962,R&D,Africa,Operations,Software,Enterprise,Credit Card,17%
+TXN0007,27-01-2023,28372,28474,-102,R&D,Asia-Pacific,Sales,Clothing,B2C,Cash,19%
+TXN0008,20-04-2023,40292,27312,12980,Marketing,Africa,IT,Healthcare,Enterprise,Credit Card,1%
+TXN0009,31-12-2023,32812,9030,23782,R&D,Asia-Pacific,HR,Furniture,B2B,Cash,10%
+TXN0010,05-05-2022,29218,7453,21765,Operations,Africa,Finance,Electronics,B2C,Bank Transfer,2%
+TXN0011,28-12-2023,9475,14273,-4798,Sales,Africa,Operations,Healthcare,B2B,Cash,9%
+TXN0012,17-10-2022,35566,12635,22931,R&D,Africa,Operations,Clothing,Enterprise,Bank Transfer,22%
+TXN0013,04-03-2023,32433,27709,4724,Operations,Africa,HR,Software,SMB,Cash,2%
+TXN0014,26-05-2022,15800,8136,7664,R&D,Europe,Operations,Healthcare,SMB,Cash,2%
+TXN0015,29-04-2023,32457,29679,2778,R&D,Africa,IT,Healthcare,B2C,PayPal,8%
+TXN0016,23-07-2023,29315,4367,24948,Sales,Europe,IT,Furniture,SMB,Cash,11%
+TXN0017,20-05-2023,19157,24763,-5606,R&D,Africa,Sales,Healthcare,B2B,Cash,25%
+TXN0018,18-10-2023,24454,20187,4267,R&D,Africa,IT,Electronics,B2B,Cash,28%
+TXN0019,21-10-2023,49217,27085,22132,R&D,South America,HR,Healthcare,B2B,Credit Card,27%
+TXN0020,14-08-2023,24347,10383,13964,Sales,North America,IT,Healthcare,SMB,Cash,6%
+TXN0021,13-09-2023,44201,18584,25617,R&D,Africa,IT,Clothing,SMB,Cash,9%
+TXN0022,23-12-2022,14561,6544,8017,R&D,Africa,Marketing,Software,B2C,Cash,24%
+TXN0023,04-12-2022,34223,24176,10047,Sales,Europe,IT,Healthcare,B2B,Bank Transfer,28%
+TXN0024,22-05-2022,19653,10682,8971,Operations,Asia-Pacific,IT,Healthcare,SMB,Credit Card,17%
+TXN0025,13-10-2022,31752,17942,13810,R&D,North America,Marketing,Healthcare,B2C,Cash,21%
+TXN0026,09-10-2023,13960,17044,-3084,Sales,Africa,IT,Furniture,B2B,Cash,22%
+TXN0027,18-08-2023,49044,16900,32144,R&D,Africa,Marketing,Software,B2C,Cash,2%
+TXN0028,08-12-2022,33476,28521,4955,R&D,Africa,IT,Healthcare,B2B,Credit Card,0%
+TXN0029,18-04-2023,41389,4568,36821,R&D,Africa,IT,Clothing,SMB,Cash,13%
+TXN0030,24-04-2022,40707,5700,35007,R&D,Africa,Marketing,Healthcare,B2B,Cash,12%
+TXN0031,13-08-2023,7284,28494,-21210,HR,Europe,IT,Electronics,B2B,Cash,11%
+TXN0032,20-03-2022,31751,6031,25720,Operations,Europe,Sales,Healthcare,SMB,Cash,25%
+TXN0033,02-01-2022,41437,25843,15594,Operations,Europe,IT,Healthcare,B2B,Credit Card,11%
+TXN0034,02-01-2022,9846,28485,-18639,R&D,Africa,IT,Software,SMB,Credit Card,23%
+TXN0035,31-01-2023,32102,15661,16441,R&D,Africa,IT,Clothing,Enterprise,PayPal,4%
+TXN0036,17-03-2023,15703,21762,-6059,Marketing,Europe,HR,Furniture,SMB,Credit Card,14%
+TXN0037,05-02-2022,20643,21956,-1313,Marketing,Africa,IT,Healthcare,Enterprise,Cash,16%
+TXN0038,22-02-2023,15515,18387,-2872,HR,South America,Operations,Clothing,B2B,Cash,12%
+TXN0039,10-05-2023,46870,5050,41820,R&D,North America,HR,Software,B2B,Credit Card,5%
+TXN0040,02-06-2023,32968,27967,5001,Sales,Asia-Pacific,HR,Electronics,SMB,Credit Card,20%
+TXN0041,10-06-2023,42721,12998,29723,R&D,Europe,IT,Clothing,SMB,PayPal,10%
+TXN0042,27-02-2023,28936,7014,21922,R&D,Africa,Sales,Furniture,B2B,Cash,5%
+TXN0043,24-11-2023,8285,16839,-8554,Marketing,Asia-Pacific,HR,Electronics,SMB,Cash,16%
+TXN0044,02-08-2023,14216,24557,-10341,Sales,Africa,IT,Electronics,SMB,Cash,24%
+TXN0045,18-08-2023,38852,13378,25474,HR,North America,IT,Healthcare,SMB,Cash,22%
+TXN0046,05-04-2022,6458,20646,-14188,R&D,South America,Operations,Software,SMB,Cash,24%
+TXN0047,27-09-2023,10192,17813,-7621,Marketing,North America,IT,Healthcare,SMB,Credit Card,5%
+TXN0048,17-09-2023,10781,20614,-9833,R&D,North America,IT,Healthcare,B2B,Credit Card,9%
+TXN0049,07-09-2023,30958,19737,11221,Sales,Africa,Marketing,Software,B2B,PayPal,27%
+TXN0050,10-09-2023,43631,26472,17159,HR,Africa,IT,Furniture,Enterprise,Cash,2%
+TXN0051,08-12-2023,39323,11424,27899,Operations,Africa,Marketing,Electronics,SMB,PayPal,0%
+TXN0052,23-11-2023,27062,9556,17506,Operations,North America,IT,Healthcare,B2C,Credit Card,15%
+TXN0053,31-08-2022,32886,28080,4806,R&D,Africa,HR,Furniture,B2C,Cash,26%
+TXN0054,04-10-2023,45086,18227,26859,R&D,Africa,Sales,Software,SMB,Bank Transfer,21%
+TXN0055,09-03-2023,26010,25038,972,R&D,Europe,Marketing,Furniture,B2C,Cash,28%
+TXN0056,08-02-2023,39327,26364,12963,Marketing,Africa,Operations,Clothing,SMB,PayPal,4%
+TXN0057,10-06-2023,47439,6733,40706,Marketing,Africa,IT,Software,B2C,Credit Card,24%
+TXN0058,15-07-2022,13241,7352,5889,R&D,Africa,IT,Clothing,B2B,Cash,11%
+TXN0059,16-04-2022,30230,3704,26526,Sales,North America,IT,Furniture,SMB,Bank Transfer,2%
+TXN0060,27-04-2023,18353,16059,2294,Operations,Asia-Pacific,Sales,Electronics,B2B,PayPal,9%
+TXN0061,27-10-2023,41284,22542,18742,R&D,Africa,Sales,Electronics,SMB,Cash,0%
+TXN0062,10-06-2023,35620,24298,11322,R&D,Europe,IT,Clothing,SMB,Credit Card,14%
+TXN0063,09-09-2022,30168,24997,5171,HR,Europe,Sales,Healthcare,SMB,Cash,9%
+TXN0064,29-09-2022,39801,21226,18575,R&D,Africa,Operations,Healthcare,SMB,Bank Transfer,10%
+TXN0065,08-10-2022,35697,10827,24870,R&D,Africa,Sales,Electronics,B2C,PayPal,18%
+TXN0066,22-05-2023,25794,15941,9853,HR,Europe,IT,Clothing,B2C,Cash,22%
+TXN0067,29-10-2023,15050,4854,10196,Sales,Europe,IT,Electronics,B2B,Credit Card,3%
+TXN0068,10-01-2022,19647,8556,11091,R&D,North America,Sales,Furniture,SMB,Credit Card,12%
+TXN0069,01-07-2022,7634,21298,-13664,R&D,Africa,IT,Clothing,Enterprise,Bank Transfer,7%
+TXN0070,06-04-2023,11131,29465,-18334,Sales,Africa,Finance,Software,SMB,Bank Transfer,22%
+TXN0071,27-02-2023,26553,3546,23007,R&D,North America,Finance,Healthcare,B2B,Credit Card,23%
+TXN0072,08-07-2022,39632,24268,15364,R&D,Asia-Pacific,IT,Healthcare,Enterprise,Credit Card,6%
+TXN0073,22-05-2023,29946,7691,22255,R&D,North America,IT,Healthcare,SMB,Cash,3%
+TXN0074,09-12-2022,34565,25995,8570,R&D,Africa,IT,Software,SMB,Cash,18%
+TXN0075,11-10-2022,25240,10423,14817,Marketing,Africa,Marketing,Healthcare,SMB,Cash,28%
+TXN0076,16-04-2023,43855,24091,19764,R&D,Africa,Operations,Furniture,B2C,Bank Transfer,28%
+TXN0077,12-05-2023,18903,19685,-782,Marketing,Africa,Operations,Clothing,Enterprise,Credit Card,18%
+TXN0078,11-07-2023,35656,14122,21534,HR,Africa,IT,Healthcare,B2B,Cash,6%
+TXN0079,02-10-2022,19193,10516,8677,R&D,South America,Operations,Clothing,B2B,PayPal,5%
+TXN0080,15-02-2022,20262,18926,1336,Operations,North America,Marketing,Healthcare,Enterprise,Cash,16%
+TXN0081,24-02-2022,15668,25755,-10087,Marketing,Europe,Finance,Electronics,SMB,Credit Card,19%
+TXN0082,04-08-2023,35158,3802,31356,Sales,Africa,Sales,Furniture,B2C,Credit Card,15%
+TXN0083,01-09-2023,11338,19451,-8113,R&D,Africa,Sales,Clothing,SMB,PayPal,4%
+TXN0084,02-01-2022,10187,17432,-7245,Marketing,Asia-Pacific,Marketing,Healthcare,SMB,Cash,22%
+TXN0085,02-08-2023,49322,21537,27785,R&D,Africa,Sales,Healthcare,SMB,Credit Card,6%
+TXN0086,20-05-2022,9900,14929,-5029,R&D,Europe,HR,Healthcare,SMB,Credit Card,21%
+TXN0087,31-03-2022,22151,6699,15452,R&D,Europe,IT,Healthcare,SMB,Credit Card,26%
+TXN0088,31-05-2023,33235,15204,18031,R&D,South America,IT,Electronics,B2B,Credit Card,8%
+TXN0089,27-12-2022,20601,4375,16226,R&D,Africa,Operations,Healthcare,SMB,Cash,3%
+TXN0090,06-11-2023,18068,17391,677,Sales,Africa,Sales,Furniture,B2C,Bank Transfer,13%
+TXN0091,01-06-2023,29731,25725,4006,HR,South America,Marketing,Healthcare,B2B,Bank Transfer,7%
+TXN0092,18-08-2022,36514,4123,32391,Sales,North America,Sales,Clothing,B2B,Credit Card,29%
+TXN0093,31-01-2022,27660,21883,5777,Operations,Africa,Operations,Healthcare,Enterprise,Credit Card,6%
+TXN0094,29-12-2023,27099,27518,-419,Sales,Asia-Pacific,IT,Furniture,SMB,PayPal,14%
+TXN0095,16-12-2022,11696,11240,456,R&D,Africa,Sales,Software,B2B,PayPal,22%
+TXN0096,17-01-2023,5551,15554,-10003,Operations,Asia-Pacific,IT,Healthcare,B2C,Credit Card,24%
+TXN0097,23-11-2023,28434,3581,24853,Sales,Europe,IT,Furniture,B2B,Cash,14%
+TXN0098,10-09-2022,16244,29130,-12886,Sales,North America,Sales,Healthcare,B2C,PayPal,18%
+TXN0099,06-08-2022,19974,20270,-296,Marketing,Africa,Operations,Electronics,B2C,Cash,11%
+TXN0100,09-12-2022,34750,15040,19710,HR,Europe,Sales,Software,SMB,Credit Card,1%
+TXN0101,09-06-2022,35015,27306,7709,R&D,Africa,IT,Software,SMB,PayPal,22%
+TXN0102,26-04-2023,36220,25094,11126,Sales,North America,IT,Healthcare,SMB,Cash,16%
+TXN0103,14-11-2023,8484,26783,-18299,Operations,Europe,Finance,Healthcare,SMB,Credit Card,10%
+TXN0104,23-01-2022,21845,28714,-6869,R&D,Europe,IT,Electronics,B2C,Credit Card,23%
+TXN0105,19-04-2023,14115,3834,10281,R&D,South America,IT,Clothing,B2B,PayPal,13%
+TXN0106,07-03-2022,20560,18829,1731,R&D,South America,HR,Software,SMB,PayPal,0%
+TXN0107,18-05-2023,11696,9206,2490,Sales,Europe,HR,Clothing,SMB,Cash,21%
+TXN0108,07-05-2023,40725,17713,23012,Operations,Africa,Finance,Healthcare,SMB,Cash,2%
+TXN0109,07-11-2022,18978,13932,5046,HR,North America,IT,Software,SMB,Cash,4%
+TXN0110,20-08-2023,5553,9387,-3834,Sales,North America,Operations,Electronics,Enterprise,PayPal,4%
+TXN0111,11-10-2022,20635,25657,-5022,R&D,North America,Finance,Healthcare,B2B,PayPal,19%
+TXN0112,21-03-2022,45952,28381,17571,R&D,Europe,IT,Clothing,SMB,Credit Card,12%
+TXN0113,28-06-2023,29183,22570,6613,R&D,Asia-Pacific,IT,Software,SMB,Cash,15%
+TXN0114,31-03-2022,6154,29850,-23696,Marketing,North America,IT,Healthcare,SMB,Bank Transfer,19%
+TXN0115,05-04-2022,48000,20671,27329,Marketing,Africa,Finance,Clothing,B2B,Cash,3%
+TXN0116,23-08-2022,27957,21829,6128,Marketing,Africa,Sales,Healthcare,SMB,Cash,7%
+TXN0117,08-11-2023,43742,11256,32486,Sales,Europe,Marketing,Software,B2C,Cash,25%
+TXN0118,14-03-2022,37356,26354,11002,R&D,Africa,Marketing,Furniture,B2B,Credit Card,2%
+TXN0119,10-10-2023,7517,25080,-17563,Operations,North America,IT,Electronics,SMB,PayPal,15%
+TXN0120,02-06-2022,28136,19515,8621,R&D,Asia-Pacific,Marketing,Furniture,Enterprise,PayPal,24%
+TXN0121,19-11-2023,7447,23304,-15857,R&D,Asia-Pacific,IT,Electronics,Enterprise,Bank Transfer,12%
+TXN0122,22-04-2023,19378,14922,4456,Operations,Africa,IT,Healthcare,SMB,Cash,25%
+TXN0123,26-01-2022,35366,24895,10471,Marketing,Africa,IT,Healthcare,Enterprise,Credit Card,21%
+TXN0124,06-09-2022,29064,15879,13185,Marketing,Africa,IT,Clothing,Enterprise,Cash,0%
+TXN0125,19-08-2022,28423,5381,23042,Marketing,Asia-Pacific,Sales,Healthcare,B2B,Cash,5%
+TXN0126,05-09-2023,36598,5456,31142,HR,Asia-Pacific,Finance,Electronics,SMB,Cash,27%
+TXN0127,26-03-2023,34319,23906,10413,R&D,Africa,IT,Electronics,SMB,Credit Card,6%
+TXN0128,28-04-2022,14562,5291,9271,R&D,South America,IT,Electronics,SMB,Bank Transfer,20%
+TXN0129,16-06-2022,12928,27310,-14382,R&D,North America,IT,Clothing,SMB,Bank Transfer,23%
+TXN0130,04-02-2023,47558,23982,23576,R&D,Africa,Sales,Furniture,B2C,Credit Card,11%
+TXN0131,28-03-2022,44051,10723,33328,HR,Europe,IT,Software,B2B,Bank Transfer,22%
+TXN0132,10-09-2022,14318,18938,-4620,Sales,North America,Finance,Healthcare,SMB,Cash,14%
+TXN0133,03-11-2023,27382,17574,9808,HR,Africa,IT,Furniture,SMB,Credit Card,4%
+TXN0134,24-03-2022,10381,17615,-7234,R&D,Europe,Marketing,Electronics,SMB,Cash,6%
+TXN0135,03-06-2022,48430,29510,18920,R&D,Africa,IT,Clothing,B2B,Credit Card,16%
+TXN0136,30-10-2023,41011,11523,29488,Sales,North America,Marketing,Healthcare,SMB,Cash,3%
+TXN0137,21-04-2022,5365,16520,-11155,Marketing,Africa,HR,Electronics,SMB,Bank Transfer,23%
+TXN0138,01-06-2023,28829,23697,5132,R&D,North America,Sales,Electronics,SMB,Credit Card,8%
+TXN0139,24-05-2023,40629,22043,18586,Operations,Africa,Sales,Electronics,SMB,Credit Card,9%
+TXN0140,25-04-2023,28763,26305,2458,R&D,Africa,IT,Software,B2B,Credit Card,19%
+TXN0141,05-06-2023,37803,17092,20711,R&D,North America,IT,Clothing,SMB,Credit Card,21%
+TXN0142,18-04-2023,10930,28288,-17358,Marketing,Europe,IT,Electronics,SMB,Cash,0%
+TXN0143,16-09-2022,40539,22551,17988,R&D,Africa,HR,Healthcare,Enterprise,Cash,4%
+TXN0144,12-10-2023,28794,15294,13500,Marketing,Asia-Pacific,IT,Healthcare,SMB,Credit Card,1%
+TXN0145,08-04-2022,27056,6760,20296,Marketing,Africa,Operations,Clothing,SMB,PayPal,6%
+TXN0146,26-04-2022,11588,22104,-10516,HR,Europe,Marketing,Healthcare,B2B,PayPal,7%
+TXN0147,19-05-2023,5259,27332,-22073,R&D,South America,IT,Clothing,B2B,Cash,22%
+TXN0148,08-05-2023,33045,7432,25613,R&D,South America,IT,Healthcare,SMB,Cash,28%
+TXN0149,16-03-2023,17407,17514,-107,R&D,North America,Operations,Healthcare,B2B,Credit Card,21%
+TXN0150,27-09-2023,38259,16161,22098,Sales,Africa,Sales,Healthcare,B2B,PayPal,4%
+TXN0151,21-01-2022,48331,25382,22949,HR,Europe,IT,Healthcare,B2B,Credit Card,24%
+TXN0152,02-10-2022,23211,15536,7675,R&D,Africa,Sales,Healthcare,Enterprise,Cash,12%
+TXN0153,11-06-2022,47491,26615,20876,R&D,Europe,Marketing,Clothing,SMB,Cash,25%
+TXN0154,25-06-2022,38633,13416,25217,HR,South America,Operations,Electronics,B2B,Cash,6%
+TXN0155,26-10-2023,28666,3236,25430,R&D,North America,Marketing,Software,SMB,Cash,18%
+TXN0156,23-08-2023,35912,6339,29573,R&D,South America,IT,Clothing,SMB,Credit Card,2%
+TXN0157,27-06-2023,9366,20643,-11277,Sales,South America,Operations,Electronics,B2B,Credit Card,13%
+TXN0158,15-09-2022,17900,8974,8926,R&D,Africa,Finance,Electronics,SMB,Cash,12%
+TXN0159,01-06-2022,19550,28436,-8886,R&D,Asia-Pacific,IT,Clothing,SMB,Bank Transfer,23%
+TXN0160,16-09-2022,27870,14859,13011,Sales,South America,Marketing,Electronics,SMB,Cash,13%
+TXN0161,06-12-2022,15560,13470,2090,R&D,South America,IT,Furniture,B2C,Bank Transfer,18%
+TXN0162,20-09-2022,26498,16419,10079,Sales,Africa,IT,Software,B2B,Credit Card,7%
+TXN0163,02-06-2022,36643,12219,24424,Sales,Europe,Operations,Healthcare,B2C,Cash,1%
+TXN0164,15-06-2022,15417,11520,3897,Sales,Africa,IT,Healthcare,Enterprise,Bank Transfer,15%
+TXN0165,21-03-2022,40945,8745,32200,R&D,Africa,HR,Software,B2B,Cash,4%
+TXN0166,22-11-2022,33205,7552,25653,Sales,Europe,Finance,Electronics,B2C,Cash,22%
+TXN0167,05-02-2023,40058,9456,30602,Sales,Europe,IT,Electronics,Enterprise,Bank Transfer,26%
+TXN0168,05-07-2022,33207,18999,14208,R&D,Africa,Marketing,Healthcare,SMB,Cash,15%
+TXN0169,19-02-2022,29495,28823,672,R&D,North America,IT,Electronics,B2C,Cash,7%
+TXN0170,23-07-2022,12429,25975,-13546,Sales,Africa,IT,Software,SMB,Cash,19%
+TXN0171,15-06-2023,29180,10484,18696,R&D,Africa,IT,Healthcare,SMB,Credit Card,7%
+TXN0172,08-01-2022,49011,15102,33909,Marketing,North America,HR,Healthcare,SMB,Bank Transfer,20%
+TXN0173,23-03-2022,48108,6948,41160,R&D,Africa,Sales,Electronics,Enterprise,Bank Transfer,12%
+TXN0174,10-04-2023,47309,11223,36086,HR,Europe,Marketing,Clothing,B2C,Bank Transfer,9%
+TXN0175,02-12-2022,47724,5951,41773,Sales,South America,Marketing,Healthcare,B2B,Credit Card,8%
+TXN0176,14-05-2022,42327,8129,34198,HR,Europe,Marketing,Healthcare,Enterprise,Bank Transfer,7%
+TXN0177,14-06-2022,28707,11786,16921,R&D,Africa,IT,Electronics,SMB,PayPal,25%
+TXN0178,23-06-2022,21812,4797,17015,Sales,Africa,Sales,Clothing,Enterprise,Cash,0%
+TXN0179,07-02-2023,28901,24024,4877,HR,North America,IT,Clothing,Enterprise,Bank Transfer,5%
+TXN0180,14-06-2023,34017,7362,26655,R&D,Asia-Pacific,IT,Software,B2B,Cash,12%
+TXN0181,09-09-2023,39055,4437,34618,Marketing,Europe,Operations,Software,SMB,Credit Card,2%
+TXN0182,24-05-2023,35883,19298,16585,Operations,North America,Finance,Healthcare,SMB,PayPal,10%
+TXN0183,16-08-2022,14903,14384,519,R&D,Asia-Pacific,Sales,Furniture,SMB,Credit Card,19%
+TXN0184,10-10-2023,34117,8650,25467,R&D,Africa,Marketing,Clothing,Enterprise,Cash,5%
+TXN0185,02-10-2022,31398,16333,15065,R&D,North America,Sales,Electronics,Enterprise,Credit Card,29%
+TXN0186,22-06-2022,20206,27855,-7649,Operations,Asia-Pacific,HR,Electronics,SMB,Cash,23%
+TXN0187,12-11-2023,21815,9290,12525,R&D,Africa,Sales,Software,SMB,Cash,20%
+TXN0188,02-05-2023,45922,26257,19665,R&D,Africa,Marketing,Healthcare,SMB,Bank Transfer,0%
+TXN0189,07-04-2023,27657,17685,9972,Marketing,Africa,IT,Software,SMB,Bank Transfer,11%
+TXN0190,09-09-2022,41139,21196,19943,R&D,Africa,Sales,Clothing,SMB,Cash,6%
+TXN0191,12-04-2023,26140,12884,13256,R&D,North America,Sales,Healthcare,SMB,Credit Card,7%
+TXN0192,04-02-2022,15432,21761,-6329,Sales,Europe,Sales,Clothing,SMB,Cash,29%
+TXN0193,10-12-2023,6507,10428,-3921,HR,Europe,IT,Healthcare,SMB,Bank Transfer,19%
+TXN0194,02-03-2023,37188,27806,9382,Marketing,North America,Finance,Electronics,B2B,Cash,1%
+TXN0195,08-07-2023,23562,23925,-363,R&D,North America,Marketing,Healthcare,Enterprise,Cash,14%
+TXN0196,13-06-2023,16308,19811,-3503,R&D,Asia-Pacific,Sales,Furniture,Enterprise,Credit Card,17%
+TXN0197,04-10-2022,10280,12231,-1951,R&D,North America,HR,Healthcare,B2B,Cash,18%
+TXN0198,06-09-2022,13830,17772,-3942,Marketing,Asia-Pacific,IT,Clothing,B2B,Credit Card,2%
+TXN0199,25-10-2023,31284,28996,2288,R&D,Africa,IT,Healthcare,SMB,Cash,16%
+TXN0200,13-06-2023,14113,5981,8132,R&D,Africa,IT,Electronics,Enterprise,Credit Card,3%
+TXN0201,17-12-2023,21875,5372,16503,Sales,North America,IT,Healthcare,SMB,Credit Card,15%
+TXN0202,12-10-2022,40559,9388,31171,Sales,Africa,Finance,Healthcare,B2B,Credit Card,11%
+TXN0203,26-08-2023,29734,15113,14621,Sales,Africa,Sales,Software,B2B,Bank Transfer,16%
+TXN0204,17-06-2023,46305,16344,29961,R&D,North America,IT,Healthcare,SMB,Cash,11%
+TXN0205,16-09-2023,32863,21403,11460,R&D,Asia-Pacific,Sales,Electronics,SMB,Cash,24%
+TXN0206,05-12-2022,37445,12734,24711,HR,Africa,Marketing,Furniture,SMB,PayPal,27%
+TXN0207,26-10-2022,33675,18676,14999,R&D,Africa,Sales,Healthcare,SMB,PayPal,27%
+TXN0208,12-04-2023,13090,6232,6858,R&D,Africa,IT,Healthcare,B2B,Cash,11%
+TXN0209,10-08-2022,28305,10221,18084,R&D,North America,IT,Electronics,B2B,PayPal,0%
+TXN0210,02-09-2022,41726,7567,34159,HR,Africa,Marketing,Healthcare,Enterprise,Credit Card,28%
+TXN0211,13-02-2023,22619,25392,-2773,R&D,Africa,IT,Electronics,B2C,PayPal,17%
+TXN0212,22-12-2023,32948,11168,21780,R&D,North America,Marketing,Furniture,SMB,Credit Card,6%
+TXN0213,19-05-2023,37089,18880,18209,Operations,Africa,Operations,Software,B2B,Cash,11%
+TXN0214,08-09-2022,39447,21201,18246,Operations,Africa,IT,Healthcare,B2B,Cash,14%
+TXN0215,22-12-2023,16270,17211,-941,R&D,North America,IT,Healthcare,SMB,PayPal,13%
+TXN0216,30-08-2023,27287,5535,21752,Marketing,Asia-Pacific,Operations,Healthcare,B2B,Cash,7%
+TXN0217,31-10-2022,11301,21433,-10132,Sales,Africa,IT,Software,SMB,Cash,27%
+TXN0218,16-05-2022,43906,8338,35568,Marketing,Asia-Pacific,Sales,Clothing,B2B,PayPal,8%
+TXN0219,16-02-2023,11907,16736,-4829,Operations,Africa,Operations,Software,SMB,Cash,11%
+TXN0220,17-10-2023,8313,15082,-6769,Operations,Europe,IT,Software,B2C,Cash,10%
+TXN0221,19-02-2022,15176,4115,11061,Sales,North America,IT,Furniture,SMB,Credit Card,17%
+TXN0222,22-10-2023,16711,15885,826,HR,Africa,IT,Healthcare,B2B,Credit Card,3%
+TXN0223,07-05-2022,24362,23901,461,R&D,Africa,Finance,Healthcare,B2C,Cash,24%
+TXN0224,28-07-2022,25328,14858,10470,Marketing,North America,IT,Clothing,B2B,Cash,15%
+TXN0225,21-07-2023,7958,27901,-19943,R&D,Europe,Marketing,Healthcare,B2B,Cash,2%
+TXN0226,26-03-2022,14275,9471,4804,R&D,Europe,IT,Furniture,Enterprise,Bank Transfer,25%
+TXN0227,25-10-2022,42320,25474,16846,Operations,Europe,IT,Healthcare,SMB,Cash,17%
+TXN0228,17-06-2022,28345,3785,24560,R&D,North America,HR,Healthcare,B2B,Cash,21%
+TXN0229,17-11-2023,31239,12111,19128,R&D,Africa,HR,Healthcare,B2C,Credit Card,24%
+TXN0230,02-12-2023,9474,22428,-12954,Sales,South America,IT,Healthcare,SMB,Bank Transfer,26%
+TXN0231,15-11-2023,20792,9085,11707,Operations,South America,HR,Electronics,SMB,PayPal,25%
+TXN0232,02-01-2022,42551,13188,29363,R&D,Europe,Operations,Furniture,B2B,Credit Card,23%
+TXN0233,27-08-2023,43971,9427,34544,HR,South America,Sales,Healthcare,B2B,Bank Transfer,17%
+TXN0234,04-11-2022,7661,18442,-10781,Operations,North America,IT,Electronics,SMB,Bank Transfer,24%
+TXN0235,08-10-2023,39768,26413,13355,Sales,Africa,IT,Healthcare,SMB,Cash,12%
+TXN0236,25-09-2022,14387,18240,-3853,Operations,North America,Marketing,Healthcare,B2B,Cash,20%
+TXN0237,01-04-2022,37967,13567,24400,R&D,Africa,Operations,Healthcare,B2C,Bank Transfer,29%
+TXN0238,08-12-2022,13189,29060,-15871,R&D,Africa,IT,Software,Enterprise,Cash,4%
+TXN0239,10-02-2022,18206,14916,3290,Operations,Africa,IT,Electronics,B2C,Cash,10%
+TXN0240,26-07-2023,40873,26027,14846,R&D,Europe,IT,Electronics,SMB,Cash,4%
+TXN0241,11-08-2022,46316,19498,26818,Sales,Africa,Operations,Clothing,SMB,Credit Card,1%
+TXN0242,18-07-2023,21344,26101,-4757,R&D,Africa,Marketing,Clothing,B2C,Bank Transfer,1%
+TXN0243,21-10-2023,46300,18594,27706,Sales,South America,HR,Electronics,B2B,Cash,3%
+TXN0244,16-12-2023,32674,28693,3981,R&D,Europe,HR,Electronics,SMB,Cash,1%
+TXN0245,26-05-2022,31935,3763,28172,R&D,North America,IT,Electronics,SMB,Cash,8%
+TXN0246,08-10-2023,15397,15816,-419,Operations,Asia-Pacific,IT,Software,B2C,Cash,16%
+TXN0247,26-10-2022,24214,15625,8589,Marketing,Africa,Operations,Electronics,SMB,Credit Card,9%
+TXN0248,01-10-2023,12634,13244,-610,Marketing,Asia-Pacific,IT,Healthcare,B2B,Cash,25%
+TXN0249,07-06-2022,6938,21717,-14779,HR,South America,HR,Healthcare,B2B,Cash,18%
+TXN0250,19-05-2022,43004,26383,16621,Sales,Africa,Marketing,Software,SMB,Cash,16%
+TXN0251,18-07-2023,19724,4012,15712,HR,Europe,Marketing,Healthcare,Enterprise,Credit Card,1%
+TXN0252,04-08-2023,46107,4930,41177,HR,Africa,Marketing,Furniture,SMB,Cash,25%
+TXN0253,04-02-2022,10537,25993,-15456,R&D,Africa,IT,Healthcare,SMB,Cash,10%
+TXN0254,01-04-2023,28062,14536,13526,Sales,Europe,Marketing,Healthcare,B2B,Cash,11%
+TXN0255,22-12-2023,42159,29731,12428,Operations,Europe,Finance,Clothing,B2C,Bank Transfer,9%
+TXN0256,05-02-2022,13031,26411,-13380,R&D,Europe,Operations,Software,Enterprise,Bank Transfer,16%
+TXN0257,22-06-2023,38196,17413,20783,R&D,Asia-Pacific,Sales,Clothing,SMB,Credit Card,7%
+TXN0258,20-05-2022,11435,22892,-11457,Operations,Africa,IT,Electronics,Enterprise,Bank Transfer,22%
+TXN0259,06-04-2022,7928,8073,-145,R&D,Africa,Sales,Electronics,Enterprise,Cash,26%
+TXN0260,15-07-2023,30452,23009,7443,R&D,Africa,IT,Software,B2B,Cash,21%
+TXN0261,24-04-2023,27888,29889,-2001,Sales,North America,Finance,Software,SMB,Cash,12%
+TXN0262,05-01-2022,38061,5203,32858,Operations,South America,IT,Healthcare,SMB,Bank Transfer,19%
+TXN0263,06-06-2023,11091,16505,-5414,Operations,Europe,IT,Healthcare,B2C,Cash,29%
+TXN0264,09-05-2022,19880,19375,505,R&D,Europe,IT,Software,B2C,Credit Card,13%
+TXN0265,08-07-2023,5303,14883,-9580,R&D,Africa,Marketing,Software,SMB,Cash,13%
+TXN0266,17-06-2023,22617,14128,8489,R&D,Asia-Pacific,Operations,Clothing,SMB,Cash,29%
+TXN0267,12-09-2022,8710,3356,5354,R&D,Africa,IT,Healthcare,SMB,Cash,22%
+TXN0268,15-08-2023,20926,21123,-197,R&D,Africa,HR,Software,Enterprise,PayPal,15%
+TXN0269,03-07-2023,5346,19654,-14308,R&D,South America,Sales,Healthcare,SMB,Cash,23%
+TXN0270,06-05-2022,6644,20675,-14031,R&D,Africa,Operations,Electronics,SMB,Cash,22%
+TXN0271,20-04-2022,41510,19585,21925,R&D,Africa,HR,Furniture,SMB,Cash,28%
+TXN0272,25-10-2022,9273,26893,-17620,HR,Asia-Pacific,IT,Healthcare,SMB,Credit Card,0%
+TXN0273,02-03-2022,7817,18956,-11139,R&D,Africa,IT,Clothing,SMB,Cash,3%
+TXN0274,06-06-2022,6967,3721,3246,Operations,North America,HR,Healthcare,SMB,Cash,12%
+TXN0275,09-12-2023,5901,5529,372,Operations,Africa,Marketing,Furniture,SMB,Cash,1%
+TXN0276,26-08-2022,40916,29117,11799,Marketing,Africa,Sales,Healthcare,Enterprise,Bank Transfer,20%
+TXN0277,11-09-2023,9317,16852,-7535,R&D,Asia-Pacific,IT,Clothing,B2C,PayPal,15%
+TXN0278,05-03-2022,24416,24607,-191,R&D,Africa,IT,Clothing,B2C,Credit Card,20%
+TXN0279,05-12-2023,27258,22775,4483,HR,Europe,Operations,Healthcare,B2B,Credit Card,20%
+TXN0280,11-12-2023,33489,21866,11623,R&D,Africa,IT,Software,SMB,Bank Transfer,26%
+TXN0281,11-11-2023,45701,25552,20149,R&D,South America,Operations,Software,SMB,Cash,21%
+TXN0282,01-01-2023,12731,6311,6420,Sales,Africa,Sales,Healthcare,SMB,Bank Transfer,18%
+TXN0283,16-09-2023,16416,28524,-12108,Marketing,North America,Sales,Clothing,B2B,Credit Card,23%
+TXN0284,09-07-2022,42285,18981,23304,R&D,Europe,HR,Electronics,B2B,Cash,25%
+TXN0285,29-04-2022,29645,27713,1932,R&D,North America,Sales,Electronics,B2C,PayPal,24%
+TXN0286,18-11-2023,15100,15913,-813,R&D,Asia-Pacific,IT,Healthcare,SMB,Cash,14%
+TXN0287,11-02-2023,18072,16713,1359,Marketing,South America,IT,Clothing,SMB,Cash,23%
+TXN0288,21-04-2022,40296,20339,19957,Operations,Africa,Sales,Electronics,Enterprise,Cash,23%
+TXN0289,01-07-2022,7858,17914,-10056,Sales,Africa,IT,Healthcare,B2C,Bank Transfer,25%
+TXN0290,17-02-2023,23844,13835,10009,Marketing,North America,Sales,Furniture,SMB,Bank Transfer,19%
+TXN0291,03-11-2023,22481,14550,7931,R&D,South America,Marketing,Clothing,Enterprise,Cash,6%
+TXN0292,17-04-2022,27688,17038,10650,Marketing,Africa,IT,Clothing,Enterprise,Bank Transfer,17%
+TXN0293,03-05-2022,36943,14777,22166,HR,Africa,IT,Healthcare,Enterprise,PayPal,18%
+TXN0294,26-08-2023,11036,18004,-6968,R&D,Africa,Marketing,Healthcare,SMB,Cash,5%
+TXN0295,27-05-2022,46764,20314,26450,Marketing,North America,IT,Clothing,SMB,Cash,8%
+TXN0296,20-03-2022,32811,20012,12799,R&D,Africa,IT,Software,SMB,Cash,20%
+TXN0297,30-01-2023,32759,10631,22128,R&D,North America,IT,Healthcare,SMB,Cash,10%
+TXN0298,08-09-2023,27389,6077,21312,Marketing,Africa,Sales,Healthcare,SMB,Bank Transfer,24%
+TXN0299,15-12-2023,15920,10723,5197,Operations,Africa,HR,Furniture,SMB,PayPal,15%
+TXN0300,29-09-2023,22934,17739,5195,R&D,Europe,IT,Software,B2C,Bank Transfer,26%
+TXN0301,17-04-2023,44744,17825,26919,R&D,Europe,IT,Furniture,SMB,Cash,2%
+TXN0302,20-09-2022,7820,20527,-12707,R&D,North America,Sales,Furniture,B2B,Bank Transfer,12%
+TXN0303,11-10-2022,32285,17612,14673,HR,Africa,Marketing,Electronics,B2C,Cash,0%
+TXN0304,02-03-2023,22455,23724,-1269,R&D,Africa,Sales,Healthcare,SMB,Cash,16%
+TXN0305,20-10-2022,46426,4735,41691,Operations,Africa,IT,Electronics,B2C,Cash,8%
+TXN0306,06-07-2023,46468,10345,36123,Marketing,Africa,IT,Electronics,SMB,Credit Card,18%
+TXN0307,23-12-2023,25490,28893,-3403,Marketing,Africa,Marketing,Healthcare,B2B,Credit Card,16%
+TXN0308,26-02-2023,16507,22548,-6041,Operations,Africa,IT,Healthcare,SMB,Credit Card,10%
+TXN0309,17-07-2022,5894,17827,-11933,R&D,North America,IT,Furniture,B2B,Cash,2%
+TXN0310,21-11-2023,39839,14950,24889,R&D,South America,Finance,Clothing,Enterprise,Cash,10%
+TXN0311,04-12-2022,12073,16301,-4228,Operations,Africa,Sales,Healthcare,Enterprise,PayPal,10%
+TXN0312,07-12-2022,37659,24719,12940,R&D,Africa,Sales,Electronics,Enterprise,Credit Card,8%
+TXN0313,08-12-2023,48721,18822,29899,Sales,North America,Marketing,Healthcare,SMB,PayPal,3%
+TXN0314,23-07-2023,38307,12016,26291,HR,Africa,IT,Healthcare,B2C,Cash,2%
+TXN0315,01-05-2022,40766,21603,19163,Operations,North America,Finance,Healthcare,SMB,Bank Transfer,0%
+TXN0316,01-01-2022,6637,18585,-11948,R&D,Africa,IT,Electronics,B2C,Bank Transfer,4%
+TXN0317,07-02-2022,28476,23749,4727,R&D,Europe,Sales,Software,B2B,PayPal,8%
+TXN0318,06-08-2023,7286,22964,-15678,R&D,North America,Sales,Healthcare,B2B,Credit Card,1%
+TXN0319,01-01-2023,26520,12041,14479,Sales,Africa,Sales,Healthcare,B2B,Cash,9%
+TXN0320,11-11-2022,34119,14951,19168,Marketing,Asia-Pacific,Marketing,Healthcare,SMB,Credit Card,23%
+TXN0321,05-02-2023,19503,19983,-480,Operations,North America,IT,Healthcare,B2B,PayPal,11%
+TXN0322,27-03-2022,49983,17546,32437,R&D,Africa,IT,Furniture,B2C,PayPal,6%
+TXN0323,14-10-2023,49172,11766,37406,R&D,Africa,IT,Clothing,Enterprise,Cash,12%
+TXN0324,14-03-2022,16141,23951,-7810,R&D,Africa,Marketing,Electronics,SMB,Bank Transfer,27%
+TXN0325,20-04-2023,31266,20171,11095,R&D,Africa,IT,Electronics,B2C,Bank Transfer,1%
+TXN0326,19-01-2022,18218,10622,7596,R&D,Africa,Finance,Healthcare,Enterprise,Credit Card,21%
+TXN0327,13-02-2022,34329,23156,11173,R&D,Africa,Operations,Healthcare,SMB,PayPal,15%
+TXN0328,25-07-2022,25873,27039,-1166,Marketing,Africa,Finance,Healthcare,SMB,Credit Card,11%
+TXN0329,27-09-2022,13600,12025,1575,HR,South America,Operations,Healthcare,B2B,Bank Transfer,8%
+TXN0330,13-03-2023,11821,28383,-16562,R&D,North America,Marketing,Healthcare,B2C,Cash,24%
+TXN0331,24-06-2022,46899,10869,36030,R&D,North America,Sales,Software,B2B,Cash,14%
+TXN0332,02-04-2022,37734,19813,17921,R&D,Africa,Marketing,Software,B2B,PayPal,8%
+TXN0333,21-03-2023,7581,24038,-16457,Marketing,North America,HR,Healthcare,B2B,Bank Transfer,1%
+TXN0334,08-11-2022,49087,15994,33093,HR,South America,IT,Software,Enterprise,Credit Card,29%
+TXN0335,14-04-2022,19159,11935,7224,HR,Africa,Marketing,Clothing,B2C,Cash,23%
+TXN0336,09-05-2023,25356,13595,11761,HR,Africa,IT,Healthcare,Enterprise,Cash,2%
+TXN0337,31-01-2022,47980,29859,18121,R&D,Africa,Sales,Healthcare,B2B,PayPal,26%
+TXN0338,19-05-2023,11250,27061,-15811,Sales,Europe,HR,Electronics,B2C,Cash,27%
+TXN0339,28-12-2023,6178,27547,-21369,R&D,Africa,IT,Furniture,SMB,PayPal,17%
+TXN0340,01-04-2023,26318,25324,994,R&D,North America,HR,Electronics,SMB,Cash,8%
+TXN0341,28-12-2023,28371,22151,6220,R&D,North America,IT,Healthcare,Enterprise,PayPal,8%
+TXN0342,27-12-2023,32670,6598,26072,Operations,Asia-Pacific,HR,Clothing,B2C,Bank Transfer,25%
+TXN0343,24-10-2023,41002,8654,32348,Marketing,North America,IT,Healthcare,B2B,Credit Card,12%
+TXN0344,17-12-2022,30238,7141,23097,HR,Asia-Pacific,Finance,Electronics,B2B,Cash,9%
+TXN0345,21-07-2023,34873,29646,5227,Sales,North America,IT,Healthcare,B2C,Credit Card,25%
+TXN0346,29-12-2022,11599,11612,-13,R&D,Asia-Pacific,Sales,Electronics,Enterprise,Credit Card,12%
+TXN0347,18-03-2022,48552,27967,20585,Sales,Europe,IT,Healthcare,Enterprise,PayPal,4%
+TXN0348,11-02-2022,28046,10237,17809,Operations,South America,Sales,Clothing,Enterprise,Cash,7%
+TXN0349,25-11-2023,6561,4712,1849,R&D,Africa,IT,Software,SMB,Cash,18%
+TXN0350,26-10-2023,21683,18191,3492,Operations,North America,IT,Software,B2C,PayPal,12%
+TXN0351,08-12-2022,49236,15278,33958,Sales,Africa,Operations,Clothing,B2C,Bank Transfer,3%
+TXN0352,29-07-2023,44177,8961,35216,Sales,South America,Marketing,Electronics,B2B,Credit Card,6%
+TXN0353,19-04-2022,37037,24114,12923,R&D,Europe,Marketing,Electronics,B2B,Credit Card,8%
+TXN0354,21-09-2023,7017,29754,-22737,R&D,South America,IT,Healthcare,SMB,Cash,5%
+TXN0355,08-02-2022,33313,12436,20877,R&D,North America,IT,Healthcare,B2B,Credit Card,5%
+TXN0356,25-04-2023,7783,29961,-22178,R&D,Africa,Sales,Clothing,SMB,Bank Transfer,20%
+TXN0357,05-07-2022,15364,26470,-11106,R&D,North America,Operations,Electronics,Enterprise,Cash,27%
+TXN0358,08-04-2022,25775,20582,5193,HR,Africa,Marketing,Electronics,SMB,Cash,1%
+TXN0359,28-09-2023,15824,6612,9212,R&D,North America,Finance,Healthcare,SMB,Cash,27%
+TXN0360,11-08-2022,39202,11377,27825,R&D,Africa,Marketing,Healthcare,SMB,Credit Card,17%
+TXN0361,16-06-2022,6110,12715,-6605,Marketing,Africa,IT,Electronics,Enterprise,Bank Transfer,26%
+TXN0362,23-12-2023,32088,15183,16905,R&D,Asia-Pacific,IT,Software,SMB,Bank Transfer,9%
+TXN0363,10-08-2023,38033,11797,26236,Sales,Europe,IT,Software,B2B,Credit Card,24%
+TXN0364,29-11-2022,14204,4986,9218,HR,North America,IT,Clothing,B2C,Credit Card,29%
+TXN0365,16-08-2023,32455,4895,27560,Operations,South America,IT,Healthcare,Enterprise,Credit Card,9%
+TXN0366,02-10-2023,18658,22438,-3780,Operations,South America,IT,Clothing,SMB,Cash,18%
+TXN0367,20-02-2023,30073,17323,12750,Sales,Africa,Marketing,Furniture,B2C,Credit Card,4%
+TXN0368,24-12-2023,48621,4709,43912,Sales,Africa,Marketing,Clothing,SMB,Bank Transfer,6%
+TXN0369,24-01-2022,26402,24528,1874,R&D,Asia-Pacific,Sales,Healthcare,SMB,Bank Transfer,20%
+TXN0370,08-03-2023,34654,7196,27458,Sales,North America,Operations,Healthcare,SMB,Bank Transfer,3%
+TXN0371,07-08-2023,15319,15615,-296,R&D,Europe,Finance,Clothing,B2C,Bank Transfer,20%
+TXN0372,29-08-2022,39959,13799,26160,R&D,South America,IT,Electronics,B2C,Cash,22%
+TXN0373,28-05-2023,6633,8291,-1658,R&D,South America,IT,Software,B2C,Bank Transfer,27%
+TXN0374,14-01-2023,11403,3973,7430,R&D,Europe,Operations,Software,B2B,Cash,11%
+TXN0375,22-10-2022,12312,20198,-7886,R&D,North America,Operations,Furniture,B2B,Cash,0%
+TXN0376,05-10-2022,41073,22593,18480,Operations,Europe,HR,Furniture,B2C,Cash,7%
+TXN0377,15-11-2023,20258,5172,15086,Operations,Africa,Sales,Healthcare,SMB,Credit Card,3%
+TXN0378,04-07-2022,43937,8767,35170,R&D,Africa,Operations,Furniture,B2C,Cash,1%
+TXN0379,31-10-2022,29904,4697,25207,R&D,Africa,IT,Clothing,B2B,PayPal,22%
+TXN0380,09-11-2023,34777,26797,7980,Marketing,Africa,Sales,Electronics,B2B,Credit Card,22%
+TXN0381,23-11-2023,31703,25613,6090,HR,Africa,Sales,Healthcare,SMB,Cash,4%
+TXN0382,03-09-2022,28880,18679,10201,R&D,North America,IT,Clothing,SMB,Cash,3%
+TXN0383,23-10-2022,16604,6622,9982,HR,Africa,IT,Furniture,B2B,Cash,6%
+TXN0384,09-02-2022,9053,18917,-9864,Operations,Africa,IT,Electronics,SMB,Credit Card,16%
+TXN0385,21-03-2022,6967,28079,-21112,Sales,Europe,HR,Electronics,Enterprise,PayPal,20%
+TXN0386,12-02-2022,41742,12263,29479,Marketing,North America,IT,Electronics,SMB,Credit Card,24%
+TXN0387,26-12-2023,15483,8089,7394,R&D,North America,IT,Healthcare,B2C,Bank Transfer,4%
+TXN0388,27-07-2022,16225,14413,1812,HR,North America,Sales,Healthcare,B2C,Credit Card,26%
+TXN0389,06-09-2022,36911,6495,30416,Sales,Africa,Sales,Electronics,Enterprise,PayPal,25%
+TXN0390,18-03-2022,17035,18167,-1132,R&D,South America,IT,Software,SMB,Credit Card,5%
+TXN0391,21-02-2023,27445,19843,7602,HR,Europe,IT,Healthcare,B2C,PayPal,24%
+TXN0392,24-10-2023,8446,9698,-1252,Marketing,North America,Marketing,Clothing,B2B,Cash,24%
+TXN0393,27-02-2023,9464,16084,-6620,Marketing,Africa,IT,Healthcare,B2B,Cash,26%
+TXN0394,09-03-2023,14113,7089,7024,R&D,Asia-Pacific,Sales,Healthcare,SMB,Bank Transfer,16%
+TXN0395,26-09-2023,34697,14119,20578,Operations,Africa,IT,Software,B2B,Credit Card,16%
+TXN0396,01-11-2022,46512,3076,43436,R&D,South America,HR,Healthcare,B2B,Bank Transfer,14%
+TXN0397,16-01-2022,40503,4764,35739,R&D,Africa,IT,Healthcare,Enterprise,Bank Transfer,15%
+TXN0398,11-07-2023,29660,4209,25451,Operations,South America,Finance,Healthcare,SMB,Bank Transfer,16%
+TXN0399,16-12-2022,30232,10587,19645,Marketing,Europe,Finance,Healthcare,SMB,Cash,21%
+TXN0400,01-06-2023,35861,29178,6683,Marketing,South America,IT,Healthcare,SMB,Credit Card,22%
+TXN0401,04-05-2023,40573,10244,30329,R&D,Africa,IT,Clothing,SMB,Cash,11%
+TXN0402,25-03-2023,49855,25691,24164,R&D,Africa,Operations,Software,SMB,Cash,21%
+TXN0403,01-12-2022,17273,20390,-3117,Sales,North America,Finance,Furniture,Enterprise,Credit Card,19%
+TXN0404,25-05-2023,26335,29447,-3112,R&D,Africa,Operations,Electronics,SMB,Cash,2%
+TXN0405,14-07-2022,20550,19967,583,R&D,Africa,Sales,Electronics,SMB,Credit Card,9%
+TXN0406,26-11-2022,6368,11939,-5571,Sales,Europe,Operations,Clothing,B2C,Cash,26%
+TXN0407,16-03-2022,7027,25383,-18356,Marketing,Europe,Sales,Healthcare,SMB,Cash,7%
+TXN0408,19-11-2023,25907,27993,-2086,R&D,Africa,HR,Electronics,SMB,Cash,6%
+TXN0409,24-03-2022,12674,5578,7096,Marketing,South America,Marketing,Healthcare,B2B,Credit Card,18%
+TXN0410,01-11-2022,38806,17471,21335,R&D,Africa,HR,Software,Enterprise,Cash,5%
+TXN0411,27-06-2022,28561,9263,19298,Sales,South America,IT,Software,B2B,Bank Transfer,15%
+TXN0412,17-12-2023,32434,5896,26538,R&D,North America,IT,Healthcare,SMB,Bank Transfer,14%
+TXN0413,21-09-2023,25732,8524,17208,R&D,Europe,IT,Healthcare,B2B,Credit Card,25%
+TXN0414,09-02-2022,19282,9961,9321,Sales,Africa,IT,Software,B2C,Credit Card,6%
+TXN0415,13-03-2022,48990,3694,45296,R&D,Africa,IT,Healthcare,SMB,Bank Transfer,18%
+TXN0416,06-04-2023,35380,27026,8354,R&D,North America,Sales,Electronics,SMB,PayPal,13%
+TXN0417,24-09-2022,23500,22183,1317,R&D,South America,IT,Electronics,B2C,Bank Transfer,6%
+TXN0418,01-09-2022,45653,14138,31515,Sales,Europe,Operations,Software,SMB,Credit Card,18%
+TXN0419,11-06-2022,42908,6443,36465,R&D,Asia-Pacific,Marketing,Electronics,B2C,Cash,6%
+TXN0420,28-07-2022,17934,9890,8044,Marketing,Africa,IT,Software,B2B,Credit Card,19%
+TXN0421,21-10-2022,16122,28870,-12748,Operations,South America,IT,Software,SMB,Credit Card,14%
+TXN0422,09-03-2022,33213,21547,11666,Marketing,Africa,Marketing,Healthcare,B2C,Cash,0%
+TXN0423,14-04-2022,14157,25528,-11371,R&D,North America,IT,Electronics,SMB,Credit Card,27%
+TXN0424,13-05-2022,46733,19132,27601,R&D,Europe,Operations,Software,SMB,Cash,22%
+TXN0425,03-08-2023,8364,28149,-19785,R&D,North America,Finance,Clothing,B2C,Credit Card,9%
+TXN0426,01-09-2022,36196,12701,23495,HR,Africa,Sales,Software,SMB,Cash,7%
+TXN0427,30-07-2022,15987,20809,-4822,R&D,Africa,IT,Healthcare,SMB,Cash,8%
+TXN0428,14-02-2022,41014,21386,19628,Sales,Europe,Marketing,Furniture,B2B,Cash,18%
+TXN0429,07-07-2023,8416,3970,4446,Operations,Europe,IT,Electronics,B2B,Credit Card,24%
+TXN0430,12-06-2022,8492,22508,-14016,Marketing,Africa,IT,Software,B2B,Bank Transfer,13%
+TXN0431,15-05-2023,33474,28147,5327,R&D,Asia-Pacific,Finance,Electronics,B2C,Bank Transfer,9%
+TXN0432,23-11-2022,28502,3954,24548,R&D,North America,IT,Electronics,B2C,Cash,13%
+TXN0433,28-10-2022,30059,19240,10819,R&D,Asia-Pacific,Finance,Clothing,SMB,PayPal,5%
+TXN0434,27-12-2023,33904,9028,24876,HR,North America,Finance,Furniture,B2B,Cash,19%
+TXN0435,21-06-2022,46378,7699,38679,R&D,South America,Finance,Software,SMB,Cash,13%
+TXN0436,07-12-2023,49969,21285,28684,HR,South America,IT,Software,SMB,Cash,24%
+TXN0437,03-04-2022,9662,17475,-7813,HR,North America,IT,Clothing,B2B,PayPal,22%
+TXN0438,24-05-2023,23067,21643,1424,R&D,Africa,Sales,Electronics,Enterprise,Cash,8%
+TXN0439,02-01-2023,44257,22442,21815,HR,Africa,IT,Healthcare,B2B,Cash,16%
+TXN0440,13-11-2023,9194,21648,-12454,Marketing,Africa,Finance,Software,Enterprise,Bank Transfer,8%
+TXN0441,20-09-2023,42211,7610,34601,HR,Africa,IT,Healthcare,B2B,PayPal,7%
+TXN0442,26-11-2022,19108,28463,-9355,Sales,North America,Operations,Clothing,SMB,Cash,4%
+TXN0443,17-11-2023,25389,25945,-556,Sales,Africa,IT,Electronics,B2B,Cash,22%
+TXN0444,25-12-2022,7506,27670,-20164,R&D,Africa,IT,Clothing,B2B,PayPal,1%
+TXN0445,22-06-2022,11497,14870,-3373,Marketing,Africa,Marketing,Healthcare,B2B,Cash,29%
+TXN0446,01-09-2022,35422,14285,21137,R&D,Africa,IT,Software,SMB,PayPal,22%
+TXN0447,15-05-2022,5077,19706,-14629,HR,Africa,IT,Electronics,B2C,Bank Transfer,18%
+TXN0448,16-04-2022,8516,13452,-4936,Marketing,Africa,IT,Healthcare,SMB,Credit Card,18%
+TXN0449,12-09-2022,40610,18460,22150,Marketing,North America,Marketing,Healthcare,SMB,Bank Transfer,19%
+TXN0450,23-03-2023,48578,28502,20076,Sales,Europe,IT,Healthcare,B2B,PayPal,2%
+TXN0451,10-03-2023,40723,29590,11133,Sales,Asia-Pacific,IT,Clothing,B2B,Bank Transfer,2%
+TXN0452,05-11-2023,27866,14205,13661,Sales,Asia-Pacific,HR,Healthcare,SMB,Bank Transfer,2%
+TXN0453,10-12-2022,37905,24148,13757,R&D,South America,IT,Furniture,SMB,Cash,23%
+TXN0454,12-05-2022,42931,6619,36312,Operations,North America,IT,Healthcare,B2C,Cash,1%
+TXN0455,09-03-2022,36633,8748,27885,HR,Europe,IT,Healthcare,B2C,Credit Card,19%
+TXN0456,09-03-2023,25967,21391,4576,Sales,Africa,IT,Healthcare,B2C,Credit Card,22%
+TXN0457,02-06-2023,31614,15291,16323,Operations,Africa,Sales,Clothing,SMB,Cash,24%
+TXN0458,09-08-2023,9542,3723,5819,R&D,Africa,Finance,Electronics,SMB,PayPal,12%
+TXN0459,04-11-2022,36726,4676,32050,R&D,Africa,Sales,Software,B2B,Cash,24%
+TXN0460,19-12-2023,18704,10644,8060,R&D,Europe,Operations,Furniture,SMB,Credit Card,21%
+TXN0461,16-09-2022,35247,29037,6210,R&D,North America,Marketing,Healthcare,B2B,Bank Transfer,6%
+TXN0462,22-01-2022,17313,24255,-6942,Marketing,Africa,HR,Healthcare,B2B,Bank Transfer,4%
+TXN0463,22-07-2022,29447,8103,21344,Marketing,Asia-Pacific,Finance,Healthcare,B2B,Cash,23%
+TXN0464,15-05-2022,40934,25531,15403,Marketing,North America,HR,Healthcare,SMB,Cash,6%
+TXN0465,17-09-2022,46309,24484,21825,Operations,North America,IT,Software,B2B,Cash,27%
+TXN0466,16-11-2022,6732,27226,-20494,HR,Africa,Finance,Healthcare,SMB,Cash,2%
+TXN0467,19-02-2022,23095,17521,5574,Sales,Africa,Marketing,Software,Enterprise,Cash,24%
+TXN0468,28-11-2022,19186,16038,3148,Marketing,Africa,HR,Healthcare,SMB,Credit Card,3%
+TXN0469,24-08-2022,9511,23622,-14111,Sales,North America,IT,Clothing,Enterprise,PayPal,13%
+TXN0470,08-12-2023,6494,7502,-1008,Sales,Africa,Marketing,Clothing,B2C,Credit Card,4%
+TXN0471,24-12-2023,20756,17617,3139,R&D,Africa,Operations,Clothing,B2B,Bank Transfer,6%
+TXN0472,13-11-2022,45325,10855,34470,HR,Asia-Pacific,Operations,Healthcare,Enterprise,Bank Transfer,13%
+TXN0473,04-11-2022,11986,21902,-9916,Sales,North America,Finance,Healthcare,Enterprise,Bank Transfer,20%
+TXN0474,08-03-2022,46802,27203,19599,Marketing,Africa,IT,Furniture,SMB,Credit Card,26%
+TXN0475,26-02-2023,38299,8846,29453,R&D,Asia-Pacific,Sales,Healthcare,B2C,Cash,11%
+TXN0476,12-01-2023,7614,5107,2507,Marketing,Africa,IT,Clothing,B2C,Cash,4%
+TXN0477,31-03-2023,41933,12650,29283,Operations,North America,Marketing,Software,B2C,Cash,2%
+TXN0478,25-05-2022,17235,6575,10660,Sales,Africa,Sales,Electronics,B2B,Cash,27%
+TXN0479,23-08-2022,30404,6244,24160,R&D,North America,Finance,Healthcare,SMB,Cash,10%
+TXN0480,19-09-2023,31034,13034,18000,R&D,South America,HR,Healthcare,B2B,PayPal,20%
+TXN0481,15-04-2023,27294,12419,14875,R&D,Asia-Pacific,IT,Clothing,B2B,Bank Transfer,10%
+TXN0482,11-12-2022,26326,19948,6378,Sales,Africa,Finance,Clothing,SMB,Cash,0%
+TXN0483,24-06-2023,14184,18198,-4014,R&D,Africa,IT,Software,B2B,PayPal,1%
+TXN0484,27-08-2022,28491,6468,22023,Sales,Africa,HR,Healthcare,SMB,Credit Card,27%
+TXN0485,21-04-2022,43717,7130,36587,Sales,South America,Operations,Healthcare,B2B,Cash,19%
+TXN0486,03-04-2023,8063,11448,-3385,R&D,Africa,Operations,Electronics,Enterprise,Cash,10%
+TXN0487,10-10-2022,27352,14718,12634,R&D,North America,Sales,Healthcare,SMB,Bank Transfer,8%
+TXN0488,07-07-2022,45550,10422,35128,Sales,Africa,Operations,Clothing,B2B,PayPal,24%
+TXN0489,18-01-2023,7714,27716,-20002,HR,Asia-Pacific,Sales,Clothing,Enterprise,Credit Card,15%
+TXN0490,29-03-2023,37521,19273,18248,HR,Asia-Pacific,IT,Electronics,Enterprise,Credit Card,4%
+TXN0491,17-10-2023,39845,6180,33665,Operations,Europe,IT,Healthcare,Enterprise,Cash,25%
+TXN0492,20-08-2023,34647,10808,23839,HR,Africa,HR,Software,SMB,Credit Card,14%
+TXN0493,04-11-2023,33180,12605,20575,Operations,Europe,Operations,Healthcare,SMB,Credit Card,26%
+TXN0494,25-04-2022,5770,29333,-23563,R&D,Africa,HR,Clothing,SMB,Credit Card,25%
+TXN0495,16-07-2023,39206,8566,30640,Sales,Asia-Pacific,IT,Furniture,B2C,PayPal,21%
+TXN0496,05-04-2023,29063,12512,16551,Marketing,Europe,Marketing,Healthcare,SMB,PayPal,1%
+TXN0497,24-12-2023,31160,20726,10434,Marketing,Africa,Operations,Software,SMB,Cash,4%
+TXN0498,13-11-2023,31065,27810,3255,R&D,Africa,Marketing,Clothing,B2B,Cash,27%
+TXN0499,14-07-2023,40766,5166,35600,R&D,North America,IT,Software,SMB,Cash,7%
+TXN0500,01-01-2022,37717,17054,20663,R&D,Asia-Pacific,Finance,Electronics,B2C,Cash,14%
+TXN0501,06-11-2022,25455,21119,4336,Sales,Africa,Marketing,Software,B2C,Bank Transfer,21%
+TXN0502,29-06-2022,30045,8011,22034,Operations,Africa,IT,Electronics,SMB,PayPal,5%
+TXN0503,24-10-2022,13051,11878,1173,R&D,North America,Sales,Software,SMB,Cash,1%
+TXN0504,20-11-2022,21988,17960,4028,Marketing,Africa,Operations,Healthcare,SMB,Credit Card,15%
+TXN0505,09-02-2023,29188,24624,4564,R&D,Africa,IT,Healthcare,SMB,Cash,19%
+TXN0506,08-04-2022,22033,7808,14225,R&D,Europe,Operations,Software,SMB,Credit Card,2%
+TXN0507,28-07-2022,7527,8911,-1384,Marketing,Europe,Marketing,Software,SMB,Bank Transfer,13%
+TXN0508,12-10-2023,33578,22796,10782,R&D,North America,Sales,Electronics,B2C,PayPal,18%
+TXN0509,15-10-2022,39400,18756,20644,Marketing,Asia-Pacific,IT,Software,B2B,Credit Card,17%
+TXN0510,31-01-2023,26280,13227,13053,R&D,Africa,Marketing,Healthcare,Enterprise,Cash,23%
+TXN0511,19-04-2023,27959,19050,8909,R&D,Africa,IT,Electronics,SMB,Credit Card,3%
+TXN0512,26-03-2022,23712,12313,11399,Operations,North America,HR,Electronics,SMB,PayPal,18%
+TXN0513,20-10-2022,12128,4936,7192,Marketing,Asia-Pacific,IT,Furniture,SMB,Cash,1%
+TXN0514,26-08-2023,10268,25942,-15674,R&D,Europe,Finance,Healthcare,B2B,Cash,7%
+TXN0515,21-12-2022,49552,9901,39651,R&D,South America,IT,Clothing,B2C,Cash,20%
+TXN0516,12-12-2022,45119,25759,19360,R&D,North America,HR,Furniture,B2C,Cash,18%
+TXN0517,01-08-2022,6662,11752,-5090,Sales,Africa,Finance,Software,B2B,Cash,11%
+TXN0518,26-01-2023,36839,3767,33072,R&D,Africa,IT,Healthcare,B2B,Cash,18%
+TXN0519,03-10-2022,42979,8469,34510,Marketing,North America,IT,Healthcare,SMB,Credit Card,21%
+TXN0520,12-04-2022,28843,4463,24380,HR,South America,Finance,Furniture,B2C,Cash,9%
+TXN0521,19-07-2023,12242,6786,5456,R&D,North America,Marketing,Healthcare,B2B,PayPal,8%
+TXN0522,20-05-2022,6096,5839,257,HR,Africa,IT,Healthcare,B2C,Cash,9%
+TXN0523,24-12-2023,21791,29079,-7288,R&D,Asia-Pacific,IT,Electronics,B2B,PayPal,29%
+TXN0524,23-08-2023,32032,11112,20920,Sales,Africa,Operations,Electronics,SMB,Cash,6%
+TXN0525,05-06-2023,34486,22536,11950,HR,Africa,IT,Electronics,B2C,Credit Card,20%
+TXN0526,03-12-2022,16231,9312,6919,Marketing,Africa,Finance,Healthcare,B2C,Cash,5%
+TXN0527,07-11-2022,15885,12344,3541,R&D,Africa,HR,Healthcare,SMB,Bank Transfer,0%
+TXN0528,04-01-2023,34382,27128,7254,Sales,Africa,Marketing,Healthcare,B2B,Credit Card,7%
+TXN0529,10-08-2023,34115,7511,26604,R&D,Africa,IT,Software,SMB,Cash,19%
+TXN0530,09-06-2023,10322,3197,7125,Operations,South America,Sales,Electronics,Enterprise,Credit Card,10%
+TXN0531,07-08-2022,36717,27640,9077,Sales,South America,Marketing,Clothing,B2C,Bank Transfer,17%
+TXN0532,30-11-2023,44145,17482,26663,R&D,North America,Sales,Software,Enterprise,Bank Transfer,3%
+TXN0533,03-08-2023,39080,10595,28485,R&D,Europe,Operations,Clothing,SMB,Cash,19%
+TXN0534,07-11-2022,45095,23526,21569,Marketing,Africa,Operations,Electronics,B2C,Credit Card,3%
+TXN0535,31-08-2023,13767,10659,3108,Marketing,Asia-Pacific,Operations,Healthcare,SMB,Cash,28%
+TXN0536,13-11-2022,7541,3565,3976,Sales,North America,Sales,Clothing,SMB,Cash,1%
+TXN0537,22-12-2023,25126,24331,795,R&D,North America,Sales,Healthcare,SMB,Cash,26%
+TXN0538,12-09-2022,42677,27544,15133,Marketing,Asia-Pacific,IT,Electronics,B2C,Credit Card,27%
+TXN0539,27-03-2022,6556,4193,2363,Sales,South America,Finance,Healthcare,B2B,Bank Transfer,22%
+TXN0540,29-07-2022,34639,11275,23364,HR,Africa,IT,Healthcare,SMB,Credit Card,20%
+TXN0541,26-05-2023,7024,5177,1847,R&D,North America,HR,Healthcare,B2B,Bank Transfer,12%
+TXN0542,27-05-2023,13229,29343,-16114,HR,Europe,IT,Clothing,B2C,Cash,28%
+TXN0543,23-10-2023,27466,6292,21174,Sales,North America,Marketing,Software,SMB,PayPal,8%
+TXN0544,24-07-2022,39534,27159,12375,Operations,Asia-Pacific,Operations,Clothing,SMB,Cash,26%
+TXN0545,14-05-2022,10388,20736,-10348,R&D,Africa,IT,Software,Enterprise,Cash,22%
+TXN0546,25-07-2023,12106,17767,-5661,Operations,South America,Finance,Clothing,SMB,Cash,28%
+TXN0547,05-11-2023,17846,12356,5490,Sales,North America,IT,Healthcare,SMB,Cash,27%
+TXN0548,12-12-2023,23335,10349,12986,Marketing,Africa,Operations,Electronics,B2B,Bank Transfer,28%
+TXN0549,27-12-2023,15101,24352,-9251,R&D,Africa,Marketing,Electronics,Enterprise,Cash,25%
+TXN0550,26-01-2023,9243,22425,-13182,R&D,Africa,Sales,Furniture,B2C,PayPal,18%
+TXN0551,20-01-2023,37600,20934,16666,R&D,Europe,Operations,Furniture,B2C,Cash,15%
+TXN0552,11-07-2023,29978,24331,5647,Operations,Africa,IT,Healthcare,SMB,Cash,20%
+TXN0553,17-04-2022,46078,9185,36893,Sales,Africa,IT,Healthcare,SMB,Cash,15%
+TXN0554,23-07-2023,32164,25412,6752,Sales,Africa,IT,Electronics,B2C,Bank Transfer,10%
+TXN0555,05-10-2023,17021,9130,7891,Marketing,Africa,Finance,Electronics,Enterprise,Cash,14%
+TXN0556,25-04-2023,9411,16549,-7138,R&D,Africa,Marketing,Clothing,B2B,Credit Card,24%
+TXN0557,31-12-2023,9513,27616,-18103,R&D,Africa,IT,Healthcare,SMB,Cash,18%
+TXN0558,06-07-2023,38252,14147,24105,R&D,Africa,Marketing,Electronics,B2C,Cash,7%
+TXN0559,18-09-2023,16462,3966,12496,Marketing,Asia-Pacific,IT,Software,SMB,Credit Card,10%
+TXN0560,02-09-2023,7595,3109,4486,R&D,South America,Operations,Electronics,Enterprise,Credit Card,0%
+TXN0561,12-04-2022,30178,14043,16135,Operations,South America,IT,Healthcare,Enterprise,Cash,23%
+TXN0562,05-01-2022,33890,8711,25179,Sales,Africa,Marketing,Electronics,SMB,Cash,28%
+TXN0563,29-08-2022,31313,18432,12881,R&D,Africa,IT,Software,SMB,Bank Transfer,8%
+TXN0564,05-01-2022,41055,9570,31485,R&D,South America,IT,Furniture,B2B,Cash,19%
+TXN0565,15-04-2023,19627,25150,-5523,R&D,Asia-Pacific,IT,Clothing,B2B,Cash,20%
+TXN0566,15-11-2023,34970,20028,14942,Marketing,North America,Operations,Clothing,SMB,Cash,22%
+TXN0567,25-01-2022,29473,27342,2131,R&D,Africa,IT,Healthcare,SMB,Cash,23%
+TXN0568,16-11-2022,17340,18863,-1523,Marketing,North America,Sales,Electronics,SMB,Cash,22%
+TXN0569,08-07-2023,42768,18988,23780,R&D,South America,Sales,Healthcare,B2B,PayPal,6%
+TXN0570,08-01-2023,45235,29078,16157,Sales,North America,IT,Clothing,B2C,Credit Card,21%
+TXN0571,24-02-2022,30652,28500,2152,Marketing,Africa,Operations,Software,B2C,Credit Card,16%
+TXN0572,22-06-2022,6600,3409,3191,Marketing,Asia-Pacific,Finance,Healthcare,B2C,PayPal,3%
+TXN0573,14-11-2023,46167,29619,16548,Sales,Europe,IT,Healthcare,Enterprise,Cash,25%
+TXN0574,17-04-2023,5284,11772,-6488,R&D,Africa,IT,Clothing,B2C,Credit Card,14%
+TXN0575,10-12-2022,43026,12720,30306,R&D,South America,Sales,Clothing,SMB,Cash,20%
+TXN0576,23-04-2023,17518,27728,-10210,Operations,Africa,Marketing,Electronics,SMB,Credit Card,15%
+TXN0577,31-12-2022,16448,25823,-9375,Operations,South America,IT,Healthcare,SMB,Cash,29%
+TXN0578,01-05-2023,27586,25555,2031,R&D,Asia-Pacific,Marketing,Electronics,SMB,Cash,16%
+TXN0579,28-01-2023,6797,19935,-13138,Sales,Africa,Marketing,Healthcare,SMB,PayPal,24%
+TXN0580,24-08-2022,23371,9283,14088,Marketing,North America,IT,Healthcare,SMB,Cash,27%
+TXN0581,05-05-2022,34886,15273,19613,HR,Asia-Pacific,Sales,Healthcare,B2B,Cash,8%
+TXN0582,13-11-2023,27007,10216,16791,R&D,Africa,IT,Healthcare,B2B,Cash,29%
+TXN0583,01-04-2023,10217,3045,7172,R&D,South America,IT,Software,SMB,Cash,7%
+TXN0584,16-05-2022,15474,3356,12118,Marketing,Africa,Marketing,Healthcare,Enterprise,Credit Card,11%
+TXN0585,06-10-2023,15920,15963,-43,Sales,South America,HR,Healthcare,SMB,Cash,22%
+TXN0586,11-09-2023,20490,6094,14396,Operations,Asia-Pacific,Marketing,Furniture,B2C,PayPal,16%
+TXN0587,20-07-2023,29266,12316,16950,Sales,Africa,HR,Software,Enterprise,Cash,22%
+TXN0588,06-01-2023,43050,14243,28807,HR,Europe,IT,Healthcare,SMB,Bank Transfer,19%
+TXN0589,12-01-2023,5425,3552,1873,R&D,Asia-Pacific,IT,Software,SMB,Cash,17%
+TXN0590,23-06-2022,27096,14652,12444,Operations,Africa,Operations,Software,SMB,Credit Card,28%
+TXN0591,31-10-2023,8180,29409,-21229,HR,Europe,IT,Clothing,SMB,Credit Card,3%
+TXN0592,15-07-2023,21134,15004,6130,Marketing,Asia-Pacific,IT,Electronics,SMB,Cash,28%
+TXN0593,28-01-2023,40051,19176,20875,R&D,Africa,Finance,Healthcare,SMB,Cash,16%
+TXN0594,26-08-2023,26259,11060,15199,R&D,Africa,Operations,Electronics,B2C,Bank Transfer,20%
+TXN0595,08-08-2023,34953,25229,9724,HR,Europe,Operations,Electronics,SMB,PayPal,29%
+TXN0596,17-02-2023,30561,5945,24616,R&D,Africa,Sales,Electronics,B2C,Cash,10%
+TXN0597,27-02-2023,34123,27054,7069,Operations,Africa,IT,Clothing,SMB,Cash,5%
+TXN0598,09-08-2023,8064,11497,-3433,Sales,Asia-Pacific,Sales,Software,Enterprise,Cash,8%
+TXN0599,05-01-2023,19553,23294,-3741,R&D,Asia-Pacific,IT,Clothing,SMB,Bank Transfer,7%
+TXN0600,30-03-2022,5802,5763,39,Operations,Africa,IT,Healthcare,SMB,Credit Card,28%
+TXN0601,04-05-2023,24883,22531,2352,R&D,Africa,Finance,Clothing,B2B,Cash,25%
+TXN0602,26-01-2022,8865,26262,-17397,R&D,North America,Operations,Healthcare,B2C,Cash,28%
+TXN0603,11-07-2023,23965,25339,-1374,Sales,Africa,Operations,Software,SMB,Cash,20%
+TXN0604,30-12-2022,41456,19748,21708,HR,Africa,Marketing,Software,B2B,Bank Transfer,24%
+TXN0605,25-06-2022,30518,9027,21491,Marketing,Africa,Marketing,Healthcare,Enterprise,Cash,14%
+TXN0606,28-05-2022,16045,14622,1423,Sales,Europe,Sales,Electronics,Enterprise,Cash,24%
+TXN0607,19-01-2023,44645,23995,20650,Sales,Africa,IT,Electronics,Enterprise,Cash,7%
+TXN0608,22-06-2023,18764,7029,11735,HR,Africa,Sales,Software,SMB,Cash,12%
+TXN0609,25-08-2023,24045,16828,7217,Marketing,Asia-Pacific,IT,Clothing,Enterprise,Credit Card,20%
+TXN0610,24-12-2022,26033,5675,20358,Marketing,Asia-Pacific,Sales,Healthcare,SMB,Credit Card,15%
+TXN0611,10-07-2022,37227,23188,14039,Sales,Africa,Finance,Healthcare,SMB,Credit Card,7%
+TXN0612,15-09-2022,27447,8725,18722,Operations,North America,Operations,Software,SMB,Cash,8%
+TXN0613,22-05-2023,15443,7848,7595,Operations,Africa,Marketing,Software,B2B,Cash,15%
+TXN0614,02-05-2022,38119,8195,29924,Marketing,Africa,Operations,Healthcare,SMB,Bank Transfer,19%
+TXN0615,31-01-2022,40483,9986,30497,HR,Africa,IT,Clothing,B2C,Cash,11%
+TXN0616,23-08-2022,37288,6338,30950,R&D,South America,IT,Software,SMB,Credit Card,6%
+TXN0617,17-07-2023,13642,13770,-128,Sales,Africa,IT,Furniture,B2B,Bank Transfer,18%
+TXN0618,09-12-2022,12354,3763,8591,HR,Africa,IT,Electronics,Enterprise,PayPal,21%
+TXN0619,10-05-2023,31666,26653,5013,Operations,Africa,IT,Furniture,SMB,Cash,20%
+TXN0620,15-12-2022,24609,4525,20084,Operations,Europe,IT,Furniture,Enterprise,PayPal,26%
+TXN0621,09-03-2023,33952,7868,26084,Operations,Africa,IT,Electronics,SMB,Credit Card,26%
+TXN0622,21-07-2022,24770,26797,-2027,Sales,North America,IT,Furniture,Enterprise,PayPal,28%
+TXN0623,24-08-2023,5488,21334,-15846,R&D,Africa,Sales,Electronics,SMB,Credit Card,3%
+TXN0624,22-03-2022,22737,4098,18639,R&D,Africa,Marketing,Healthcare,B2C,Cash,9%
+TXN0625,09-04-2022,43467,11929,31538,HR,North America,Finance,Software,SMB,Bank Transfer,18%
+TXN0626,20-08-2023,44681,27365,17316,Sales,Europe,Sales,Clothing,Enterprise,Cash,13%
+TXN0627,25-07-2022,37201,14655,22546,Marketing,Asia-Pacific,Marketing,Healthcare,B2C,PayPal,0%
+TXN0628,21-11-2022,29644,27076,2568,R&D,North America,IT,Electronics,SMB,Cash,0%
+TXN0629,28-10-2022,40223,28171,12052,Operations,Europe,HR,Electronics,SMB,Cash,19%
+TXN0630,15-09-2022,21977,22767,-790,R&D,Asia-Pacific,Marketing,Healthcare,SMB,Credit Card,26%
+TXN0631,09-11-2023,9247,16348,-7101,Sales,North America,HR,Healthcare,B2B,Cash,10%
+TXN0632,12-11-2023,45002,5961,39041,Sales,Africa,IT,Electronics,B2B,Cash,18%
+TXN0633,16-03-2022,9012,5994,3018,HR,Asia-Pacific,Finance,Electronics,B2B,Cash,11%
+TXN0634,24-04-2023,32999,7428,25571,Sales,Africa,Operations,Software,B2B,Bank Transfer,29%
+TXN0635,04-10-2023,10618,18745,-8127,Marketing,Africa,IT,Healthcare,Enterprise,Cash,24%
+TXN0636,24-11-2022,22985,5132,17853,R&D,Africa,Sales,Software,SMB,Cash,9%
+TXN0637,20-10-2023,19987,9918,10069,R&D,Africa,HR,Electronics,SMB,Bank Transfer,28%
+TXN0638,04-01-2022,42469,29271,13198,Marketing,North America,Finance,Software,Enterprise,Credit Card,21%
+TXN0639,04-12-2022,6057,12323,-6266,R&D,Asia-Pacific,HR,Electronics,B2C,PayPal,11%
+TXN0640,05-09-2022,30172,5957,24215,Operations,Europe,Operations,Healthcare,Enterprise,Cash,28%
+TXN0641,15-08-2022,24417,18100,6317,R&D,Africa,HR,Healthcare,SMB,Cash,11%
+TXN0642,18-04-2022,13855,22745,-8890,Marketing,Africa,IT,Software,B2B,Cash,13%
+TXN0643,14-12-2022,23678,16417,7261,Marketing,Africa,Sales,Clothing,Enterprise,Credit Card,17%
+TXN0644,05-06-2022,17091,17742,-651,R&D,Africa,Marketing,Electronics,B2B,PayPal,25%
+TXN0645,26-02-2023,31110,26688,4422,Marketing,North America,Finance,Healthcare,Enterprise,Bank Transfer,5%
+TXN0646,20-02-2023,30073,13936,16137,Sales,North America,Finance,Healthcare,SMB,Cash,18%
+TXN0647,30-11-2023,15461,19032,-3571,HR,Africa,IT,Healthcare,Enterprise,Cash,13%
+TXN0648,06-07-2023,6317,21402,-15085,R&D,Europe,Sales,Software,SMB,PayPal,29%
+TXN0649,18-04-2023,40787,16610,24177,R&D,North America,Sales,Clothing,B2C,Cash,27%
+TXN0650,27-11-2022,45161,13084,32077,HR,Africa,Finance,Healthcare,SMB,Cash,9%
+TXN0651,03-04-2023,10847,24133,-13286,R&D,North America,HR,Furniture,Enterprise,Bank Transfer,6%
+TXN0652,26-05-2022,21641,24972,-3331,Marketing,Africa,IT,Electronics,SMB,Bank Transfer,3%
+TXN0653,09-10-2023,15962,19530,-3568,Operations,South America,IT,Clothing,SMB,Bank Transfer,14%
+TXN0654,07-09-2022,6153,25590,-19437,Operations,South America,HR,Furniture,SMB,Cash,10%
+TXN0655,22-06-2023,43717,12846,30871,R&D,Asia-Pacific,IT,Clothing,Enterprise,Credit Card,13%
+TXN0656,25-04-2023,49110,29601,19509,Sales,Africa,HR,Furniture,Enterprise,PayPal,27%
+TXN0657,26-12-2022,41083,23189,17894,HR,Africa,Marketing,Healthcare,B2B,Bank Transfer,24%
+TXN0658,28-02-2023,38352,12347,26005,Sales,Africa,Marketing,Healthcare,B2B,Bank Transfer,12%
+TXN0659,06-12-2022,8830,28694,-19864,HR,North America,Marketing,Electronics,B2C,Credit Card,14%
+TXN0660,31-10-2022,28272,12590,15682,Sales,Africa,IT,Furniture,B2B,Cash,7%
+TXN0661,24-05-2023,31771,21761,10010,R&D,South America,HR,Healthcare,B2B,Credit Card,7%
+TXN0662,13-07-2022,23597,21750,1847,R&D,Asia-Pacific,Operations,Electronics,SMB,Credit Card,18%
+TXN0663,19-04-2023,49824,25827,23997,Sales,Africa,Operations,Furniture,SMB,Credit Card,14%
+TXN0664,02-09-2023,45502,8487,37015,R&D,Africa,Marketing,Clothing,SMB,Cash,15%
+TXN0665,06-08-2022,30003,14098,15905,R&D,North America,Finance,Healthcare,SMB,Credit Card,9%
+TXN0666,18-06-2023,39344,14701,24643,Operations,Europe,Operations,Healthcare,SMB,Cash,23%
+TXN0667,16-05-2023,41712,12392,29320,Marketing,Africa,IT,Software,SMB,Cash,22%
+TXN0668,19-08-2023,6662,17323,-10661,Marketing,Asia-Pacific,HR,Healthcare,SMB,Cash,22%
+TXN0669,11-05-2023,13333,4746,8587,R&D,Europe,IT,Healthcare,SMB,Cash,22%
+TXN0670,27-11-2022,47704,10706,36998,HR,Asia-Pacific,Sales,Software,B2B,Credit Card,12%
+TXN0671,19-06-2023,39960,23951,16009,R&D,Africa,Operations,Electronics,B2C,Cash,23%
+TXN0672,15-01-2023,11363,22041,-10678,R&D,South America,Marketing,Clothing,SMB,Credit Card,3%
+TXN0673,10-08-2022,43883,25264,18619,R&D,South America,Operations,Clothing,Enterprise,Credit Card,9%
+TXN0674,08-09-2022,9227,7266,1961,Operations,North America,Marketing,Electronics,SMB,PayPal,10%
+TXN0675,21-01-2023,39461,19962,19499,R&D,Africa,Sales,Healthcare,SMB,Cash,29%
+TXN0676,08-10-2022,24795,28971,-4176,R&D,Africa,Sales,Software,Enterprise,Credit Card,1%
+TXN0677,04-01-2023,21882,22464,-582,Sales,Africa,HR,Software,B2C,PayPal,27%
+TXN0678,28-02-2023,9508,26513,-17005,R&D,North America,Marketing,Software,B2B,Credit Card,18%
+TXN0679,23-10-2023,28561,13134,15427,R&D,Europe,HR,Clothing,Enterprise,Credit Card,8%
+TXN0680,25-04-2023,41883,18750,23133,R&D,Africa,Sales,Healthcare,B2B,Credit Card,12%
+TXN0681,17-11-2022,24057,18739,5318,Sales,South America,Finance,Healthcare,Enterprise,Cash,22%
+TXN0682,01-03-2022,28092,27215,877,Marketing,North America,IT,Healthcare,SMB,Cash,26%
+TXN0683,02-08-2022,35130,17779,17351,HR,Europe,Operations,Clothing,B2C,Credit Card,9%
+TXN0684,29-11-2023,15467,14149,1318,Operations,Europe,Operations,Furniture,SMB,PayPal,16%
+TXN0685,16-05-2022,9711,21319,-11608,HR,Africa,Sales,Electronics,SMB,Credit Card,22%
+TXN0686,30-04-2022,13870,13110,760,R&D,Africa,Sales,Electronics,SMB,Bank Transfer,17%
+TXN0687,31-01-2023,46881,9496,37385,Marketing,North America,Marketing,Furniture,B2B,Cash,27%
+TXN0688,15-09-2023,26905,10824,16081,Operations,South America,Sales,Healthcare,B2B,Cash,23%
+TXN0689,17-11-2022,16439,4658,11781,Sales,Asia-Pacific,IT,Furniture,SMB,Credit Card,20%
+TXN0690,04-07-2022,22656,13900,8756,R&D,North America,IT,Clothing,B2C,Credit Card,2%
+TXN0691,23-03-2022,44646,4221,40425,Marketing,Africa,Operations,Clothing,SMB,Cash,16%
+TXN0692,29-08-2022,27130,27529,-399,R&D,Africa,Operations,Electronics,B2C,Cash,11%
+TXN0693,19-11-2023,29972,6618,23354,Sales,North America,IT,Software,Enterprise,Credit Card,17%
+TXN0694,04-01-2022,17074,24657,-7583,R&D,Europe,IT,Healthcare,B2B,Bank Transfer,8%
+TXN0695,19-03-2023,32858,14314,18544,R&D,South America,IT,Electronics,SMB,PayPal,21%
+TXN0696,10-07-2023,9164,12602,-3438,Marketing,Africa,Operations,Healthcare,Enterprise,Bank Transfer,12%
+TXN0697,21-02-2023,24783,24734,49,HR,Africa,HR,Electronics,SMB,Bank Transfer,24%
+TXN0698,03-06-2022,7529,27170,-19641,HR,Europe,Marketing,Healthcare,SMB,Credit Card,17%
+TXN0699,19-07-2023,16075,20712,-4637,Sales,Asia-Pacific,Finance,Software,B2B,Cash,29%
+TXN0700,23-04-2022,18133,10497,7636,HR,Europe,IT,Furniture,B2C,Cash,12%
+TXN0701,09-02-2022,48976,11494,37482,Operations,Africa,Operations,Healthcare,B2C,Cash,8%
+TXN0702,11-10-2022,42050,29209,12841,R&D,South America,IT,Healthcare,SMB,PayPal,17%
+TXN0703,30-11-2023,38795,19321,19474,Marketing,Asia-Pacific,IT,Furniture,SMB,Cash,13%
+TXN0704,05-10-2023,14642,16462,-1820,Sales,Asia-Pacific,Sales,Healthcare,SMB,Credit Card,0%
+TXN0705,16-04-2023,13168,3344,9824,R&D,Europe,Sales,Healthcare,B2C,Cash,21%
+TXN0706,01-08-2022,19471,6523,12948,R&D,North America,IT,Healthcare,B2C,Cash,22%
+TXN0707,12-10-2023,5939,12214,-6275,Operations,Africa,IT,Healthcare,Enterprise,Cash,23%
+TXN0708,13-07-2022,13637,8503,5134,R&D,Africa,HR,Software,B2C,Credit Card,21%
+TXN0709,05-06-2022,22865,8353,14512,Sales,Europe,HR,Healthcare,SMB,Cash,18%
+TXN0710,24-08-2022,45277,28478,16799,Marketing,North America,HR,Clothing,SMB,Cash,25%
+TXN0711,15-02-2023,16746,22934,-6188,Operations,South America,Operations,Healthcare,B2B,Cash,19%
+TXN0712,12-08-2022,17256,8238,9018,Marketing,North America,Finance,Healthcare,Enterprise,Credit Card,20%
+TXN0713,07-11-2022,18560,17356,1204,Operations,North America,IT,Electronics,B2B,Credit Card,25%
+TXN0714,29-11-2022,20212,8537,11675,R&D,Africa,IT,Furniture,B2B,PayPal,5%
+TXN0715,01-08-2022,43585,14639,28946,R&D,Africa,IT,Healthcare,B2B,Bank Transfer,28%
+TXN0716,17-04-2023,8183,24123,-15940,R&D,North America,Sales,Software,SMB,PayPal,24%
+TXN0717,10-05-2023,7689,28432,-20743,Sales,Africa,Marketing,Healthcare,B2B,PayPal,13%
+TXN0718,15-09-2023,23726,27885,-4159,Marketing,North America,IT,Clothing,B2B,Cash,16%
+TXN0719,06-10-2022,30542,7611,22931,Marketing,Africa,Marketing,Healthcare,Enterprise,Cash,0%
+TXN0720,31-01-2023,12089,17201,-5112,Marketing,Asia-Pacific,Marketing,Clothing,Enterprise,Bank Transfer,25%
+TXN0721,24-06-2023,19426,23774,-4348,R&D,Europe,Operations,Healthcare,B2C,Cash,2%
+TXN0722,29-07-2023,45153,11427,33726,Operations,Asia-Pacific,Sales,Clothing,B2B,Credit Card,9%
+TXN0723,10-07-2022,30572,23229,7343,R&D,South America,Finance,Furniture,B2B,Cash,8%
+TXN0724,16-06-2022,17928,18287,-359,R&D,Africa,IT,Electronics,B2B,Cash,1%
+TXN0725,11-10-2022,15323,26573,-11250,R&D,Africa,IT,Healthcare,B2B,Bank Transfer,12%
+TXN0726,28-03-2023,13044,6896,6148,R&D,North America,IT,Furniture,B2B,Cash,1%
+TXN0727,09-12-2023,8612,6689,1923,R&D,South America,HR,Healthcare,SMB,Cash,13%
+TXN0728,02-10-2023,14515,28307,-13792,R&D,Africa,HR,Software,SMB,Cash,3%
+TXN0729,31-10-2023,33505,3717,29788,R&D,North America,IT,Software,SMB,Cash,1%
+TXN0730,25-05-2022,38273,22944,15329,Sales,Asia-Pacific,Marketing,Healthcare,Enterprise,Cash,0%
+TXN0731,08-01-2022,36861,16358,20503,R&D,Africa,Marketing,Software,B2C,Credit Card,4%
+TXN0732,11-04-2023,49720,25707,24013,R&D,Africa,Marketing,Healthcare,SMB,Cash,2%
+TXN0733,14-12-2022,41237,28236,13001,R&D,Asia-Pacific,Finance,Healthcare,SMB,Cash,1%
+TXN0734,16-02-2022,33532,27728,5804,Sales,Asia-Pacific,IT,Healthcare,B2B,Credit Card,26%
+TXN0735,25-04-2022,40526,26385,14141,HR,Europe,IT,Electronics,B2B,Cash,11%
+TXN0736,25-11-2022,29556,16017,13539,R&D,South America,Finance,Electronics,B2C,Credit Card,19%
+TXN0737,29-03-2022,28972,16671,12301,Marketing,Africa,Marketing,Healthcare,B2C,PayPal,7%
+TXN0738,11-08-2023,14689,19006,-4317,Sales,Africa,IT,Electronics,SMB,Cash,2%
+TXN0739,28-08-2022,16982,7648,9334,Sales,Europe,Operations,Furniture,B2B,Cash,10%
+TXN0740,17-05-2022,25020,12354,12666,R&D,Africa,IT,Electronics,B2C,Bank Transfer,2%
+TXN0741,28-05-2023,24715,19067,5648,Sales,Africa,Operations,Clothing,B2B,Cash,7%
+TXN0742,17-02-2022,36819,4615,32204,R&D,Asia-Pacific,IT,Electronics,B2C,Bank Transfer,4%
+TXN0743,02-07-2022,30997,3271,27726,Operations,Africa,Marketing,Healthcare,SMB,PayPal,17%
+TXN0744,18-01-2023,42130,19159,22971,R&D,Africa,Sales,Healthcare,B2C,Cash,14%
+TXN0745,15-06-2023,45863,13730,32133,R&D,Africa,HR,Electronics,B2B,PayPal,2%
+TXN0746,26-09-2022,9600,24083,-14483,R&D,Africa,IT,Furniture,B2B,Cash,29%
+TXN0747,24-02-2022,6966,23453,-16487,R&D,Africa,IT,Healthcare,Enterprise,PayPal,7%
+TXN0748,26-02-2023,27302,23030,4272,HR,Africa,HR,Healthcare,SMB,Cash,8%
+TXN0749,07-11-2022,42474,5311,37163,Sales,South America,Marketing,Software,SMB,Bank Transfer,17%
+TXN0750,30-01-2022,37190,29706,7484,Sales,Africa,IT,Healthcare,SMB,Cash,22%
+TXN0751,29-09-2023,37105,7238,29867,HR,South America,IT,Healthcare,B2C,PayPal,9%
+TXN0752,11-12-2022,18651,27177,-8526,R&D,Asia-Pacific,IT,Clothing,SMB,Bank Transfer,5%
+TXN0753,24-03-2023,22692,27127,-4435,R&D,North America,Operations,Clothing,B2B,PayPal,23%
+TXN0754,10-08-2022,13877,27709,-13832,R&D,Europe,Marketing,Clothing,SMB,Bank Transfer,3%
+TXN0755,21-05-2022,6228,18002,-11774,Marketing,Asia-Pacific,Operations,Healthcare,SMB,PayPal,6%
+TXN0756,22-10-2023,18750,25018,-6268,HR,Asia-Pacific,IT,Software,B2B,Credit Card,7%
+TXN0757,05-08-2022,34289,14243,20046,R&D,North America,Marketing,Software,SMB,Cash,2%
+TXN0758,19-06-2022,39701,15220,24481,HR,Africa,IT,Healthcare,B2C,PayPal,22%
+TXN0759,05-01-2023,31071,27030,4041,R&D,South America,Finance,Clothing,SMB,Credit Card,2%
+TXN0760,25-06-2022,42595,28634,13961,R&D,Africa,Marketing,Electronics,SMB,PayPal,19%
+TXN0761,17-08-2023,17196,28862,-11666,R&D,Europe,Finance,Software,SMB,Credit Card,0%
+TXN0762,02-03-2022,6646,12256,-5610,Sales,Europe,Finance,Clothing,SMB,PayPal,11%
+TXN0763,18-04-2023,36335,16437,19898,R&D,Africa,IT,Healthcare,B2C,Cash,14%
+TXN0764,19-09-2023,47172,23854,23318,Marketing,Africa,Operations,Furniture,B2C,Credit Card,11%
+TXN0765,24-08-2023,39531,19619,19912,R&D,Asia-Pacific,Marketing,Healthcare,SMB,PayPal,23%
+TXN0766,02-05-2023,16606,24552,-7946,Marketing,Africa,IT,Healthcare,B2C,Bank Transfer,3%
+TXN0767,06-02-2023,23116,29408,-6292,R&D,Asia-Pacific,Finance,Electronics,B2C,Cash,5%
+TXN0768,23-02-2023,34530,16222,18308,Sales,Africa,Sales,Electronics,SMB,Bank Transfer,3%
+TXN0769,03-06-2023,18128,21411,-3283,R&D,North America,IT,Healthcare,SMB,PayPal,9%
+TXN0770,22-12-2022,48293,20756,27537,Marketing,North America,Marketing,Electronics,B2B,Bank Transfer,25%
+TXN0771,03-12-2023,26001,9759,16242,R&D,Africa,Sales,Healthcare,Enterprise,Cash,9%
+TXN0772,27-09-2022,25524,3262,22262,Sales,North America,HR,Healthcare,SMB,Cash,17%
+TXN0773,08-06-2022,20270,14288,5982,R&D,North America,Marketing,Electronics,SMB,Cash,24%
+TXN0774,30-07-2022,13925,28550,-14625,HR,North America,Operations,Healthcare,B2B,PayPal,14%
+TXN0775,21-07-2023,32159,16032,16127,HR,Africa,HR,Clothing,B2B,Cash,5%
+TXN0776,20-06-2022,48877,8779,40098,R&D,Europe,Operations,Healthcare,B2B,Cash,29%
+TXN0777,19-06-2023,24748,28670,-3922,R&D,Europe,HR,Electronics,B2B,Cash,3%
+TXN0778,02-01-2023,34691,11608,23083,Sales,Africa,IT,Clothing,B2B,Bank Transfer,7%
+TXN0779,22-04-2023,30555,10522,20033,Marketing,Africa,Operations,Furniture,B2B,Cash,20%
+TXN0780,18-07-2023,20958,4820,16138,R&D,Europe,IT,Software,SMB,Bank Transfer,7%
+TXN0781,28-12-2023,36666,8287,28379,Marketing,Africa,IT,Healthcare,Enterprise,Cash,2%
+TXN0782,16-11-2023,40847,16163,24684,Operations,North America,IT,Software,B2C,Cash,19%
+TXN0783,26-08-2022,20501,12015,8486,Sales,South America,Finance,Furniture,SMB,Cash,26%
+TXN0784,29-05-2022,21664,9599,12065,Sales,North America,Sales,Clothing,B2C,Credit Card,11%
+TXN0785,02-04-2022,43766,24814,18952,Sales,Asia-Pacific,IT,Software,B2C,PayPal,10%
+TXN0786,30-05-2023,44734,21931,22803,Sales,Africa,Finance,Furniture,B2B,Cash,7%
+TXN0787,25-03-2023,46472,23721,22751,Marketing,Europe,IT,Healthcare,B2B,Cash,25%
+TXN0788,02-04-2023,37997,17710,20287,R&D,South America,Marketing,Clothing,SMB,Credit Card,24%
+TXN0789,21-08-2022,8098,8462,-364,HR,Africa,Operations,Healthcare,B2C,Cash,14%
+TXN0790,26-04-2023,21207,14536,6671,Operations,Europe,Operations,Healthcare,B2B,Bank Transfer,17%
+TXN0791,02-03-2022,48196,13509,34687,Marketing,North America,IT,Electronics,B2B,Bank Transfer,2%
+TXN0792,24-02-2022,7930,15607,-7677,R&D,North America,IT,Electronics,SMB,Cash,24%
+TXN0793,22-12-2023,22962,6876,16086,Sales,Asia-Pacific,IT,Clothing,B2B,Cash,15%
+TXN0794,05-09-2022,8431,29376,-20945,Operations,North America,IT,Healthcare,B2C,Cash,8%
+TXN0795,20-01-2022,33949,26104,7845,Marketing,Africa,Marketing,Furniture,SMB,Cash,9%
+TXN0796,28-07-2023,39203,16903,22300,R&D,Africa,Marketing,Electronics,B2C,Bank Transfer,12%
+TXN0797,20-03-2023,39407,26993,12414,R&D,North America,Sales,Software,B2C,Cash,8%
+TXN0798,08-09-2022,24476,7173,17303,Marketing,Europe,Sales,Healthcare,Enterprise,Cash,9%
+TXN0799,10-05-2023,23109,13756,9353,R&D,Europe,Sales,Healthcare,SMB,Cash,18%
+TXN0800,13-11-2023,21095,27990,-6895,Operations,Europe,Marketing,Furniture,B2B,Bank Transfer,22%
+TXN0801,12-09-2023,10084,22432,-12348,R&D,North America,IT,Furniture,SMB,Credit Card,22%
+TXN0802,30-04-2022,42202,6567,35635,Marketing,Asia-Pacific,IT,Furniture,B2C,Cash,16%
+TXN0803,06-12-2023,48681,22984,25697,R&D,Europe,HR,Healthcare,SMB,Bank Transfer,21%
+TXN0804,13-04-2023,13303,29586,-16283,R&D,Europe,HR,Electronics,SMB,Bank Transfer,10%
+TXN0805,17-04-2022,5284,12878,-7594,HR,Europe,Sales,Healthcare,SMB,Bank Transfer,27%
+TXN0806,29-05-2022,10952,24367,-13415,R&D,Asia-Pacific,Finance,Software,SMB,Cash,26%
+TXN0807,10-07-2022,12501,26671,-14170,R&D,Europe,Marketing,Healthcare,B2B,Cash,1%
+TXN0808,27-12-2022,11588,27261,-15673,Sales,North America,IT,Clothing,SMB,PayPal,14%
+TXN0809,30-05-2022,26950,9294,17656,Operations,North America,Sales,Electronics,B2B,Bank Transfer,9%
+TXN0810,01-05-2022,45482,23475,22007,Marketing,Africa,IT,Furniture,SMB,Cash,8%
+TXN0811,30-03-2023,35018,4308,30710,Operations,Africa,IT,Healthcare,B2B,Cash,17%
+TXN0812,14-07-2023,7421,10353,-2932,R&D,North America,Operations,Software,SMB,Bank Transfer,27%
+TXN0813,24-08-2022,15915,14371,1544,Marketing,Africa,Sales,Healthcare,Enterprise,Bank Transfer,27%
+TXN0814,04-05-2023,24687,7984,16703,Marketing,Africa,Marketing,Healthcare,B2B,Cash,18%
+TXN0815,15-03-2022,19764,22480,-2716,R&D,Europe,HR,Software,SMB,Cash,23%
+TXN0816,10-02-2022,47756,20358,27398,R&D,North America,HR,Healthcare,SMB,Bank Transfer,1%
+TXN0817,03-02-2023,5804,17751,-11947,Marketing,Africa,HR,Healthcare,B2B,Bank Transfer,3%
+TXN0818,12-07-2022,39378,7216,32162,Operations,South America,Sales,Software,SMB,Cash,3%
+TXN0819,20-03-2022,32734,15445,17289,R&D,Africa,Marketing,Healthcare,B2B,PayPal,27%
+TXN0820,23-12-2023,17057,11809,5248,HR,Africa,HR,Clothing,SMB,Cash,9%
+TXN0821,22-04-2023,24536,20562,3974,Operations,South America,Sales,Software,B2B,PayPal,1%
+TXN0822,04-02-2023,29728,7521,22207,R&D,North America,Operations,Healthcare,B2C,Cash,21%
+TXN0823,31-10-2022,44907,10934,33973,Sales,Asia-Pacific,Marketing,Electronics,B2B,Cash,13%
+TXN0824,30-04-2023,36982,13325,23657,Marketing,North America,IT,Clothing,SMB,Cash,25%
+TXN0825,15-04-2023,21617,22573,-956,R&D,Africa,IT,Healthcare,SMB,Bank Transfer,26%
+TXN0826,21-06-2023,23448,28287,-4839,Marketing,Africa,Sales,Clothing,B2C,Credit Card,17%
+TXN0827,31-12-2023,14905,18693,-3788,Sales,Asia-Pacific,Sales,Clothing,B2B,PayPal,6%
+TXN0828,05-03-2022,13458,18291,-4833,Sales,South America,IT,Healthcare,B2C,Cash,28%
+TXN0829,19-07-2022,26308,23301,3007,R&D,North America,HR,Healthcare,B2C,Cash,14%
+TXN0830,04-07-2022,43383,15842,27541,R&D,North America,Sales,Healthcare,B2C,Bank Transfer,1%
+TXN0831,01-11-2022,15967,9006,6961,R&D,Africa,IT,Furniture,SMB,Cash,24%
+TXN0832,19-02-2023,24680,28048,-3368,Marketing,Africa,HR,Healthcare,Enterprise,Cash,0%
+TXN0833,06-04-2022,23963,22952,1011,R&D,North America,HR,Healthcare,SMB,Bank Transfer,11%
+TXN0834,08-02-2023,28317,21206,7111,HR,Europe,Finance,Healthcare,B2C,PayPal,12%
+TXN0835,03-11-2023,7505,29953,-22448,Sales,Africa,Sales,Furniture,SMB,Cash,5%
+TXN0836,14-04-2023,34922,28511,6411,Sales,Asia-Pacific,Operations,Clothing,B2B,Cash,19%
+TXN0837,24-12-2022,43126,14807,28319,R&D,Asia-Pacific,Marketing,Healthcare,SMB,Bank Transfer,12%
+TXN0838,11-03-2022,39573,23853,15720,Marketing,South America,IT,Healthcare,Enterprise,Cash,13%
+TXN0839,05-03-2023,5982,23681,-17699,Sales,North America,Finance,Furniture,B2B,Cash,11%
+TXN0840,05-12-2023,44442,22729,21713,Marketing,Asia-Pacific,IT,Healthcare,B2B,Cash,7%
+TXN0841,27-07-2023,8479,10981,-2502,R&D,Europe,Marketing,Healthcare,B2B,PayPal,2%
+TXN0842,09-01-2023,44558,5551,39007,Sales,Africa,IT,Software,SMB,Cash,2%
+TXN0843,03-03-2023,11031,8505,2526,R&D,South America,IT,Healthcare,B2B,PayPal,29%
+TXN0844,20-04-2022,21158,11359,9799,HR,Europe,IT,Healthcare,SMB,Credit Card,11%
+TXN0845,11-09-2022,39346,3022,36324,Sales,Africa,IT,Healthcare,B2C,Cash,27%
+TXN0846,02-03-2023,8909,28459,-19550,Operations,Africa,IT,Software,B2B,Credit Card,4%
+TXN0847,23-04-2023,32267,27473,4794,R&D,North America,Sales,Healthcare,SMB,Bank Transfer,7%
+TXN0848,17-12-2022,24806,5262,19544,Marketing,Africa,Sales,Electronics,B2B,Bank Transfer,22%
+TXN0849,28-04-2022,49850,21103,28747,R&D,Africa,IT,Software,SMB,Credit Card,10%
+TXN0850,22-09-2022,30706,15063,15643,Sales,Europe,IT,Furniture,SMB,Credit Card,21%
+TXN0851,18-09-2022,43425,23005,20420,Sales,Africa,IT,Electronics,B2B,Cash,26%
+TXN0852,18-07-2022,31234,25113,6121,R&D,North America,IT,Software,SMB,Bank Transfer,20%
+TXN0853,21-02-2022,19031,22024,-2993,R&D,Africa,Operations,Healthcare,Enterprise,Bank Transfer,25%
+TXN0854,19-09-2023,28156,9153,19003,R&D,Africa,IT,Software,SMB,Credit Card,16%
+TXN0855,13-06-2023,5449,6520,-1071,R&D,Europe,IT,Electronics,SMB,Credit Card,18%
+TXN0856,21-08-2023,33191,20360,12831,Marketing,Africa,IT,Healthcare,SMB,Credit Card,19%
+TXN0857,27-06-2022,29150,27616,1534,R&D,North America,Sales,Clothing,B2C,Cash,22%
+TXN0858,19-07-2022,43093,25474,17619,Operations,Europe,Sales,Electronics,B2B,Cash,24%
+TXN0859,24-02-2023,8741,10666,-1925,Sales,Africa,IT,Furniture,SMB,Cash,24%
+TXN0860,04-11-2022,11340,23050,-11710,R&D,Africa,Marketing,Software,SMB,PayPal,27%
+TXN0861,09-04-2022,21964,28982,-7018,Sales,Africa,IT,Electronics,B2B,Bank Transfer,29%
+TXN0862,11-10-2022,18026,5984,12042,Sales,North America,IT,Clothing,B2B,Cash,21%
+TXN0863,29-04-2023,14582,25802,-11220,HR,North America,Sales,Healthcare,B2C,Cash,23%
+TXN0864,14-02-2023,45512,15989,29523,R&D,Africa,Operations,Healthcare,Enterprise,PayPal,28%
+TXN0865,16-07-2023,32109,24170,7939,R&D,North America,IT,Furniture,SMB,Cash,15%
+TXN0866,16-09-2022,41390,19288,22102,R&D,Asia-Pacific,IT,Electronics,SMB,Cash,23%
+TXN0867,26-01-2023,7658,26063,-18405,Operations,North America,HR,Clothing,SMB,Bank Transfer,13%
+TXN0868,06-11-2023,38134,16157,21977,R&D,Africa,Sales,Electronics,SMB,Credit Card,14%
+TXN0869,18-09-2023,23408,29335,-5927,Marketing,North America,IT,Clothing,SMB,Cash,1%
+TXN0870,29-05-2023,17062,4695,12367,R&D,North America,IT,Healthcare,SMB,Cash,0%
+TXN0871,02-08-2023,33263,5510,27753,R&D,Africa,Marketing,Electronics,B2C,Cash,0%
+TXN0872,24-01-2022,31995,22567,9428,R&D,Africa,Marketing,Healthcare,Enterprise,Cash,10%
+TXN0873,16-06-2023,6218,21294,-15076,R&D,Africa,Finance,Software,SMB,Cash,14%
+TXN0874,20-02-2023,20870,3691,17179,R&D,Africa,IT,Healthcare,SMB,Credit Card,15%
+TXN0875,13-09-2023,15675,4519,11156,HR,North America,HR,Healthcare,SMB,Credit Card,21%
+TXN0876,05-06-2023,47629,17135,30494,Sales,North America,IT,Healthcare,B2C,Cash,14%
+TXN0877,07-03-2022,46349,27927,18422,Sales,Africa,Sales,Furniture,B2B,Cash,3%
+TXN0878,25-07-2023,33421,4878,28543,R&D,North America,Finance,Healthcare,B2C,Bank Transfer,15%
+TXN0879,27-12-2023,24293,9402,14891,R&D,South America,Operations,Healthcare,B2B,PayPal,20%
+TXN0880,06-03-2022,43098,12086,31012,Sales,Asia-Pacific,Sales,Furniture,SMB,Cash,24%
+TXN0881,23-05-2022,45034,5083,39951,Operations,Europe,Marketing,Electronics,SMB,PayPal,22%
+TXN0882,31-07-2022,16618,20303,-3685,R&D,Asia-Pacific,IT,Healthcare,B2C,Credit Card,4%
+TXN0883,22-07-2023,38631,22542,16089,Marketing,North America,IT,Electronics,Enterprise,Cash,12%
+TXN0884,13-12-2023,19855,3752,16103,HR,Africa,IT,Software,B2B,Credit Card,23%
+TXN0885,31-12-2023,17995,10316,7679,Marketing,Africa,IT,Healthcare,SMB,Cash,3%
+TXN0886,21-06-2022,13012,22747,-9735,Sales,Africa,Sales,Healthcare,SMB,Cash,11%
+TXN0887,07-02-2023,11595,7582,4013,R&D,Africa,Operations,Electronics,B2B,Credit Card,4%
+TXN0888,07-04-2023,32309,29356,2953,Marketing,Africa,IT,Furniture,SMB,Bank Transfer,7%
+TXN0889,01-05-2022,6407,29698,-23291,Sales,Africa,Sales,Electronics,Enterprise,Credit Card,27%
+TXN0890,17-06-2023,24359,22276,2083,Sales,North America,Operations,Healthcare,SMB,PayPal,0%
+TXN0891,14-03-2022,18109,27192,-9083,R&D,Africa,IT,Software,SMB,Cash,13%
+TXN0892,09-08-2023,18814,28027,-9213,Marketing,Africa,Sales,Clothing,B2C,Credit Card,3%
+TXN0893,08-07-2022,18477,19875,-1398,Operations,Africa,Operations,Electronics,SMB,Bank Transfer,15%
+TXN0894,10-11-2023,26413,5452,20961,Marketing,Asia-Pacific,HR,Electronics,B2C,PayPal,27%
+TXN0895,17-07-2022,27568,27890,-322,R&D,North America,Marketing,Electronics,SMB,PayPal,11%
+TXN0896,15-09-2022,5002,15348,-10346,R&D,Asia-Pacific,IT,Clothing,B2B,Cash,14%
+TXN0897,16-12-2022,22696,29061,-6365,R&D,Asia-Pacific,IT,Electronics,B2B,Cash,3%
+TXN0898,11-11-2022,44435,11444,32991,Sales,North America,HR,Healthcare,SMB,Credit Card,5%
+TXN0899,15-04-2022,12576,21333,-8757,Sales,Africa,Finance,Clothing,Enterprise,Cash,28%
+TXN0900,20-05-2023,29883,22085,7798,Sales,North America,IT,Healthcare,SMB,Credit Card,14%
+TXN0901,08-01-2022,26690,15955,10735,Operations,Europe,Marketing,Clothing,B2B,Cash,2%
+TXN0902,09-07-2023,16672,18402,-1730,Sales,Africa,Marketing,Healthcare,SMB,Bank Transfer,25%
+TXN0903,02-03-2023,38450,25333,13117,HR,Africa,Marketing,Electronics,Enterprise,Cash,27%
+TXN0904,24-05-2023,18752,11394,7358,Sales,North America,IT,Healthcare,B2C,Cash,21%
+TXN0905,19-01-2022,27025,28517,-1492,R&D,Africa,Marketing,Clothing,SMB,Credit Card,3%
+TXN0906,17-06-2022,12694,20751,-8057,Sales,Africa,IT,Healthcare,B2B,Credit Card,24%
+TXN0907,16-09-2023,19706,15622,4084,Marketing,Europe,Finance,Clothing,B2C,Cash,24%
+TXN0908,10-10-2023,37816,6505,31311,Marketing,South America,Marketing,Electronics,SMB,Cash,2%
+TXN0909,29-05-2022,25518,22184,3334,R&D,Asia-Pacific,Finance,Furniture,Enterprise,Credit Card,3%
+TXN0910,24-10-2022,14938,18805,-3867,Sales,Europe,Finance,Healthcare,SMB,Credit Card,18%
+TXN0911,12-09-2022,11997,17997,-6000,R&D,Africa,IT,Healthcare,SMB,Credit Card,11%
+TXN0912,01-11-2022,29979,28898,1081,HR,Africa,Marketing,Software,B2B,PayPal,23%
+TXN0913,27-07-2022,24925,17426,7499,R&D,North America,Sales,Electronics,SMB,Credit Card,14%
+TXN0914,14-08-2022,48397,21829,26568,Marketing,Europe,IT,Healthcare,B2C,Bank Transfer,25%
+TXN0915,02-03-2023,9308,7013,2295,HR,Africa,IT,Software,B2C,Cash,2%
+TXN0916,22-09-2022,23150,19935,3215,Operations,Asia-Pacific,Marketing,Electronics,SMB,PayPal,25%
+TXN0917,17-06-2023,44276,4198,40078,R&D,Africa,HR,Healthcare,Enterprise,Cash,19%
+TXN0918,03-03-2022,29781,20781,9000,Operations,Europe,Marketing,Healthcare,Enterprise,Bank Transfer,28%
+TXN0919,06-02-2023,5136,11761,-6625,R&D,Europe,Sales,Clothing,SMB,Credit Card,28%
+TXN0920,13-02-2023,25981,25101,880,R&D,Africa,IT,Furniture,B2B,Credit Card,4%
+TXN0921,19-04-2022,24947,21663,3284,R&D,South America,IT,Healthcare,B2C,Cash,4%
+TXN0922,08-02-2022,20747,22482,-1735,Marketing,Asia-Pacific,Operations,Healthcare,B2C,PayPal,14%
+TXN0923,20-06-2022,12410,24618,-12208,Marketing,North America,Operations,Healthcare,SMB,Bank Transfer,11%
+TXN0924,29-01-2022,44970,20000,24970,Sales,North America,Sales,Healthcare,Enterprise,Cash,19%
+TXN0925,31-01-2022,7675,19236,-11561,HR,North America,IT,Healthcare,B2C,Cash,6%
+TXN0926,24-07-2022,28988,29132,-144,Sales,Africa,IT,Furniture,Enterprise,Cash,10%
+TXN0927,29-05-2023,24714,26094,-1380,Marketing,North America,Operations,Healthcare,SMB,Cash,20%
+TXN0928,21-07-2022,37781,10383,27398,Sales,Asia-Pacific,Marketing,Electronics,B2B,Bank Transfer,11%
+TXN0929,10-12-2023,32687,24957,7730,HR,Africa,Sales,Healthcare,SMB,Bank Transfer,6%
+TXN0930,20-09-2022,39701,17680,22021,Sales,South America,HR,Software,SMB,Credit Card,3%
+TXN0931,16-10-2022,30225,17701,12524,HR,Africa,Marketing,Healthcare,B2B,Cash,6%
+TXN0932,28-12-2023,35689,28905,6784,R&D,Europe,Sales,Electronics,B2B,Credit Card,14%
+TXN0933,03-04-2022,47300,14634,32666,Marketing,Africa,IT,Clothing,SMB,Cash,10%
+TXN0934,13-11-2023,40025,18063,21962,R&D,Europe,Operations,Software,SMB,Cash,1%
+TXN0935,09-11-2022,7499,13309,-5810,Marketing,Asia-Pacific,Finance,Healthcare,SMB,Cash,15%
+TXN0936,04-10-2023,36710,16909,19801,R&D,Europe,Finance,Healthcare,Enterprise,Bank Transfer,3%
+TXN0937,09-04-2022,32041,20193,11848,R&D,South America,IT,Electronics,Enterprise,Cash,15%
+TXN0938,16-07-2022,44081,4887,39194,HR,Asia-Pacific,IT,Clothing,Enterprise,PayPal,24%
+TXN0939,13-08-2023,39944,7283,32661,Sales,Africa,Marketing,Electronics,B2C,Credit Card,25%
+TXN0940,25-02-2023,11347,8570,2777,R&D,Africa,Marketing,Electronics,Enterprise,Cash,6%
+TXN0941,30-11-2023,23839,17797,6042,Sales,North America,IT,Healthcare,B2B,PayPal,17%
+TXN0942,16-09-2023,44054,26107,17947,Marketing,North America,HR,Clothing,B2C,Credit Card,27%
+TXN0943,24-11-2022,41029,18227,22802,R&D,Asia-Pacific,Marketing,Clothing,B2C,Bank Transfer,28%
+TXN0944,01-05-2023,17657,11444,6213,R&D,Africa,Operations,Healthcare,B2C,Cash,7%
+TXN0945,28-04-2023,13348,11048,2300,Sales,North America,IT,Clothing,B2C,Cash,7%
+TXN0946,10-05-2022,18277,8988,9289,Sales,North America,Marketing,Healthcare,Enterprise,Credit Card,27%
+TXN0947,25-09-2023,36981,17470,19511,R&D,Africa,Marketing,Healthcare,SMB,Credit Card,0%
+TXN0948,16-01-2023,20569,7054,13515,Operations,Africa,IT,Electronics,B2C,Bank Transfer,5%
+TXN0949,07-08-2022,38684,25162,13522,R&D,North America,IT,Healthcare,B2C,Bank Transfer,5%
+TXN0950,10-12-2022,7232,9799,-2567,Operations,North America,IT,Furniture,SMB,Cash,10%
+TXN0951,09-09-2022,32341,19269,13072,Marketing,Europe,IT,Healthcare,B2B,Cash,6%
+TXN0952,17-10-2023,38376,24093,14283,Marketing,Africa,Marketing,Healthcare,SMB,Credit Card,24%
+TXN0953,20-03-2022,28552,26622,1930,R&D,Africa,Marketing,Healthcare,SMB,Cash,12%
+TXN0954,20-01-2022,48666,26674,21992,Sales,North America,IT,Healthcare,SMB,Cash,29%
+TXN0955,21-05-2023,17880,9804,8076,R&D,Africa,Marketing,Healthcare,B2B,Cash,28%
+TXN0956,05-05-2022,16216,28484,-12268,Operations,South America,Sales,Electronics,B2C,Credit Card,14%
+TXN0957,15-01-2022,34553,27995,6558,R&D,South America,Marketing,Healthcare,B2B,Credit Card,24%
+TXN0958,28-12-2022,46268,8546,37722,R&D,South America,Finance,Healthcare,Enterprise,Bank Transfer,7%
+TXN0959,06-06-2022,9389,24133,-14744,R&D,Europe,Sales,Furniture,B2C,Credit Card,21%
+TXN0960,02-05-2022,14880,20552,-5672,R&D,South America,Marketing,Electronics,SMB,Bank Transfer,21%
+TXN0961,06-12-2023,41638,18796,22842,R&D,Africa,Sales,Software,B2C,Credit Card,19%
+TXN0962,30-10-2023,15163,29280,-14117,Operations,North America,IT,Electronics,B2C,Credit Card,25%
+TXN0963,15-03-2023,42046,5456,36590,Operations,Africa,IT,Furniture,B2B,Cash,16%
+TXN0964,10-07-2022,28862,10421,18441,Marketing,South America,IT,Software,B2C,Credit Card,24%
+TXN0965,26-02-2023,12825,6121,6704,Sales,Europe,Sales,Healthcare,Enterprise,Credit Card,7%
+TXN0966,30-07-2022,17016,15913,1103,Sales,Asia-Pacific,IT,Furniture,B2C,Credit Card,26%
+TXN0967,19-04-2023,42200,25499,16701,R&D,Europe,Sales,Software,SMB,PayPal,1%
+TXN0968,24-06-2023,14899,11542,3357,HR,North America,IT,Software,B2B,Bank Transfer,26%
+TXN0969,24-12-2022,47252,8400,38852,Marketing,North America,Sales,Electronics,SMB,Credit Card,27%
+TXN0970,08-02-2023,35447,7076,28371,Marketing,Africa,IT,Electronics,SMB,Cash,23%
+TXN0971,17-11-2023,26267,4959,21308,Sales,Asia-Pacific,Finance,Clothing,B2B,Credit Card,5%
+TXN0972,29-03-2022,38204,16743,21461,Operations,South America,Sales,Electronics,B2B,Cash,28%
+TXN0973,17-03-2023,9459,7097,2362,R&D,North America,IT,Electronics,SMB,Credit Card,28%
+TXN0974,04-12-2023,30207,15579,14628,R&D,North America,Marketing,Healthcare,B2C,Cash,12%
+TXN0975,09-07-2022,43106,11681,31425,HR,North America,IT,Furniture,B2C,Credit Card,17%
+TXN0976,31-07-2023,39497,17507,21990,R&D,North America,IT,Electronics,SMB,Bank Transfer,7%
+TXN0977,05-01-2022,11754,25448,-13694,Operations,Africa,Finance,Healthcare,SMB,Credit Card,7%
+TXN0978,20-09-2023,13786,19153,-5367,Sales,Africa,Marketing,Clothing,SMB,Credit Card,6%
+TXN0979,21-12-2022,6340,6081,259,R&D,Africa,IT,Healthcare,B2C,Credit Card,11%
+TXN0980,06-05-2022,45973,8727,37246,Operations,North America,IT,Electronics,SMB,Cash,23%
+TXN0981,06-01-2022,39274,29048,10226,Operations,Africa,IT,Software,SMB,Cash,5%
+TXN0982,17-07-2022,38051,16969,21082,R&D,Africa,Sales,Electronics,B2B,Bank Transfer,10%
+TXN0983,30-07-2023,41504,25684,15820,Sales,North America,IT,Clothing,B2B,Credit Card,25%
+TXN0984,10-01-2022,23276,6797,16479,Sales,North America,IT,Software,SMB,Credit Card,20%
+TXN0985,25-05-2023,13756,20225,-6469,R&D,South America,HR,Furniture,B2B,Cash,13%
+TXN0986,05-08-2022,45103,19470,25633,HR,South America,IT,Furniture,B2C,Bank Transfer,12%
+TXN0987,01-04-2023,42278,26213,16065,Sales,Africa,Sales,Healthcare,Enterprise,Cash,5%
+TXN0988,21-11-2022,20323,15024,5299,Marketing,South America,Marketing,Healthcare,SMB,Cash,0%
+TXN0989,04-08-2023,18810,23600,-4790,Operations,Africa,HR,Healthcare,SMB,Credit Card,10%
+TXN0990,06-01-2022,22839,29465,-6626,Marketing,South America,IT,Healthcare,SMB,Bank Transfer,4%
+TXN0991,14-07-2022,23158,26265,-3107,Marketing,Africa,Marketing,Healthcare,SMB,Cash,26%
+TXN0992,16-12-2023,34942,11004,23938,Operations,Africa,IT,Healthcare,B2B,Cash,12%
+TXN0993,07-04-2022,49412,22265,27147,R&D,South America,Finance,Electronics,B2B,Cash,16%
+TXN0994,09-03-2022,45138,11990,33148,Marketing,North America,Operations,Software,B2B,Credit Card,17%
+TXN0995,27-08-2022,8819,12633,-3814,Marketing,North America,Finance,Healthcare,B2C,Cash,19%
+TXN0996,21-03-2023,24394,22183,2211,Marketing,Africa,Sales,Healthcare,SMB,Cash,15%
+TXN0997,04-08-2022,8434,22425,-13991,Sales,Africa,Sales,Healthcare,SMB,Credit Card,7%
+TXN0998,03-07-2022,45672,18003,27669,Marketing,Africa,Finance,Clothing,B2C,PayPal,1%
+TXN0999,26-12-2022,10585,15869,-5284,Marketing,Africa,Sales,Healthcare,SMB,Cash,7%
+TXN1000,16-02-2023,17997,18640,-643,Sales,Africa,Sales,Electronics,B2B,Cash,27%
+TXN1001,23-11-2023,38808,12019,26789,R&D,North America,IT,Healthcare,B2B,Credit Card,9%
+TXN1002,29-04-2022,40017,13178,26839,Operations,Africa,IT,Software,SMB,Credit Card,25%
+TXN1003,21-07-2022,5032,11967,-6935,Sales,North America,Finance,Healthcare,Enterprise,Bank Transfer,15%
+TXN1004,06-05-2023,8703,4995,3708,Operations,Europe,IT,Healthcare,SMB,Cash,5%
+TXN1005,09-02-2023,6618,29548,-22930,Operations,Asia-Pacific,HR,Electronics,B2C,PayPal,25%
+TXN1006,27-08-2023,24752,15518,9234,R&D,Africa,HR,Furniture,SMB,Credit Card,11%
+TXN1007,03-01-2023,45802,11780,34022,Operations,Asia-Pacific,Finance,Electronics,SMB,Cash,11%
+TXN1008,07-11-2023,18189,11241,6948,Marketing,Asia-Pacific,Marketing,Software,B2C,PayPal,21%
+TXN1009,04-02-2022,28946,24005,4941,Sales,Africa,IT,Clothing,B2B,PayPal,29%
+TXN1010,06-08-2022,31838,20878,10960,R&D,Europe,IT,Healthcare,SMB,Cash,20%
+TXN1011,29-12-2022,12735,12215,520,HR,Asia-Pacific,Marketing,Electronics,B2C,Cash,4%
+TXN1012,23-02-2022,22723,23294,-571,Sales,North America,IT,Healthcare,SMB,Credit Card,11%
+TXN1013,04-03-2022,24116,15063,9053,R&D,Africa,Operations,Healthcare,B2B,Bank Transfer,14%
+TXN1014,01-10-2022,8518,20640,-12122,HR,Africa,IT,Healthcare,SMB,Cash,12%
+TXN1015,21-06-2023,28129,12296,15833,R&D,South America,IT,Healthcare,Enterprise,Credit Card,7%
+TXN1016,18-01-2023,46010,26632,19378,R&D,Africa,IT,Healthcare,B2C,PayPal,7%
+TXN1017,06-05-2022,41365,18316,23049,R&D,Europe,IT,Software,Enterprise,Credit Card,4%
+TXN1018,29-01-2022,44225,28803,15422,R&D,South America,IT,Healthcare,SMB,Cash,5%
+TXN1019,10-12-2023,19136,4147,14989,R&D,Asia-Pacific,Sales,Healthcare,B2B,Credit Card,19%
+TXN1020,09-03-2022,5134,13765,-8631,Sales,Asia-Pacific,IT,Software,B2B,Cash,6%
+TXN1021,08-01-2023,22646,19479,3167,Marketing,North America,Operations,Software,SMB,Credit Card,24%
+TXN1022,11-08-2023,35411,4649,30762,Marketing,Asia-Pacific,Operations,Healthcare,B2B,Cash,22%
+TXN1023,01-07-2022,34688,29027,5661,R&D,Africa,Sales,Clothing,Enterprise,Credit Card,5%
+TXN1024,26-10-2022,48241,6545,41696,R&D,Africa,Sales,Healthcare,B2B,Cash,16%
+TXN1025,31-05-2022,36147,6503,29644,Sales,Africa,Sales,Clothing,SMB,Credit Card,25%
+TXN1026,10-09-2022,6823,27926,-21103,Marketing,South America,HR,Furniture,SMB,Bank Transfer,29%
+TXN1027,22-09-2022,25159,5573,19586,R&D,Asia-Pacific,IT,Clothing,Enterprise,Bank Transfer,26%
+TXN1028,22-08-2022,20490,26784,-6294,Operations,Africa,IT,Electronics,SMB,Bank Transfer,20%
+TXN1029,11-05-2022,46833,8668,38165,R&D,Africa,IT,Healthcare,Enterprise,Bank Transfer,16%
+TXN1030,29-06-2023,29602,6237,23365,R&D,Africa,HR,Healthcare,SMB,Credit Card,11%
+TXN1031,26-09-2022,6361,5599,762,HR,Asia-Pacific,Finance,Healthcare,SMB,Cash,14%
+TXN1032,20-02-2022,21086,3268,17818,R&D,Africa,HR,Software,SMB,Cash,5%
+TXN1033,23-12-2022,48508,10014,38494,R&D,North America,Finance,Software,SMB,Bank Transfer,10%
+TXN1034,24-01-2022,33938,22068,11870,Sales,Africa,IT,Software,SMB,Cash,18%
+TXN1035,31-01-2023,19482,29601,-10119,R&D,Africa,IT,Healthcare,B2B,Cash,19%
+TXN1036,29-08-2023,5825,17958,-12133,Marketing,Africa,IT,Healthcare,B2B,Cash,0%
+TXN1037,01-04-2023,48830,24702,24128,R&D,Africa,IT,Healthcare,SMB,Bank Transfer,0%
+TXN1038,18-12-2023,6433,10968,-4535,R&D,Europe,Sales,Healthcare,Enterprise,Cash,22%
+TXN1039,15-01-2023,15160,29125,-13965,R&D,North America,IT,Furniture,B2B,Credit Card,11%
+TXN1040,16-08-2023,28026,5566,22460,R&D,Europe,IT,Healthcare,SMB,Bank Transfer,21%
+TXN1041,08-09-2022,26397,14965,11432,R&D,Europe,IT,Healthcare,B2C,PayPal,0%
+TXN1042,28-04-2023,22879,11059,11820,Sales,Asia-Pacific,HR,Electronics,Enterprise,Cash,11%
+TXN1043,30-10-2023,6900,3106,3794,R&D,Africa,Sales,Furniture,SMB,Cash,3%
+TXN1044,19-08-2022,15573,13078,2495,Sales,Africa,IT,Electronics,SMB,Credit Card,29%
+TXN1045,20-04-2022,36053,14926,21127,Marketing,Africa,Operations,Software,B2B,Cash,9%
+TXN1046,22-04-2022,33324,27365,5959,Sales,North America,IT,Software,Enterprise,Bank Transfer,13%
+TXN1047,03-04-2022,29920,3557,26363,R&D,North America,IT,Clothing,B2C,Cash,8%
+TXN1048,31-12-2023,27153,7181,19972,Sales,South America,IT,Furniture,SMB,Credit Card,7%
+TXN1049,15-03-2022,47096,12040,35056,Marketing,Africa,Finance,Healthcare,B2B,Credit Card,13%
+TXN1050,12-03-2022,37460,21527,15933,R&D,North America,Sales,Healthcare,SMB,Cash,19%
+TXN1051,04-11-2023,7817,8452,-635,Sales,Africa,IT,Clothing,SMB,Credit Card,27%
+TXN1052,15-02-2022,44079,13493,30586,R&D,Asia-Pacific,IT,Electronics,SMB,Cash,19%
+TXN1053,05-09-2022,40524,6371,34153,Sales,Africa,Operations,Software,B2C,Cash,2%
+TXN1054,08-09-2023,48560,12867,35693,Marketing,Africa,HR,Furniture,B2B,Cash,16%
+TXN1055,28-10-2023,34914,21177,13737,Sales,North America,IT,Healthcare,B2C,Cash,13%
+TXN1056,17-08-2023,43376,27985,15391,Sales,Asia-Pacific,IT,Healthcare,B2C,Bank Transfer,13%
+TXN1057,10-01-2022,11140,10316,824,Sales,Asia-Pacific,Sales,Electronics,Enterprise,Cash,12%
+TXN1058,22-04-2022,22214,5466,16748,Marketing,Africa,IT,Electronics,SMB,PayPal,10%
+TXN1059,20-06-2023,43252,28366,14886,Marketing,Europe,Operations,Clothing,SMB,Cash,22%
+TXN1060,15-03-2022,6861,19162,-12301,R&D,Africa,HR,Software,SMB,Cash,7%
+TXN1061,21-12-2023,32272,26885,5387,R&D,North America,Operations,Software,SMB,Cash,11%
+TXN1062,16-11-2022,37345,15989,21356,R&D,North America,Sales,Healthcare,B2C,Credit Card,28%
+TXN1063,11-01-2023,47744,9993,37751,Sales,North America,Sales,Furniture,SMB,PayPal,17%
+TXN1064,08-06-2023,22776,15466,7310,Sales,Africa,IT,Electronics,SMB,Cash,27%
+TXN1065,30-09-2023,15728,5559,10169,R&D,Europe,IT,Clothing,SMB,Credit Card,25%
+TXN1066,20-04-2022,10146,10000,146,Marketing,Asia-Pacific,IT,Healthcare,B2C,Credit Card,12%
+TXN1067,09-11-2023,43814,8419,35395,Sales,North America,Marketing,Healthcare,B2C,Bank Transfer,21%
+TXN1068,02-07-2022,5671,15542,-9871,R&D,Africa,Sales,Clothing,B2C,Cash,29%
+TXN1069,06-03-2023,38206,21118,17088,Marketing,South America,IT,Healthcare,SMB,Credit Card,3%
+TXN1070,02-01-2023,26689,13554,13135,R&D,Asia-Pacific,IT,Electronics,SMB,PayPal,6%
+TXN1071,04-06-2022,33192,20626,12566,R&D,North America,IT,Healthcare,SMB,Cash,19%
+TXN1072,26-05-2023,17791,16797,994,R&D,Europe,Operations,Electronics,B2C,PayPal,3%
+TXN1073,30-12-2022,47022,12953,34069,R&D,North America,IT,Healthcare,SMB,Cash,10%
+TXN1074,13-03-2022,39969,13930,26039,R&D,Africa,Operations,Healthcare,SMB,Cash,27%
+TXN1075,08-11-2022,29902,21656,8246,R&D,Africa,Operations,Healthcare,B2B,Credit Card,10%
+TXN1076,11-04-2022,45484,20542,24942,Operations,Africa,Marketing,Healthcare,B2C,Credit Card,11%
+TXN1077,31-10-2023,16124,13751,2373,R&D,Africa,Sales,Furniture,SMB,Credit Card,27%
+TXN1078,12-03-2023,8879,20537,-11658,HR,Africa,IT,Furniture,SMB,Credit Card,21%
+TXN1079,29-04-2022,41092,16703,24389,HR,Asia-Pacific,Marketing,Electronics,SMB,Cash,29%
+TXN1080,01-04-2022,23922,20418,3504,R&D,South America,Sales,Healthcare,B2B,Cash,20%
+TXN1081,07-07-2023,46487,26782,19705,R&D,North America,Sales,Healthcare,SMB,Cash,25%
+TXN1082,03-12-2023,8211,20305,-12094,R&D,Africa,Sales,Clothing,SMB,Cash,14%
+TXN1083,28-01-2023,38672,5160,33512,Marketing,Africa,HR,Electronics,B2B,Credit Card,8%
+TXN1084,31-07-2023,29759,12647,17112,Marketing,North America,IT,Electronics,Enterprise,PayPal,19%
+TXN1085,04-10-2022,29509,7377,22132,R&D,Europe,Marketing,Electronics,B2B,Bank Transfer,29%
+TXN1086,10-05-2023,10376,19346,-8970,R&D,North America,IT,Healthcare,Enterprise,Cash,1%
+TXN1087,26-12-2022,17616,19000,-1384,Operations,Africa,Sales,Clothing,SMB,Bank Transfer,6%
+TXN1088,22-12-2022,14331,19796,-5465,Marketing,Africa,IT,Healthcare,B2B,PayPal,18%
+TXN1089,03-09-2023,7201,14815,-7614,R&D,North America,Marketing,Healthcare,B2B,Bank Transfer,16%
+TXN1090,25-08-2022,30225,29339,886,Operations,Africa,Operations,Electronics,Enterprise,Cash,11%
+TXN1091,12-01-2022,27425,27507,-82,Sales,Asia-Pacific,Finance,Clothing,B2B,PayPal,2%
+TXN1092,18-03-2023,34857,18461,16396,R&D,Europe,Marketing,Healthcare,SMB,Cash,18%
+TXN1093,02-04-2022,37579,26211,11368,Operations,Europe,IT,Clothing,B2B,Cash,13%
+TXN1094,15-02-2022,24712,29079,-4367,R&D,Africa,Operations,Electronics,B2B,PayPal,1%
+TXN1095,22-02-2022,12535,23409,-10874,HR,Africa,IT,Healthcare,SMB,Cash,28%
+TXN1096,18-12-2023,9622,9191,431,R&D,Asia-Pacific,IT,Clothing,SMB,Credit Card,10%
+TXN1097,13-09-2023,7686,26986,-19300,Marketing,Africa,Sales,Healthcare,SMB,Cash,24%
+TXN1098,23-02-2023,48791,5660,43131,R&D,Europe,Operations,Clothing,B2C,Bank Transfer,6%
+TXN1099,13-05-2023,14209,17496,-3287,R&D,North America,Sales,Healthcare,SMB,Cash,19%
+TXN1100,15-06-2022,21317,27642,-6325,R&D,Europe,Sales,Furniture,B2B,Cash,14%
+TXN1101,11-07-2022,22346,18255,4091,Marketing,South America,Marketing,Electronics,Enterprise,Credit Card,6%
+TXN1102,25-11-2023,39732,17608,22124,R&D,Africa,IT,Healthcare,Enterprise,Credit Card,14%
+TXN1103,21-11-2022,5350,22343,-16993,Operations,North America,Sales,Healthcare,Enterprise,PayPal,18%
+TXN1104,06-11-2022,38372,14656,23716,R&D,North America,Finance,Healthcare,SMB,Credit Card,7%
+TXN1105,24-02-2023,18083,14628,3455,Marketing,North America,Sales,Electronics,SMB,Credit Card,16%
+TXN1106,17-09-2022,35446,15846,19600,Operations,Africa,HR,Electronics,B2B,PayPal,19%
+TXN1107,03-11-2023,33475,8251,25224,HR,Asia-Pacific,Sales,Clothing,B2B,Credit Card,11%
+TXN1108,28-03-2022,11213,6174,5039,R&D,Africa,Sales,Healthcare,B2C,Cash,15%
+TXN1109,05-09-2023,22835,20980,1855,R&D,Africa,Operations,Electronics,SMB,Bank Transfer,6%
+TXN1110,23-05-2023,11231,21484,-10253,R&D,Africa,Sales,Healthcare,B2B,Cash,29%
+TXN1111,31-03-2023,5081,11016,-5935,Operations,North America,IT,Clothing,B2C,Cash,16%
+TXN1112,23-11-2022,26883,10308,16575,Marketing,South America,Sales,Clothing,SMB,Bank Transfer,0%
+TXN1113,31-01-2022,18467,17549,918,Sales,Africa,IT,Clothing,SMB,Bank Transfer,7%
+TXN1114,25-06-2022,36128,18933,17195,Operations,Asia-Pacific,IT,Software,B2B,Credit Card,15%
+TXN1115,13-07-2022,12459,25262,-12803,Sales,North America,IT,Furniture,Enterprise,Credit Card,10%
+TXN1116,09-09-2022,46461,20833,25628,R&D,Africa,Sales,Electronics,SMB,Bank Transfer,8%
+TXN1117,22-07-2023,48190,20644,27546,Operations,Africa,IT,Electronics,B2B,Cash,21%
+TXN1118,20-10-2023,20093,8004,12089,HR,North America,Finance,Healthcare,B2B,Cash,21%
+TXN1119,26-12-2022,48863,12618,36245,R&D,Africa,IT,Electronics,B2B,Cash,10%
+TXN1120,12-01-2023,15008,11771,3237,R&D,North America,HR,Healthcare,Enterprise,PayPal,26%
+TXN1121,12-12-2023,17315,7439,9876,HR,Asia-Pacific,Sales,Healthcare,B2B,Cash,19%
+TXN1122,16-03-2022,30918,16679,14239,Sales,Asia-Pacific,Operations,Healthcare,SMB,Credit Card,18%
+TXN1123,15-02-2023,48257,28330,19927,Operations,Africa,Operations,Electronics,SMB,Credit Card,22%
+TXN1124,31-08-2023,19140,7705,11435,Operations,Africa,Sales,Healthcare,B2C,PayPal,12%
+TXN1125,25-11-2022,13627,9003,4624,Sales,Africa,HR,Clothing,B2C,Credit Card,20%
+TXN1126,04-09-2022,42428,23523,18905,Marketing,Africa,HR,Healthcare,B2C,Credit Card,29%
+TXN1127,29-07-2023,23699,10556,13143,R&D,South America,Marketing,Healthcare,B2C,Cash,25%
+TXN1128,08-07-2022,26459,25806,653,Marketing,North America,IT,Software,SMB,Cash,24%
+TXN1129,29-01-2023,43994,19846,24148,R&D,Africa,Marketing,Healthcare,SMB,Cash,1%
+TXN1130,05-08-2022,7520,12306,-4786,Sales,Europe,IT,Healthcare,Enterprise,Cash,24%
+TXN1131,08-06-2022,38974,11387,27587,HR,Europe,Operations,Healthcare,SMB,Cash,15%
+TXN1132,20-09-2022,45477,23300,22177,R&D,Europe,Marketing,Software,Enterprise,Cash,27%
+TXN1133,30-05-2023,40140,15341,24799,HR,Europe,IT,Electronics,B2B,Cash,25%
+TXN1134,20-06-2023,38216,28981,9235,Sales,Africa,Finance,Furniture,Enterprise,Bank Transfer,18%
+TXN1135,06-01-2023,41787,25737,16050,R&D,Europe,Sales,Clothing,B2C,Credit Card,7%
+TXN1136,12-06-2023,35282,19675,15607,Marketing,Europe,IT,Software,Enterprise,Cash,18%
+TXN1137,24-06-2022,26515,28756,-2241,Sales,North America,Operations,Software,SMB,Bank Transfer,22%
+TXN1138,04-11-2022,14128,15822,-1694,Sales,Europe,IT,Healthcare,SMB,PayPal,23%
+TXN1139,31-03-2023,22070,25870,-3800,Sales,South America,Operations,Software,B2C,Cash,3%
+TXN1140,01-05-2022,22320,6924,15396,Marketing,Asia-Pacific,IT,Healthcare,B2C,PayPal,12%
+TXN1141,04-04-2022,5154,7563,-2409,R&D,Asia-Pacific,Marketing,Healthcare,B2C,Cash,21%
+TXN1142,13-04-2023,41203,17539,23664,Marketing,Africa,Sales,Healthcare,Enterprise,PayPal,25%
+TXN1143,21-08-2022,38416,25489,12927,Sales,Africa,Operations,Healthcare,B2B,Bank Transfer,1%
+TXN1144,18-05-2022,17173,3029,14144,Operations,North America,IT,Healthcare,B2B,Cash,2%
+TXN1145,29-04-2023,13610,4284,9326,Sales,North America,Finance,Healthcare,SMB,PayPal,14%
+TXN1146,08-08-2022,24107,9369,14738,R&D,South America,Sales,Healthcare,B2B,PayPal,22%
+TXN1147,20-01-2022,37760,16555,21205,R&D,Africa,IT,Healthcare,B2C,Cash,16%
+TXN1148,20-10-2022,38161,25663,12498,Sales,South America,Sales,Healthcare,B2C,Cash,21%
+TXN1149,04-01-2022,22805,4674,18131,R&D,North America,Operations,Healthcare,SMB,PayPal,24%
+TXN1150,18-05-2023,18928,8079,10849,R&D,North America,IT,Healthcare,SMB,PayPal,22%
+TXN1151,05-12-2023,28581,15317,13264,Marketing,Africa,Sales,Software,Enterprise,Cash,14%
+TXN1152,16-01-2023,40578,23639,16939,R&D,Asia-Pacific,Sales,Healthcare,B2C,Credit Card,26%
+TXN1153,25-04-2023,16877,10230,6647,Marketing,Europe,IT,Clothing,SMB,Credit Card,4%
+TXN1154,26-03-2023,29422,20073,9349,Operations,Africa,IT,Healthcare,SMB,Credit Card,26%
+TXN1155,04-01-2023,32255,18672,13583,Operations,Africa,IT,Furniture,B2B,Bank Transfer,4%
+TXN1156,15-08-2023,6959,6859,100,Sales,North America,Finance,Software,Enterprise,Cash,18%
+TXN1157,14-08-2023,40306,24210,16096,Operations,Africa,Marketing,Clothing,SMB,Credit Card,17%
+TXN1158,17-01-2023,44259,3448,40811,R&D,Africa,IT,Furniture,B2C,Credit Card,28%
+TXN1159,03-10-2022,31148,16124,15024,Sales,North America,IT,Furniture,Enterprise,PayPal,11%
+TXN1160,07-08-2022,19577,24342,-4765,R&D,Europe,Operations,Clothing,SMB,PayPal,12%
+TXN1161,20-02-2022,37951,20402,17549,R&D,Asia-Pacific,Marketing,Furniture,B2B,Cash,26%
+TXN1162,01-03-2023,33198,7317,25881,R&D,Asia-Pacific,IT,Furniture,B2B,Credit Card,8%
+TXN1163,25-08-2023,40996,8894,32102,R&D,Africa,Finance,Healthcare,SMB,Cash,20%
+TXN1164,07-03-2022,22447,28469,-6022,R&D,South America,IT,Clothing,B2B,Credit Card,28%
+TXN1165,14-09-2023,25899,8596,17303,Sales,Africa,IT,Healthcare,SMB,Bank Transfer,24%
+TXN1166,07-04-2022,34669,25211,9458,R&D,Europe,IT,Electronics,Enterprise,Credit Card,1%
+TXN1167,21-08-2023,46154,26033,20121,Sales,Asia-Pacific,Marketing,Electronics,B2B,Cash,11%
+TXN1168,20-08-2023,16213,25051,-8838,Marketing,North America,Marketing,Healthcare,B2B,Credit Card,14%
+TXN1169,05-09-2023,29939,13664,16275,R&D,Europe,Operations,Electronics,SMB,Bank Transfer,13%
+TXN1170,30-05-2023,24082,19627,4455,Operations,North America,IT,Software,SMB,Bank Transfer,16%
+TXN1171,04-05-2022,10799,28501,-17702,R&D,Europe,IT,Electronics,SMB,Bank Transfer,10%
+TXN1172,27-11-2023,31173,5385,25788,R&D,Europe,Marketing,Healthcare,B2B,Cash,9%
+TXN1173,27-01-2022,5984,12127,-6143,Sales,Africa,Finance,Electronics,B2C,PayPal,29%
+TXN1174,04-07-2022,11460,25629,-14169,R&D,Africa,Sales,Healthcare,SMB,Cash,26%
+TXN1175,04-03-2023,45197,19620,25577,Marketing,Asia-Pacific,Marketing,Clothing,Enterprise,Credit Card,7%
+TXN1176,16-10-2023,5369,21024,-15655,Sales,North America,IT,Electronics,SMB,Credit Card,25%
+TXN1177,21-07-2023,11760,11987,-227,Operations,Europe,Marketing,Electronics,SMB,PayPal,17%
+TXN1178,28-08-2022,26801,11311,15490,R&D,Africa,IT,Healthcare,B2B,Bank Transfer,18%
+TXN1179,31-07-2023,24833,20129,4704,R&D,Africa,Sales,Healthcare,B2B,Credit Card,28%
+TXN1180,19-07-2023,43971,29311,14660,R&D,Africa,IT,Healthcare,SMB,Cash,4%
+TXN1181,05-06-2022,8677,10615,-1938,Sales,Europe,IT,Electronics,SMB,Credit Card,25%
+TXN1182,24-09-2022,14147,13059,1088,R&D,Europe,IT,Healthcare,B2C,Credit Card,16%
+TXN1183,10-02-2023,34524,14884,19640,R&D,Asia-Pacific,IT,Furniture,SMB,PayPal,22%
+TXN1184,15-11-2022,28736,4934,23802,Marketing,Africa,Finance,Clothing,B2B,Cash,29%
+TXN1185,06-09-2022,41963,6191,35772,R&D,Asia-Pacific,Operations,Healthcare,B2C,Cash,21%
+TXN1186,27-08-2023,44927,11798,33129,R&D,North America,Marketing,Software,B2B,Bank Transfer,11%
+TXN1187,09-11-2023,13468,12513,955,Sales,Africa,IT,Electronics,SMB,Bank Transfer,19%
+TXN1188,05-02-2023,31038,7724,23314,Marketing,Africa,Sales,Electronics,SMB,Cash,7%
+TXN1189,30-12-2023,42818,20692,22126,R&D,Europe,IT,Healthcare,Enterprise,Bank Transfer,27%
+TXN1190,07-02-2023,29455,3958,25497,R&D,South America,Finance,Healthcare,B2C,Credit Card,19%
+TXN1191,01-09-2022,46570,23917,22653,R&D,Africa,IT,Software,SMB,Bank Transfer,26%
+TXN1192,23-05-2022,7387,13916,-6529,Sales,North America,IT,Furniture,SMB,Credit Card,8%
+TXN1193,27-01-2023,12481,9236,3245,Operations,Africa,Finance,Software,B2B,Cash,24%
+TXN1194,13-09-2022,29533,6566,22967,R&D,Europe,IT,Healthcare,B2B,PayPal,16%
+TXN1195,27-11-2022,14612,13021,1591,Sales,Europe,IT,Electronics,SMB,Cash,1%
+TXN1196,31-01-2023,28579,19025,9554,R&D,Europe,IT,Healthcare,SMB,PayPal,3%
+TXN1197,21-05-2022,17422,4717,12705,HR,Europe,Sales,Healthcare,Enterprise,Cash,26%
+TXN1198,17-02-2023,13084,22734,-9650,HR,North America,IT,Healthcare,SMB,Bank Transfer,0%
+TXN1199,02-01-2022,43292,10126,33166,HR,Africa,HR,Furniture,B2C,Bank Transfer,9%
+TXN1200,12-06-2022,47923,21316,26607,Marketing,Asia-Pacific,IT,Electronics,SMB,Cash,4%
+TXN1201,07-09-2022,30683,29624,1059,HR,Asia-Pacific,Sales,Software,SMB,Credit Card,25%
+TXN1202,05-01-2023,31304,8078,23226,R&D,Asia-Pacific,IT,Healthcare,SMB,Credit Card,6%
+TXN1203,22-03-2023,43211,19556,23655,Operations,North America,Sales,Healthcare,SMB,Cash,24%
+TXN1204,16-03-2023,30799,6371,24428,Operations,North America,IT,Software,B2C,Cash,26%
+TXN1205,20-05-2023,28308,5958,22350,HR,Asia-Pacific,IT,Software,Enterprise,PayPal,25%
+TXN1206,11-03-2023,16219,13896,2323,Marketing,South America,IT,Electronics,SMB,Credit Card,7%
+TXN1207,22-11-2022,36936,14321,22615,Marketing,Africa,IT,Healthcare,Enterprise,Cash,18%
+TXN1208,29-12-2022,26669,28957,-2288,HR,North America,Marketing,Clothing,SMB,Cash,5%
+TXN1209,10-01-2022,16459,22709,-6250,R&D,Asia-Pacific,Operations,Software,SMB,Cash,0%
+TXN1210,01-07-2022,40264,26250,14014,R&D,Europe,Sales,Healthcare,Enterprise,Credit Card,1%
+TXN1211,27-09-2022,17804,29543,-11739,Marketing,Europe,IT,Furniture,B2B,PayPal,2%
+TXN1212,03-05-2023,5435,6622,-1187,R&D,Africa,Finance,Electronics,B2C,Cash,13%
+TXN1213,04-02-2023,20584,21507,-923,Marketing,Africa,IT,Healthcare,Enterprise,Cash,0%
+TXN1214,25-11-2022,11638,8166,3472,Operations,Africa,Sales,Healthcare,SMB,Bank Transfer,21%
+TXN1215,11-06-2022,15526,20003,-4477,Marketing,Asia-Pacific,Marketing,Healthcare,B2B,Bank Transfer,1%
+TXN1216,03-07-2022,21489,14195,7294,Operations,Europe,HR,Clothing,Enterprise,Cash,21%
+TXN1217,12-06-2023,48302,15938,32364,R&D,Africa,IT,Clothing,B2B,PayPal,8%
+TXN1218,15-11-2022,35758,11297,24461,Operations,Europe,HR,Healthcare,B2C,Credit Card,20%
+TXN1219,19-07-2023,40906,19697,21209,R&D,Africa,Marketing,Furniture,B2B,PayPal,1%
+TXN1220,30-10-2022,47961,22652,25309,Sales,Europe,IT,Clothing,B2C,Credit Card,7%
+TXN1221,21-07-2022,34375,23837,10538,Sales,Asia-Pacific,Sales,Healthcare,SMB,Cash,19%
+TXN1222,23-02-2023,12760,25385,-12625,R&D,Asia-Pacific,IT,Electronics,SMB,Credit Card,21%
+TXN1223,13-09-2023,45121,5721,39400,Marketing,North America,HR,Electronics,B2B,Cash,5%
+TXN1224,18-05-2022,42154,8200,33954,Sales,North America,HR,Healthcare,SMB,Credit Card,0%
+TXN1225,30-08-2022,47885,27859,20026,Marketing,Africa,HR,Healthcare,B2C,Cash,14%
+TXN1226,21-08-2022,42699,17414,25285,Marketing,Europe,HR,Healthcare,SMB,Cash,23%
+TXN1227,14-07-2023,24122,14987,9135,R&D,North America,Operations,Healthcare,B2C,Bank Transfer,15%
+TXN1228,05-10-2023,14235,15895,-1660,Operations,Africa,IT,Software,SMB,PayPal,18%
+TXN1229,09-05-2022,45031,28239,16792,R&D,South America,Operations,Healthcare,B2B,Credit Card,6%
+TXN1230,04-11-2022,27036,26688,348,Operations,Asia-Pacific,Finance,Software,SMB,Cash,13%
+TXN1231,04-01-2023,34729,22552,12177,Sales,Africa,HR,Healthcare,B2C,Cash,14%
+TXN1232,25-04-2022,33605,16294,17311,R&D,Africa,IT,Furniture,SMB,Credit Card,28%
+TXN1233,04-09-2023,17750,15818,1932,R&D,Africa,Sales,Electronics,B2B,PayPal,14%
+TXN1234,06-07-2022,16077,7820,8257,Operations,Africa,IT,Healthcare,B2B,Bank Transfer,15%
+TXN1235,03-02-2023,46261,9219,37042,Operations,Africa,IT,Healthcare,B2C,PayPal,26%
+TXN1236,19-07-2023,25561,27233,-1672,R&D,South America,HR,Furniture,B2C,Cash,28%
+TXN1237,24-06-2023,33602,9021,24581,R&D,Africa,Marketing,Healthcare,B2B,Bank Transfer,19%
+TXN1238,13-01-2022,25448,3137,22311,Operations,Africa,IT,Clothing,SMB,Cash,21%
+TXN1239,12-03-2022,29988,25763,4225,R&D,North America,IT,Healthcare,SMB,Credit Card,29%
+TXN1240,04-05-2022,43657,21272,22385,HR,Africa,Operations,Software,B2B,PayPal,28%
+TXN1241,23-02-2022,11519,27317,-15798,Sales,South America,IT,Healthcare,SMB,PayPal,10%
+TXN1242,27-12-2023,25954,21674,4280,Sales,Africa,IT,Healthcare,SMB,Credit Card,12%
+TXN1243,19-02-2023,32482,26217,6265,Operations,South America,IT,Software,Enterprise,Cash,11%
+TXN1244,13-11-2022,6280,21098,-14818,R&D,Asia-Pacific,Sales,Healthcare,SMB,Cash,8%
+TXN1245,12-01-2023,44889,27694,17195,R&D,South America,IT,Clothing,SMB,Cash,23%
+TXN1246,17-07-2022,20685,6584,14101,Sales,North America,Sales,Electronics,SMB,Credit Card,12%
+TXN1247,28-11-2022,32905,16575,16330,HR,Asia-Pacific,Sales,Software,SMB,Credit Card,5%
+TXN1248,14-09-2023,14074,3216,10858,Sales,Asia-Pacific,HR,Healthcare,B2C,Credit Card,7%
+TXN1249,16-03-2023,47418,10452,36966,R&D,Europe,Marketing,Healthcare,SMB,Cash,17%
+TXN1250,11-12-2023,23841,11866,11975,R&D,Europe,IT,Healthcare,B2B,Cash,20%
+TXN1251,03-05-2023,29654,10398,19256,Operations,Africa,Operations,Healthcare,B2B,Bank Transfer,29%
+TXN1252,23-07-2022,32684,22479,10205,Sales,Europe,Operations,Clothing,B2C,Credit Card,3%
+TXN1253,03-09-2022,22514,5004,17510,R&D,Africa,Sales,Clothing,SMB,Cash,26%
+TXN1254,10-09-2023,40063,19230,20833,R&D,Africa,IT,Healthcare,SMB,PayPal,12%
+TXN1255,14-09-2022,19614,23212,-3598,Marketing,Africa,HR,Healthcare,SMB,Bank Transfer,1%
+TXN1256,25-09-2023,12616,19607,-6991,Marketing,South America,IT,Electronics,SMB,Cash,5%
+TXN1257,21-05-2023,49312,23198,26114,Operations,Africa,IT,Healthcare,Enterprise,PayPal,23%
+TXN1258,30-11-2022,27318,9957,17361,Operations,Africa,Sales,Clothing,SMB,PayPal,3%
+TXN1259,31-07-2023,6079,21632,-15553,Operations,Europe,Operations,Healthcare,SMB,Credit Card,4%
+TXN1260,19-05-2022,24134,11704,12430,R&D,Africa,IT,Healthcare,SMB,Cash,17%
+TXN1261,29-05-2023,45079,27239,17840,Operations,Asia-Pacific,IT,Clothing,SMB,Cash,6%
+TXN1262,06-10-2022,33861,13159,20702,R&D,North America,Marketing,Software,B2B,Cash,3%
+TXN1263,19-05-2023,39530,24596,14934,R&D,South America,IT,Software,B2B,Cash,11%
+TXN1264,06-09-2023,46320,17628,28692,Marketing,North America,Operations,Clothing,SMB,Cash,19%
+TXN1265,26-09-2022,47468,15006,32462,Operations,Europe,IT,Healthcare,B2C,PayPal,6%
+TXN1266,30-07-2023,9308,20771,-11463,R&D,South America,Sales,Electronics,B2C,Credit Card,13%
+TXN1267,29-04-2023,31402,6624,24778,Sales,North America,Sales,Healthcare,B2C,Cash,26%
+TXN1268,07-04-2022,38264,18346,19918,R&D,Asia-Pacific,IT,Clothing,SMB,Cash,8%
+TXN1269,05-07-2023,6424,26634,-20210,R&D,North America,IT,Clothing,Enterprise,Cash,20%
+TXN1270,27-07-2023,47338,25804,21534,R&D,Europe,HR,Healthcare,B2C,PayPal,12%
+TXN1271,04-03-2022,49150,24361,24789,R&D,Africa,IT,Healthcare,B2B,Credit Card,25%
+TXN1272,21-09-2022,30654,7424,23230,HR,Europe,IT,Furniture,B2C,Bank Transfer,5%
+TXN1273,22-12-2022,48486,6138,42348,Marketing,Africa,Sales,Healthcare,B2C,Bank Transfer,14%
+TXN1274,26-12-2022,15285,29604,-14319,Operations,Europe,HR,Healthcare,B2B,PayPal,22%
+TXN1275,21-07-2023,44034,23669,20365,Sales,Europe,IT,Clothing,SMB,Cash,11%
+TXN1276,01-08-2023,20874,7765,13109,Operations,Africa,IT,Clothing,B2B,Cash,25%
+TXN1277,13-04-2022,43883,25436,18447,Operations,South America,Sales,Healthcare,B2B,PayPal,21%
+TXN1278,20-02-2023,7444,7263,181,Sales,Africa,Marketing,Electronics,SMB,Cash,4%
+TXN1279,08-02-2022,45759,9146,36613,Marketing,Africa,IT,Healthcare,Enterprise,Cash,12%
+TXN1280,14-04-2022,17799,13972,3827,Marketing,Asia-Pacific,IT,Furniture,B2C,Credit Card,3%
+TXN1281,13-01-2023,17828,10837,6991,Sales,Africa,Finance,Healthcare,B2B,Cash,15%
+TXN1282,03-10-2022,39008,14533,24475,R&D,South America,IT,Electronics,Enterprise,Bank Transfer,7%
+TXN1283,17-02-2022,47095,24738,22357,HR,South America,IT,Clothing,SMB,Credit Card,28%
+TXN1284,19-05-2023,21774,21279,495,HR,Asia-Pacific,Marketing,Healthcare,Enterprise,PayPal,16%
+TXN1285,01-04-2022,15617,16712,-1095,R&D,Africa,Marketing,Clothing,Enterprise,Cash,25%
+TXN1286,06-05-2023,19151,18857,294,Sales,Africa,Operations,Healthcare,B2B,Bank Transfer,5%
+TXN1287,14-09-2022,28806,9274,19532,R&D,Africa,Finance,Healthcare,Enterprise,PayPal,10%
+TXN1288,06-11-2022,36922,27116,9806,Marketing,North America,IT,Healthcare,SMB,PayPal,6%
+TXN1289,14-05-2022,26341,24048,2293,Marketing,North America,Finance,Clothing,B2B,Cash,11%
+TXN1290,16-01-2023,34426,28612,5814,R&D,Europe,IT,Healthcare,B2C,Bank Transfer,4%
+TXN1291,01-10-2022,46302,14726,31576,R&D,South America,Sales,Clothing,Enterprise,Bank Transfer,21%
+TXN1292,23-12-2022,43657,29153,14504,R&D,Africa,HR,Electronics,B2B,Cash,19%
+TXN1293,08-01-2022,46854,21494,25360,R&D,Africa,IT,Software,Enterprise,PayPal,0%
+TXN1294,08-12-2022,37140,11971,25169,R&D,Europe,IT,Software,B2B,Bank Transfer,2%
+TXN1295,11-08-2022,45209,26710,18499,HR,North America,Operations,Electronics,B2C,Credit Card,6%
+TXN1296,14-10-2023,28949,22476,6473,Operations,Africa,Finance,Healthcare,B2B,Credit Card,4%
+TXN1297,09-06-2023,17864,17550,314,R&D,Europe,Operations,Healthcare,SMB,Cash,11%
+TXN1298,25-05-2023,24018,9899,14119,Marketing,Africa,Operations,Healthcare,B2B,Credit Card,9%
+TXN1299,04-02-2022,7726,18512,-10786,Sales,Africa,IT,Electronics,SMB,Cash,1%
+TXN1300,13-03-2023,48303,17721,30582,R&D,North America,Marketing,Healthcare,B2C,Credit Card,25%
+TXN1301,10-09-2023,17929,6484,11445,R&D,Africa,IT,Electronics,SMB,PayPal,29%
+TXN1302,30-12-2023,47036,29002,18034,HR,Africa,IT,Furniture,SMB,Cash,15%
+TXN1303,24-10-2022,49460,8226,41234,Marketing,Africa,Marketing,Healthcare,SMB,PayPal,10%
+TXN1304,09-04-2022,21572,26879,-5307,R&D,Africa,Sales,Electronics,SMB,Cash,8%
+TXN1305,10-09-2022,11263,10667,596,R&D,Europe,Marketing,Software,B2B,Credit Card,22%
+TXN1306,16-04-2022,18333,9782,8551,Sales,Europe,Sales,Software,B2C,Cash,15%
+TXN1307,16-10-2022,35606,15324,20282,Sales,Europe,IT,Electronics,Enterprise,Credit Card,11%
+TXN1308,07-08-2022,29565,23072,6493,R&D,South America,HR,Furniture,B2B,Cash,8%
+TXN1309,20-08-2023,21182,12972,8210,HR,North America,IT,Healthcare,Enterprise,Cash,26%
+TXN1310,27-01-2022,7552,16047,-8495,Sales,North America,Finance,Electronics,Enterprise,Cash,15%
+TXN1311,01-08-2023,36390,28146,8244,Marketing,North America,IT,Furniture,SMB,Bank Transfer,8%
+TXN1312,04-03-2023,34415,23013,11402,Sales,Africa,IT,Furniture,Enterprise,Credit Card,6%
+TXN1313,20-12-2022,7292,20406,-13114,Marketing,Asia-Pacific,Marketing,Clothing,SMB,Cash,28%
+TXN1314,15-05-2023,29246,23733,5513,R&D,Africa,Sales,Electronics,B2C,Bank Transfer,0%
+TXN1315,01-10-2023,23372,22000,1372,Sales,Africa,Marketing,Healthcare,B2C,Cash,23%
+TXN1316,02-01-2023,6111,19563,-13452,R&D,Africa,IT,Healthcare,SMB,Credit Card,20%
+TXN1317,10-12-2023,26124,12529,13595,R&D,Asia-Pacific,Sales,Healthcare,SMB,Credit Card,22%
+TXN1318,07-05-2022,14186,26877,-12691,R&D,Asia-Pacific,IT,Electronics,B2B,Bank Transfer,9%
+TXN1319,27-05-2022,26730,7063,19667,R&D,Africa,IT,Healthcare,SMB,Credit Card,17%
+TXN1320,12-03-2023,5183,9904,-4721,Sales,North America,Marketing,Clothing,Enterprise,Bank Transfer,4%
+TXN1321,19-06-2023,38434,24033,14401,HR,Asia-Pacific,IT,Healthcare,SMB,Credit Card,11%
+TXN1322,27-12-2023,36309,27577,8732,R&D,North America,IT,Healthcare,B2B,Credit Card,3%
+TXN1323,05-08-2022,37157,14602,22555,Marketing,North America,Operations,Furniture,B2C,Credit Card,5%
+TXN1324,05-02-2022,20584,3064,17520,R&D,Europe,IT,Healthcare,Enterprise,Cash,22%
+TXN1325,01-07-2022,27732,25832,1900,R&D,Europe,Sales,Healthcare,B2B,Credit Card,1%
+TXN1326,20-02-2022,32079,16783,15296,Sales,Africa,IT,Healthcare,Enterprise,Credit Card,23%
+TXN1327,19-03-2023,40775,17983,22792,HR,Africa,HR,Healthcare,SMB,Cash,22%
+TXN1328,10-01-2022,24313,23637,676,Marketing,Europe,Operations,Clothing,SMB,Cash,26%
+TXN1329,25-09-2022,28284,26417,1867,R&D,North America,Sales,Clothing,B2B,Cash,19%
+TXN1330,06-04-2022,48604,5274,43330,Operations,North America,IT,Electronics,SMB,Credit Card,9%
+TXN1331,08-02-2022,41117,14985,26132,Marketing,North America,Operations,Healthcare,SMB,Credit Card,23%
+TXN1332,12-10-2023,8796,15746,-6950,R&D,North America,Operations,Healthcare,SMB,Credit Card,11%
+TXN1333,13-04-2023,42598,8151,34447,Sales,Africa,Sales,Electronics,B2C,Credit Card,25%
+TXN1334,30-01-2023,14976,18109,-3133,R&D,Africa,Finance,Healthcare,SMB,Cash,7%
+TXN1335,12-04-2023,12666,9879,2787,HR,Asia-Pacific,IT,Furniture,SMB,Bank Transfer,27%
+TXN1336,27-04-2023,41921,28623,13298,R&D,Africa,Marketing,Electronics,SMB,Bank Transfer,1%
+TXN1337,18-01-2023,7505,12646,-5141,R&D,Africa,Marketing,Electronics,B2B,Bank Transfer,29%
+TXN1338,13-01-2022,11980,21038,-9058,Operations,Africa,IT,Clothing,B2B,Cash,2%
+TXN1339,28-04-2022,11728,8285,3443,Operations,Africa,IT,Healthcare,B2C,PayPal,4%
+TXN1340,01-11-2022,48393,27565,20828,Sales,Europe,Sales,Electronics,B2B,PayPal,27%
+TXN1341,15-12-2023,45371,20831,24540,Sales,Africa,Operations,Electronics,SMB,Bank Transfer,9%
+TXN1342,04-07-2023,7461,8771,-1310,R&D,North America,Marketing,Healthcare,B2B,Cash,7%
+TXN1343,05-05-2023,11652,3186,8466,Marketing,Africa,IT,Healthcare,Enterprise,Cash,28%
+TXN1344,24-11-2023,17509,20565,-3056,Sales,Asia-Pacific,IT,Healthcare,B2B,Cash,2%
+TXN1345,30-06-2022,30653,19027,11626,R&D,South America,IT,Healthcare,SMB,Cash,27%
+TXN1346,04-10-2023,36556,20138,16418,R&D,Africa,IT,Clothing,B2C,Bank Transfer,28%
+TXN1347,12-09-2023,48297,20743,27554,R&D,Africa,IT,Clothing,SMB,Cash,21%
+TXN1348,26-07-2022,11075,10551,524,Sales,Europe,Marketing,Healthcare,Enterprise,Bank Transfer,14%
+TXN1349,26-05-2022,14455,13024,1431,Marketing,South America,IT,Healthcare,SMB,PayPal,24%
+TXN1350,23-05-2023,32043,12021,20022,Marketing,Africa,IT,Healthcare,SMB,Cash,7%
+TXN1351,28-03-2022,36094,12551,23543,Sales,South America,Marketing,Healthcare,SMB,Cash,10%
+TXN1352,21-12-2022,31552,24236,7316,Operations,Asia-Pacific,HR,Software,SMB,Credit Card,2%
+TXN1353,22-05-2022,22889,4006,18883,Marketing,Asia-Pacific,Finance,Clothing,B2C,Cash,8%
+TXN1354,27-10-2022,16187,23232,-7045,R&D,Europe,IT,Furniture,B2C,Credit Card,21%
+TXN1355,23-11-2023,21355,23241,-1886,R&D,Africa,Marketing,Healthcare,B2C,Bank Transfer,7%
+TXN1356,14-07-2022,8014,17448,-9434,Sales,Africa,IT,Clothing,B2C,Bank Transfer,4%
+TXN1357,23-08-2023,29602,10016,19586,R&D,Africa,IT,Electronics,SMB,Cash,18%
+TXN1358,19-06-2022,43274,18884,24390,R&D,Africa,IT,Electronics,SMB,Cash,18%
+TXN1359,14-12-2022,24934,29721,-4787,R&D,Africa,Marketing,Clothing,Enterprise,Cash,4%
+TXN1360,04-11-2022,13345,20000,-6655,R&D,Asia-Pacific,IT,Software,Enterprise,Cash,16%
+TXN1361,03-01-2022,40722,25376,15346,R&D,North America,IT,Healthcare,B2C,Cash,23%
+TXN1362,07-09-2022,48959,5416,43543,R&D,Asia-Pacific,IT,Healthcare,B2B,Cash,2%
+TXN1363,09-09-2023,18463,17291,1172,R&D,Africa,HR,Software,SMB,Credit Card,24%
+TXN1364,06-10-2022,46857,16699,30158,Marketing,Africa,IT,Electronics,B2B,Credit Card,3%
+TXN1365,18-01-2023,40670,23801,16869,Marketing,Africa,IT,Software,B2C,Credit Card,8%
+TXN1366,09-09-2022,38807,14680,24127,R&D,Europe,IT,Clothing,SMB,Cash,13%
+TXN1367,18-07-2022,41797,17882,23915,R&D,Europe,Sales,Clothing,B2C,Cash,26%
+TXN1368,19-05-2023,26282,14053,12229,R&D,Africa,Marketing,Software,B2C,Credit Card,5%
+TXN1369,16-12-2022,18662,9042,9620,R&D,Africa,Marketing,Healthcare,SMB,Credit Card,8%
+TXN1370,12-09-2023,24031,14663,9368,R&D,Africa,Finance,Healthcare,SMB,Cash,3%
+TXN1371,23-09-2022,20414,18317,2097,HR,Europe,Marketing,Healthcare,SMB,Credit Card,1%
+TXN1372,05-11-2022,23791,27833,-4042,Marketing,Africa,HR,Software,SMB,Credit Card,3%
+TXN1373,09-01-2023,44091,10633,33458,R&D,Africa,Finance,Electronics,Enterprise,Bank Transfer,9%
+TXN1374,16-09-2023,27690,16547,11143,R&D,Asia-Pacific,IT,Healthcare,SMB,Cash,20%
+TXN1375,24-05-2022,19955,21369,-1414,HR,South America,IT,Furniture,SMB,Cash,21%
+TXN1376,11-11-2023,18452,28913,-10461,HR,Africa,IT,Electronics,B2B,PayPal,22%
+TXN1377,09-10-2022,12781,25488,-12707,R&D,Asia-Pacific,IT,Healthcare,B2B,Cash,26%
+TXN1378,10-07-2023,10380,22551,-12171,Marketing,South America,Sales,Healthcare,B2C,Credit Card,10%
+TXN1379,10-09-2022,20222,18570,1652,Marketing,Europe,Sales,Electronics,Enterprise,Credit Card,8%
+TXN1380,28-08-2022,15933,4243,11690,Operations,Europe,Finance,Healthcare,SMB,Credit Card,0%
+TXN1381,24-03-2022,5292,8086,-2794,R&D,Africa,IT,Healthcare,B2B,PayPal,4%
+TXN1382,06-02-2023,48072,6076,41996,R&D,Africa,IT,Healthcare,B2C,PayPal,2%
+TXN1383,22-05-2023,19337,24817,-5480,R&D,Africa,IT,Healthcare,SMB,Credit Card,4%
+TXN1384,17-11-2022,13636,8679,4957,Marketing,Africa,Finance,Electronics,SMB,Cash,6%
+TXN1385,15-03-2022,12012,25054,-13042,Sales,Africa,IT,Electronics,B2B,Cash,3%
+TXN1386,29-03-2023,20415,22056,-1641,R&D,North America,IT,Software,B2C,Credit Card,27%
+TXN1387,13-02-2023,10668,25862,-15194,R&D,Africa,IT,Healthcare,SMB,Credit Card,15%
+TXN1388,23-01-2022,31200,14069,17131,R&D,Europe,HR,Healthcare,Enterprise,Cash,16%
+TXN1389,25-05-2022,31938,23694,8244,HR,Africa,IT,Healthcare,SMB,Credit Card,16%
+TXN1390,11-10-2022,17032,20692,-3660,R&D,Asia-Pacific,Sales,Software,SMB,Credit Card,5%
+TXN1391,15-08-2023,26709,10022,16687,R&D,Africa,Sales,Clothing,B2C,PayPal,2%
+TXN1392,07-11-2022,23644,4336,19308,Marketing,North America,Finance,Electronics,SMB,Credit Card,0%
+TXN1393,20-08-2022,23128,9019,14109,R&D,Africa,HR,Software,SMB,PayPal,4%
+TXN1394,15-07-2022,36294,16369,19925,Marketing,Africa,Operations,Software,SMB,Bank Transfer,28%
+TXN1395,23-10-2023,14630,19760,-5130,R&D,North America,IT,Healthcare,B2C,Bank Transfer,29%
+TXN1396,03-09-2023,46470,13830,32640,Sales,Africa,Finance,Software,Enterprise,Credit Card,26%
+TXN1397,16-05-2023,37838,18133,19705,R&D,Asia-Pacific,Marketing,Software,SMB,Cash,4%
+TXN1398,25-03-2023,5440,28128,-22688,Sales,Africa,IT,Software,B2C,Cash,23%
+TXN1399,01-07-2023,47314,5025,42289,Operations,Africa,Sales,Electronics,Enterprise,PayPal,9%
+TXN1400,17-08-2022,27513,10800,16713,R&D,North America,Sales,Healthcare,SMB,Cash,6%
+TXN1401,07-07-2022,48164,9638,38526,R&D,South America,Marketing,Furniture,B2B,PayPal,23%
+TXN1402,10-10-2023,32982,15932,17050,Marketing,Africa,IT,Software,B2C,Cash,7%
+TXN1403,07-09-2023,20295,23409,-3114,R&D,Africa,Operations,Healthcare,SMB,Cash,18%
+TXN1404,22-07-2022,8566,26072,-17506,Sales,Asia-Pacific,IT,Healthcare,Enterprise,Cash,29%
+TXN1405,23-04-2022,27541,21912,5629,HR,South America,IT,Healthcare,B2C,Bank Transfer,1%
+TXN1406,06-04-2023,39042,10395,28647,HR,Africa,Operations,Electronics,B2C,Bank Transfer,7%
+TXN1407,27-02-2022,18312,8552,9760,Marketing,Africa,IT,Software,B2C,Cash,22%
+TXN1408,10-12-2023,21805,19800,2005,Sales,Europe,IT,Software,Enterprise,Credit Card,10%
+TXN1409,07-05-2023,19464,15936,3528,R&D,Asia-Pacific,IT,Healthcare,B2B,Bank Transfer,10%
+TXN1410,28-10-2022,9927,24565,-14638,Marketing,Africa,HR,Clothing,SMB,Cash,8%
+TXN1411,07-07-2022,16727,5817,10910,Sales,Africa,IT,Clothing,SMB,Credit Card,19%
+TXN1412,31-10-2023,40371,16090,24281,Marketing,Africa,Marketing,Clothing,Enterprise,PayPal,17%
+TXN1413,24-11-2022,46113,18108,28005,Sales,South America,IT,Healthcare,B2B,Cash,12%
+TXN1414,28-08-2022,30084,4130,25954,R&D,Asia-Pacific,Marketing,Healthcare,SMB,Cash,27%
+TXN1415,20-09-2023,42606,23296,19310,Marketing,Europe,IT,Clothing,SMB,Credit Card,3%
+TXN1416,12-12-2023,35334,15625,19709,R&D,Europe,IT,Healthcare,SMB,Cash,12%
+TXN1417,11-06-2022,25491,27081,-1590,R&D,North America,IT,Healthcare,SMB,Bank Transfer,29%
+TXN1418,12-12-2023,5374,12537,-7163,R&D,North America,HR,Healthcare,B2B,Bank Transfer,28%
+TXN1419,04-02-2023,41236,18705,22531,R&D,South America,Marketing,Software,SMB,PayPal,9%
+TXN1420,07-05-2022,44361,10017,34344,R&D,North America,Finance,Electronics,SMB,Bank Transfer,26%
+TXN1421,10-06-2022,37813,17955,19858,R&D,South America,IT,Clothing,B2C,Credit Card,2%
+TXN1422,09-12-2022,6437,12937,-6500,R&D,Asia-Pacific,Marketing,Healthcare,Enterprise,Credit Card,26%
+TXN1423,22-06-2023,29648,11420,18228,Operations,Africa,Operations,Software,B2C,PayPal,29%
+TXN1424,01-04-2022,44019,6461,37558,R&D,Africa,IT,Electronics,SMB,Cash,4%
+TXN1425,20-03-2022,16696,4926,11770,Sales,Africa,Sales,Electronics,SMB,Credit Card,24%
+TXN1426,13-10-2022,5544,26014,-20470,R&D,Africa,IT,Software,B2B,Cash,3%
+TXN1427,06-04-2022,6815,6509,306,Marketing,Africa,Finance,Healthcare,B2B,Cash,10%
+TXN1428,18-03-2022,47386,28462,18924,R&D,North America,IT,Healthcare,B2C,Cash,24%
+TXN1429,03-11-2023,16047,21902,-5855,Sales,Africa,Finance,Healthcare,SMB,Cash,26%
+TXN1430,29-03-2022,28300,6260,22040,R&D,Africa,IT,Furniture,Enterprise,Credit Card,8%
+TXN1431,29-04-2023,49031,3666,45365,Sales,Africa,Operations,Healthcare,Enterprise,Bank Transfer,15%
+TXN1432,19-09-2022,41531,19184,22347,Operations,North America,IT,Electronics,B2B,Credit Card,3%
+TXN1433,24-01-2022,33086,10777,22309,R&D,Africa,Operations,Software,SMB,Cash,1%
+TXN1434,26-12-2022,31376,22176,9200,R&D,Africa,Marketing,Healthcare,B2C,Credit Card,4%
+TXN1435,23-07-2023,29452,22182,7270,R&D,Asia-Pacific,Marketing,Furniture,SMB,PayPal,29%
+TXN1436,17-06-2023,15571,22697,-7126,Sales,South America,Operations,Electronics,B2C,Credit Card,7%
+TXN1437,18-06-2022,12609,17126,-4517,R&D,Asia-Pacific,HR,Healthcare,B2B,Credit Card,13%
+TXN1438,30-10-2023,38467,29551,8916,Operations,North America,HR,Healthcare,SMB,PayPal,2%
+TXN1439,30-04-2022,26578,28130,-1552,R&D,Africa,Marketing,Healthcare,B2B,Credit Card,2%
+TXN1440,14-02-2022,39381,7750,31631,R&D,Europe,Sales,Healthcare,SMB,Cash,21%
+TXN1441,08-09-2022,26777,29436,-2659,R&D,Africa,IT,Electronics,SMB,Bank Transfer,15%
+TXN1442,03-01-2022,48704,10904,37800,HR,Africa,Sales,Furniture,B2B,PayPal,0%
+TXN1443,11-09-2022,16160,24073,-7913,Sales,South America,IT,Electronics,SMB,Bank Transfer,12%
+TXN1444,08-05-2022,14095,24297,-10202,Sales,Europe,IT,Electronics,SMB,Credit Card,13%
+TXN1445,31-05-2023,38072,28126,9946,R&D,North America,IT,Clothing,SMB,PayPal,28%
+TXN1446,19-01-2023,48556,22060,26496,R&D,North America,Sales,Clothing,B2B,Cash,3%
+TXN1447,02-04-2023,33598,17082,16516,R&D,South America,HR,Clothing,B2C,Cash,22%
+TXN1448,28-05-2022,19112,7517,11595,Sales,North America,HR,Furniture,SMB,Credit Card,13%
+TXN1449,09-12-2022,40774,4186,36588,R&D,North America,Finance,Electronics,SMB,PayPal,13%
+TXN1450,02-02-2022,48251,5082,43169,R&D,Europe,Finance,Clothing,B2C,Bank Transfer,3%
+TXN1451,16-02-2023,18588,6770,11818,Operations,North America,IT,Healthcare,Enterprise,Cash,18%
+TXN1452,03-06-2022,47501,7255,40246,Sales,South America,IT,Healthcare,SMB,Bank Transfer,7%
+TXN1453,09-07-2022,12604,25887,-13283,Sales,Africa,Marketing,Clothing,B2C,Cash,27%
+TXN1454,07-12-2022,29194,25039,4155,HR,Europe,HR,Clothing,Enterprise,Credit Card,10%
+TXN1455,25-07-2023,23089,5912,17177,Operations,North America,IT,Healthcare,B2B,Bank Transfer,3%
+TXN1456,03-10-2022,37304,29269,8035,Sales,Africa,Sales,Furniture,B2C,PayPal,22%
+TXN1457,26-04-2022,17530,7301,10229,Operations,Africa,Finance,Clothing,SMB,PayPal,13%
+TXN1458,05-08-2023,28754,10099,18655,R&D,Europe,IT,Healthcare,B2C,Cash,10%
+TXN1459,02-08-2022,45801,27380,18421,Marketing,Europe,IT,Healthcare,SMB,Cash,24%
+TXN1460,02-08-2023,5754,5453,301,Marketing,Africa,Finance,Healthcare,SMB,PayPal,12%
+TXN1461,17-02-2022,28315,11888,16427,Marketing,Africa,Sales,Healthcare,B2C,Credit Card,24%
+TXN1462,06-09-2023,7554,22871,-15317,Marketing,Africa,Operations,Software,B2C,PayPal,12%
+TXN1463,19-12-2023,24992,13747,11245,R&D,North America,IT,Healthcare,Enterprise,Credit Card,8%
+TXN1464,11-04-2023,48764,5243,43521,Operations,Europe,IT,Healthcare,SMB,Cash,0%
+TXN1465,30-07-2023,22666,3759,18907,Sales,Europe,Operations,Electronics,SMB,Cash,12%
+TXN1466,02-10-2023,37456,15788,21668,Operations,Africa,Marketing,Electronics,B2C,Credit Card,14%
+TXN1467,14-04-2022,25443,29244,-3801,Marketing,Africa,Marketing,Healthcare,Enterprise,Credit Card,14%
+TXN1468,29-04-2023,31227,21876,9351,R&D,Africa,HR,Furniture,B2C,Bank Transfer,15%
+TXN1469,01-09-2023,45856,19828,26028,Operations,North America,IT,Healthcare,SMB,Credit Card,8%
+TXN1470,29-10-2022,40849,8113,32736,HR,Asia-Pacific,HR,Healthcare,B2C,Credit Card,15%
+TXN1471,17-04-2023,21012,14141,6871,R&D,Africa,Finance,Electronics,B2C,PayPal,1%
+TXN1472,21-06-2022,35213,3979,31234,R&D,Africa,Marketing,Electronics,B2B,Bank Transfer,14%
+TXN1473,18-04-2022,31829,17649,14180,Sales,Europe,Operations,Clothing,SMB,Bank Transfer,28%
+TXN1474,15-06-2023,47759,8971,38788,Marketing,North America,Finance,Healthcare,B2B,Credit Card,21%
+TXN1475,17-03-2023,49432,4378,45054,Marketing,Europe,IT,Healthcare,SMB,PayPal,27%
+TXN1476,07-06-2023,6768,17161,-10393,R&D,Africa,IT,Healthcare,B2C,Credit Card,1%
+TXN1477,27-02-2022,25924,29718,-3794,Marketing,Asia-Pacific,IT,Healthcare,SMB,Credit Card,4%
+TXN1478,29-09-2022,7282,9680,-2398,Marketing,Europe,Marketing,Electronics,SMB,Credit Card,29%
+TXN1479,11-10-2023,27071,7642,19429,Marketing,Europe,Sales,Software,SMB,Cash,2%
+TXN1480,27-03-2022,31330,19495,11835,R&D,Africa,Sales,Software,B2B,Bank Transfer,29%
+TXN1481,02-12-2023,47508,13594,33914,Operations,North America,Sales,Furniture,SMB,Cash,17%
+TXN1482,15-06-2023,5431,11847,-6416,HR,North America,Sales,Electronics,SMB,Cash,11%
+TXN1483,06-02-2022,16309,29114,-12805,Operations,North America,Sales,Electronics,SMB,Cash,13%
+TXN1484,10-07-2023,17813,10317,7496,R&D,Asia-Pacific,HR,Healthcare,B2B,Bank Transfer,2%
+TXN1485,27-03-2022,48518,8269,40249,R&D,Africa,Finance,Electronics,SMB,PayPal,22%
+TXN1486,14-07-2023,28307,20995,7312,HR,Africa,Operations,Healthcare,B2C,Cash,21%
+TXN1487,31-12-2022,15088,15692,-604,R&D,Africa,IT,Healthcare,B2B,Credit Card,29%
+TXN1488,04-01-2022,22991,15309,7682,Sales,North America,Operations,Furniture,B2B,Bank Transfer,14%
+TXN1489,16-01-2023,39676,29861,9815,R&D,Africa,Operations,Clothing,B2B,Cash,0%
+TXN1490,09-07-2022,16214,9361,6853,R&D,Africa,HR,Healthcare,B2B,Credit Card,23%
+TXN1491,23-12-2023,14102,21764,-7662,Operations,Africa,Finance,Software,Enterprise,Cash,10%
+TXN1492,24-03-2022,22150,11223,10927,R&D,Africa,Sales,Electronics,B2C,Cash,1%
+TXN1493,01-11-2022,22020,21927,93,R&D,South America,IT,Clothing,B2B,Bank Transfer,26%
+TXN1494,31-05-2022,25124,16685,8439,R&D,Asia-Pacific,IT,Electronics,B2B,Bank Transfer,8%
+TXN1495,01-05-2023,26146,28173,-2027,Marketing,Africa,Sales,Healthcare,Enterprise,Credit Card,0%
+TXN1496,11-06-2023,12059,15885,-3826,R&D,Africa,IT,Furniture,SMB,Bank Transfer,7%
+TXN1497,26-07-2022,32069,23853,8216,Operations,North America,IT,Clothing,Enterprise,Cash,13%
+TXN1498,12-10-2023,39664,15246,24418,HR,Europe,Sales,Electronics,B2C,Bank Transfer,14%
+TXN1499,23-08-2022,18896,4943,13953,Marketing,Europe,Sales,Clothing,SMB,Cash,3%
+TXN1500,06-06-2023,48118,13541,34577,HR,Africa,Finance,Furniture,SMB,Bank Transfer,1%
+TXN1501,04-02-2023,16561,6348,10213,R&D,Asia-Pacific,Sales,Healthcare,Enterprise,Credit Card,12%
+TXN1502,22-05-2023,39291,19352,19939,R&D,Africa,Marketing,Electronics,B2B,PayPal,16%
+TXN1503,04-09-2023,39154,6642,32512,Operations,South America,IT,Healthcare,B2C,Cash,21%
+TXN1504,12-06-2023,38149,8578,29571,Sales,Africa,Marketing,Healthcare,SMB,Cash,5%
+TXN1505,06-03-2023,27983,8563,19420,R&D,Europe,IT,Electronics,B2B,Bank Transfer,23%
+TXN1506,07-02-2023,8884,28898,-20014,R&D,Asia-Pacific,IT,Furniture,SMB,PayPal,7%
+TXN1507,12-06-2023,27875,28096,-221,Marketing,North America,IT,Software,SMB,Cash,6%
+TXN1508,16-08-2022,6984,24031,-17047,R&D,Asia-Pacific,Operations,Healthcare,B2B,Credit Card,10%
+TXN1509,19-03-2023,18104,25039,-6935,Marketing,Africa,IT,Clothing,B2B,Cash,16%
+TXN1510,26-05-2022,30500,5407,25093,Operations,Europe,Sales,Electronics,B2C,PayPal,9%
+TXN1511,14-05-2023,25184,29823,-4639,Marketing,Europe,Operations,Clothing,B2C,Cash,4%
+TXN1512,25-03-2023,29834,16609,13225,Operations,Africa,Operations,Electronics,Enterprise,Cash,9%
+TXN1513,23-09-2023,27959,19881,8078,R&D,Asia-Pacific,Sales,Clothing,Enterprise,Cash,19%
+TXN1514,04-04-2022,10026,4266,5760,Operations,Africa,Sales,Electronics,SMB,Bank Transfer,18%
+TXN1515,21-05-2023,18923,16395,2528,Sales,Africa,Marketing,Healthcare,Enterprise,Credit Card,27%
+TXN1516,07-08-2022,46042,20785,25257,Sales,Africa,Operations,Healthcare,B2C,Bank Transfer,23%
+TXN1517,28-12-2022,33636,22500,11136,R&D,Africa,Sales,Healthcare,B2C,Cash,20%
+TXN1518,23-08-2022,25988,4530,21458,Sales,Europe,Sales,Healthcare,B2B,Credit Card,18%
+TXN1519,21-09-2023,46290,15119,31171,Sales,Asia-Pacific,Marketing,Software,SMB,Bank Transfer,25%
+TXN1520,27-05-2023,22716,20693,2023,R&D,Africa,HR,Software,SMB,Cash,6%
+TXN1521,17-02-2023,10640,26365,-15725,R&D,Africa,IT,Furniture,B2B,Credit Card,5%
+TXN1522,01-12-2023,7962,22731,-14769,R&D,North America,IT,Healthcare,B2C,Cash,9%
+TXN1523,20-11-2022,38526,15866,22660,HR,Europe,Marketing,Clothing,SMB,Cash,24%
+TXN1524,27-09-2023,7893,19200,-11307,Operations,South America,Finance,Software,Enterprise,Cash,21%
+TXN1525,14-05-2023,7017,28967,-21950,Marketing,Africa,Finance,Clothing,SMB,Cash,15%
+TXN1526,01-08-2022,5478,27048,-21570,Operations,North America,IT,Clothing,SMB,Cash,2%
+TXN1527,09-09-2023,33541,10621,22920,Operations,North America,Sales,Clothing,B2B,Bank Transfer,20%
+TXN1528,20-02-2022,15186,19159,-3973,Sales,Asia-Pacific,Marketing,Electronics,SMB,PayPal,16%
+TXN1529,19-06-2023,41542,17410,24132,Operations,Europe,Marketing,Furniture,SMB,Cash,20%
+TXN1530,17-02-2023,13733,14214,-481,Sales,Asia-Pacific,HR,Furniture,Enterprise,Credit Card,15%
+TXN1531,27-10-2023,40595,22135,18460,Sales,Africa,IT,Furniture,B2B,Bank Transfer,0%
+TXN1532,22-05-2023,31316,21128,10188,R&D,Africa,Sales,Software,B2B,Cash,21%
+TXN1533,08-03-2022,37408,20300,17108,R&D,Africa,Marketing,Clothing,B2B,Credit Card,4%
+TXN1534,11-02-2022,6152,3326,2826,Operations,Asia-Pacific,IT,Electronics,SMB,Bank Transfer,1%
+TXN1535,17-02-2023,44115,4788,39327,Marketing,North America,IT,Healthcare,SMB,Cash,9%
+TXN1536,08-01-2022,34270,10268,24002,Sales,Africa,Finance,Healthcare,B2B,Credit Card,16%
+TXN1537,18-06-2023,5132,21008,-15876,R&D,Africa,IT,Software,B2B,Cash,19%
+TXN1538,21-09-2022,22614,20418,2196,Sales,North America,IT,Electronics,B2C,Cash,0%
+TXN1539,13-06-2022,27763,8032,19731,Marketing,Africa,Sales,Clothing,B2C,Credit Card,21%
+TXN1540,13-03-2023,32944,5342,27602,R&D,North America,IT,Healthcare,Enterprise,PayPal,9%
+TXN1541,25-12-2023,14433,6620,7813,R&D,Africa,Marketing,Healthcare,SMB,Credit Card,2%
+TXN1542,06-04-2023,31015,23703,7312,R&D,Africa,Sales,Healthcare,B2C,Bank Transfer,20%
+TXN1543,05-06-2022,16530,12379,4151,Operations,North America,IT,Healthcare,SMB,Cash,12%
+TXN1544,06-08-2022,6940,9409,-2469,R&D,Asia-Pacific,Finance,Software,SMB,PayPal,11%
+TXN1545,05-04-2022,31455,16029,15426,R&D,South America,Finance,Clothing,Enterprise,Cash,18%
+TXN1546,13-03-2022,31609,21141,10468,HR,Africa,IT,Electronics,SMB,Cash,21%
+TXN1547,09-04-2022,6964,20731,-13767,R&D,South America,IT,Clothing,B2C,PayPal,8%
+TXN1548,18-05-2022,24796,11619,13177,R&D,Asia-Pacific,IT,Clothing,B2C,PayPal,22%
+TXN1549,22-02-2022,8044,8448,-404,Operations,Africa,Sales,Healthcare,SMB,Credit Card,1%
+TXN1550,27-01-2022,7518,29671,-22153,R&D,Europe,Operations,Electronics,B2C,PayPal,1%
+TXN1551,24-06-2023,15214,6287,8927,HR,Europe,IT,Healthcare,SMB,Cash,3%
+TXN1552,15-12-2023,42531,9230,33301,Operations,Asia-Pacific,IT,Healthcare,B2C,Credit Card,27%
+TXN1553,07-07-2022,16791,25425,-8634,Sales,North America,Marketing,Clothing,SMB,Cash,8%
+TXN1554,27-06-2022,21370,29003,-7633,Operations,Africa,IT,Healthcare,SMB,Bank Transfer,12%
+TXN1555,05-04-2023,23084,27613,-4529,Sales,North America,Marketing,Clothing,SMB,Cash,11%
+TXN1556,24-08-2023,42588,17282,25306,Sales,Europe,Finance,Furniture,B2B,Cash,29%
+TXN1557,21-05-2022,20022,12429,7593,R&D,Europe,Sales,Healthcare,SMB,Cash,12%
+TXN1558,22-09-2022,26783,12267,14516,Operations,North America,Operations,Clothing,B2C,Credit Card,21%
+TXN1559,17-09-2023,40922,5455,35467,R&D,Africa,IT,Furniture,B2B,Cash,21%
+TXN1560,28-09-2023,23349,10140,13209,R&D,Africa,IT,Electronics,B2B,Cash,28%
+TXN1561,05-04-2023,33362,11647,21715,Sales,Africa,IT,Healthcare,SMB,Cash,20%
+TXN1562,20-01-2023,5525,19305,-13780,Sales,North America,Sales,Electronics,SMB,PayPal,21%
+TXN1563,24-10-2022,7942,9496,-1554,R&D,Africa,IT,Electronics,B2B,Credit Card,25%
+TXN1564,25-07-2022,32280,18157,14123,Marketing,North America,Finance,Healthcare,SMB,Credit Card,6%
+TXN1565,15-04-2023,47723,22621,25102,Sales,Europe,HR,Healthcare,SMB,Cash,25%
+TXN1566,15-04-2022,30080,22924,7156,Operations,Africa,IT,Healthcare,SMB,Credit Card,19%
+TXN1567,27-01-2022,42001,3418,38583,Marketing,North America,Sales,Healthcare,B2B,Bank Transfer,22%
+TXN1568,16-11-2022,47926,6870,41056,R&D,North America,IT,Furniture,B2C,Cash,7%
+TXN1569,19-03-2022,46579,10686,35893,Sales,South America,Marketing,Clothing,B2C,Cash,21%
+TXN1570,08-08-2023,22816,27425,-4609,R&D,Europe,IT,Healthcare,B2C,Bank Transfer,1%
+TXN1571,09-09-2023,14302,29397,-15095,Operations,Asia-Pacific,IT,Healthcare,SMB,Cash,8%
+TXN1572,14-08-2022,17921,27921,-10000,Sales,Africa,Finance,Software,B2C,Cash,23%
+TXN1573,23-06-2023,26047,29828,-3781,Sales,Africa,Marketing,Clothing,Enterprise,Credit Card,29%
+TXN1574,01-08-2023,16592,24545,-7953,Sales,South America,Operations,Healthcare,SMB,PayPal,8%
+TXN1575,02-04-2022,32476,7149,25327,R&D,Africa,Operations,Healthcare,B2B,Bank Transfer,7%
+TXN1576,07-04-2022,36935,11479,25456,R&D,Africa,Marketing,Electronics,Enterprise,Credit Card,2%
+TXN1577,24-04-2023,20287,5389,14898,Operations,Europe,HR,Clothing,SMB,Cash,7%
+TXN1578,04-07-2022,40465,28682,11783,HR,Asia-Pacific,HR,Clothing,SMB,Cash,28%
+TXN1579,23-03-2023,18474,15074,3400,Marketing,North America,HR,Clothing,SMB,PayPal,18%
+TXN1580,09-11-2022,42165,26179,15986,Operations,Asia-Pacific,IT,Clothing,SMB,PayPal,21%
+TXN1581,07-12-2022,23944,16526,7418,Operations,Europe,Sales,Healthcare,B2B,Cash,18%
+TXN1582,15-02-2022,18458,12894,5564,Operations,South America,Marketing,Electronics,B2B,Cash,24%
+TXN1583,30-07-2022,5478,24825,-19347,Operations,Europe,IT,Healthcare,B2B,Credit Card,27%
+TXN1584,14-12-2022,12343,23087,-10744,Operations,North America,IT,Software,B2C,Credit Card,16%
+TXN1585,26-10-2023,13388,9401,3987,R&D,Africa,Sales,Clothing,B2C,Credit Card,22%
+TXN1586,23-06-2022,33662,23759,9903,Operations,South America,IT,Healthcare,B2B,Cash,9%
+TXN1587,24-03-2023,25106,3346,21760,HR,Africa,IT,Electronics,B2B,Cash,4%
+TXN1588,15-11-2022,16065,6674,9391,Sales,Asia-Pacific,Finance,Healthcare,SMB,Credit Card,21%
+TXN1589,23-10-2022,47795,29753,18042,R&D,South America,IT,Clothing,SMB,Bank Transfer,22%
+TXN1590,04-12-2022,33874,9399,24475,HR,Africa,IT,Clothing,SMB,Cash,12%
+TXN1591,11-09-2023,11540,7099,4441,Sales,Africa,IT,Healthcare,B2B,Cash,11%
+TXN1592,22-09-2022,8796,7098,1698,Operations,Africa,Sales,Software,Enterprise,Credit Card,26%
+TXN1593,07-06-2022,17008,16625,383,Operations,Africa,Sales,Software,Enterprise,PayPal,17%
+TXN1594,23-11-2023,46457,15407,31050,R&D,North America,HR,Healthcare,B2C,Cash,18%
+TXN1595,13-06-2022,11299,20434,-9135,Sales,Africa,IT,Clothing,B2B,Bank Transfer,2%
+TXN1596,26-09-2023,7109,11810,-4701,Marketing,Asia-Pacific,IT,Furniture,B2B,Credit Card,16%
+TXN1597,02-12-2023,33448,21775,11673,R&D,North America,IT,Healthcare,SMB,Credit Card,5%
+TXN1598,08-04-2023,46709,7913,38796,Sales,Africa,Marketing,Clothing,B2C,Credit Card,28%
+TXN1599,31-01-2022,16751,15908,843,HR,Europe,Sales,Clothing,B2B,Credit Card,2%
+TXN1600,13-05-2022,40001,4161,35840,R&D,North America,IT,Electronics,SMB,Bank Transfer,2%
+TXN1601,14-01-2023,34734,15682,19052,Marketing,Africa,Marketing,Healthcare,Enterprise,Bank Transfer,16%
+TXN1602,31-01-2023,6446,9893,-3447,R&D,Africa,Marketing,Furniture,Enterprise,Cash,1%
+TXN1603,23-03-2023,29249,9653,19596,Marketing,Africa,IT,Healthcare,B2C,Cash,25%
+TXN1604,18-02-2023,24872,25841,-969,HR,Africa,HR,Clothing,Enterprise,Cash,8%
+TXN1605,13-09-2023,22723,12225,10498,Operations,Africa,IT,Furniture,SMB,Cash,21%
+TXN1606,03-10-2023,42424,4633,37791,Sales,Europe,IT,Electronics,B2B,Cash,25%
+TXN1607,14-10-2022,43792,24700,19092,R&D,North America,IT,Electronics,B2C,Bank Transfer,11%
+TXN1608,21-03-2022,43196,16053,27143,R&D,North America,HR,Healthcare,SMB,Cash,25%
+TXN1609,13-05-2023,27146,4529,22617,Sales,Africa,Operations,Healthcare,Enterprise,Bank Transfer,14%
+TXN1610,12-10-2023,41241,18352,22889,R&D,Europe,HR,Clothing,SMB,Cash,29%
+TXN1611,30-12-2023,32119,10321,21798,R&D,North America,IT,Software,Enterprise,Cash,5%
+TXN1612,23-07-2023,47182,18160,29022,Marketing,Europe,IT,Software,Enterprise,PayPal,22%
+TXN1613,21-07-2022,5854,26523,-20669,R&D,South America,IT,Healthcare,SMB,Cash,11%
+TXN1614,02-06-2023,28617,20756,7861,R&D,Europe,Sales,Electronics,B2B,PayPal,13%
+TXN1615,21-05-2022,5454,7615,-2161,HR,Europe,Operations,Software,B2B,Bank Transfer,5%
+TXN1616,03-11-2023,38204,4715,33489,Operations,South America,Finance,Healthcare,SMB,Cash,11%
+TXN1617,24-05-2023,28262,22756,5506,R&D,Europe,Sales,Healthcare,SMB,Credit Card,22%
+TXN1618,05-04-2022,5191,28378,-23187,HR,Africa,IT,Healthcare,SMB,Credit Card,0%
+TXN1619,04-08-2022,48715,22408,26307,Operations,Europe,IT,Healthcare,B2B,Cash,0%
+TXN1620,24-11-2022,47149,25321,21828,HR,South America,HR,Clothing,B2C,Cash,18%
+TXN1621,19-06-2022,18816,5352,13464,Marketing,Africa,Marketing,Clothing,B2B,Bank Transfer,25%
+TXN1622,15-03-2023,44814,13955,30859,R&D,North America,IT,Clothing,SMB,Cash,10%
+TXN1623,23-10-2023,41992,22962,19030,Operations,North America,Operations,Furniture,B2C,PayPal,12%
+TXN1624,13-11-2023,18907,11704,7203,Sales,Africa,HR,Healthcare,SMB,Cash,25%
+TXN1625,21-03-2023,39274,7101,32173,HR,South America,IT,Software,Enterprise,Cash,28%
+TXN1626,24-03-2023,28681,27054,1627,Marketing,Africa,Finance,Electronics,B2C,Cash,12%
+TXN1627,16-07-2023,6063,24915,-18852,R&D,North America,Sales,Healthcare,B2B,Cash,29%
+TXN1628,28-10-2023,30391,26334,4057,Operations,South America,Sales,Furniture,B2B,Cash,26%
+TXN1629,23-11-2022,46453,3156,43297,R&D,Africa,Marketing,Healthcare,SMB,Bank Transfer,29%
+TXN1630,19-06-2023,31414,4749,26665,Sales,North America,Marketing,Software,SMB,Cash,22%
+TXN1631,24-07-2022,13353,5057,8296,R&D,Africa,IT,Electronics,SMB,Cash,25%
+TXN1632,09-06-2023,47560,23379,24181,R&D,Africa,IT,Healthcare,SMB,Credit Card,15%
+TXN1633,01-11-2022,46322,24620,21702,Sales,South America,Marketing,Clothing,SMB,Bank Transfer,27%
+TXN1634,22-08-2022,48146,26342,21804,R&D,North America,IT,Furniture,SMB,PayPal,5%
+TXN1635,19-09-2022,17835,5975,11860,R&D,Africa,HR,Furniture,SMB,Cash,2%
+TXN1636,24-12-2022,15057,11870,3187,R&D,Africa,HR,Healthcare,SMB,PayPal,8%
+TXN1637,15-09-2022,33920,26598,7322,Sales,Europe,IT,Healthcare,SMB,Credit Card,27%
+TXN1638,25-08-2022,26826,24829,1997,R&D,Asia-Pacific,IT,Healthcare,B2C,PayPal,7%
+TXN1639,28-11-2022,28534,10174,18360,R&D,North America,Sales,Healthcare,SMB,Cash,20%
+TXN1640,30-11-2022,18495,3042,15453,R&D,Asia-Pacific,IT,Electronics,Enterprise,PayPal,18%
+TXN1641,01-11-2023,23993,13897,10096,Marketing,South America,Sales,Healthcare,B2C,PayPal,14%
+TXN1642,26-02-2022,38656,21680,16976,R&D,South America,Sales,Healthcare,SMB,Bank Transfer,23%
+TXN1643,28-02-2023,46706,13193,33513,R&D,South America,Sales,Furniture,B2C,Cash,26%
+TXN1644,20-12-2023,35732,6512,29220,Marketing,Africa,Finance,Electronics,B2B,Cash,23%
+TXN1645,13-12-2023,19428,5034,14394,Sales,Africa,Marketing,Clothing,SMB,Bank Transfer,12%
+TXN1646,26-05-2022,33740,27238,6502,Operations,Africa,IT,Healthcare,B2B,PayPal,20%
+TXN1647,20-10-2023,33596,25245,8351,Sales,North America,Sales,Electronics,B2B,PayPal,26%
+TXN1648,18-12-2022,13963,29346,-15383,R&D,Asia-Pacific,Marketing,Software,B2B,Credit Card,19%
+TXN1649,23-02-2023,42741,23175,19566,Operations,Europe,IT,Software,SMB,Cash,8%
+TXN1650,09-07-2023,8924,18715,-9791,Sales,Asia-Pacific,Marketing,Furniture,B2B,Cash,14%
+TXN1651,22-08-2022,14398,13411,987,R&D,Africa,IT,Healthcare,B2B,Credit Card,6%
+TXN1652,03-04-2023,41999,7328,34671,Marketing,South America,Marketing,Furniture,B2C,Bank Transfer,28%
+TXN1653,26-04-2022,17161,28793,-11632,R&D,North America,Finance,Healthcare,B2B,Cash,27%
+TXN1654,14-08-2022,49306,6007,43299,Sales,Asia-Pacific,IT,Healthcare,SMB,Credit Card,3%
+TXN1655,03-01-2023,19573,29147,-9574,R&D,Asia-Pacific,HR,Healthcare,B2C,Cash,27%
+TXN1656,08-04-2023,38307,20215,18092,R&D,North America,IT,Healthcare,SMB,Credit Card,24%
+TXN1657,30-04-2022,48124,29998,18126,Marketing,Europe,HR,Healthcare,SMB,Cash,22%
+TXN1658,24-05-2023,28066,14658,13408,Sales,Europe,IT,Healthcare,SMB,Cash,19%
+TXN1659,18-04-2022,44227,21633,22594,Sales,Asia-Pacific,IT,Healthcare,Enterprise,PayPal,29%
+TXN1660,14-12-2022,47624,23242,24382,Sales,Europe,Operations,Clothing,B2C,Credit Card,5%
+TXN1661,13-04-2022,45253,24166,21087,R&D,Europe,IT,Healthcare,B2C,Bank Transfer,1%
+TXN1662,04-08-2023,30015,5385,24630,R&D,Asia-Pacific,HR,Clothing,SMB,PayPal,5%
+TXN1663,02-04-2022,5871,19991,-14120,Sales,North America,Sales,Software,B2C,PayPal,22%
+TXN1664,30-10-2022,12605,26900,-14295,R&D,Africa,IT,Healthcare,SMB,Cash,27%
+TXN1665,02-01-2023,20785,18620,2165,Sales,Europe,Sales,Electronics,B2C,Credit Card,9%
+TXN1666,29-05-2022,30503,11973,18530,Marketing,North America,Sales,Clothing,SMB,Bank Transfer,17%
+TXN1667,24-12-2023,8234,7038,1196,HR,Africa,IT,Healthcare,SMB,Cash,29%
+TXN1668,05-04-2022,37359,22839,14520,Operations,Africa,Operations,Healthcare,SMB,Cash,6%
+TXN1669,06-07-2023,10252,17551,-7299,HR,Africa,IT,Clothing,SMB,Credit Card,29%
+TXN1670,18-08-2023,37862,15933,21929,Sales,Africa,Marketing,Healthcare,Enterprise,Cash,11%
+TXN1671,08-09-2023,33548,27582,5966,HR,Europe,Operations,Software,B2B,Bank Transfer,29%
+TXN1672,24-12-2022,37064,3703,33361,Marketing,Africa,IT,Electronics,B2C,Cash,22%
+TXN1673,03-07-2023,31117,12257,18860,R&D,Europe,IT,Software,B2B,Cash,3%
+TXN1674,15-11-2022,19919,12833,7086,Operations,Europe,IT,Healthcare,B2C,Cash,18%
+TXN1675,22-11-2023,39797,14304,25493,Operations,Africa,IT,Healthcare,SMB,Credit Card,22%
+TXN1676,29-04-2022,32725,21624,11101,Sales,Asia-Pacific,IT,Software,SMB,Cash,11%
+TXN1677,10-03-2022,13418,15073,-1655,HR,South America,Sales,Electronics,SMB,Credit Card,14%
+TXN1678,15-03-2023,20560,13005,7555,Sales,North America,HR,Clothing,SMB,Credit Card,26%
+TXN1679,15-03-2023,38693,12199,26494,R&D,Europe,Operations,Healthcare,Enterprise,Cash,4%
+TXN1680,04-12-2023,28640,15998,12642,Marketing,North America,Marketing,Healthcare,B2B,Credit Card,28%
+TXN1681,02-01-2023,30154,15485,14669,Marketing,Africa,Marketing,Clothing,SMB,Bank Transfer,8%
+TXN1682,30-10-2022,22206,25036,-2830,Marketing,North America,Operations,Healthcare,Enterprise,Credit Card,29%
+TXN1683,24-11-2023,12563,21435,-8872,Sales,North America,HR,Electronics,B2B,Credit Card,14%
+TXN1684,07-03-2022,15683,23628,-7945,R&D,Africa,Marketing,Healthcare,SMB,Cash,25%
+TXN1685,24-07-2022,21082,7537,13545,R&D,North America,IT,Electronics,SMB,Bank Transfer,27%
+TXN1686,30-06-2022,42262,5620,36642,Marketing,Africa,Operations,Electronics,SMB,Credit Card,26%
+TXN1687,20-11-2022,9521,24408,-14887,R&D,North America,IT,Healthcare,B2C,Credit Card,10%
+TXN1688,16-03-2022,24633,20083,4550,Marketing,South America,Finance,Furniture,SMB,Credit Card,5%
+TXN1689,26-05-2022,36932,24507,12425,Operations,South America,HR,Electronics,B2B,PayPal,28%
+TXN1690,02-04-2023,6898,6346,552,Operations,Africa,IT,Furniture,B2B,Credit Card,28%
+TXN1691,25-09-2023,29920,6302,23618,R&D,North America,Sales,Healthcare,B2B,Cash,15%
+TXN1692,24-04-2023,9027,19475,-10448,HR,North America,IT,Clothing,SMB,Bank Transfer,17%
+TXN1693,29-06-2023,24353,8317,16036,R&D,North America,IT,Clothing,B2B,Cash,14%
+TXN1694,06-01-2022,22350,11914,10436,R&D,Africa,Sales,Healthcare,Enterprise,PayPal,25%
+TXN1695,12-04-2023,8223,8078,145,Sales,Africa,Sales,Electronics,B2C,Credit Card,27%
+TXN1696,25-08-2023,32789,15109,17680,R&D,North America,IT,Electronics,SMB,PayPal,24%
+TXN1697,26-08-2023,10086,6815,3271,R&D,North America,HR,Electronics,SMB,Cash,8%
+TXN1698,10-10-2022,20746,11823,8923,Sales,Africa,Finance,Software,B2C,PayPal,3%
+TXN1699,08-07-2022,39173,23158,16015,Operations,Africa,Marketing,Healthcare,SMB,Credit Card,4%
+TXN1700,05-05-2022,25615,20817,4798,Sales,South America,HR,Electronics,Enterprise,Cash,27%
+TXN1701,30-06-2023,28599,12568,16031,Sales,Africa,HR,Electronics,B2B,Credit Card,21%
+TXN1702,28-11-2023,20387,16313,4074,Sales,Asia-Pacific,Marketing,Clothing,SMB,Cash,8%
+TXN1703,18-07-2022,15905,5616,10289,HR,North America,Marketing,Electronics,Enterprise,Credit Card,25%
+TXN1704,06-01-2022,36681,17873,18808,R&D,North America,IT,Software,SMB,Credit Card,10%
+TXN1705,10-04-2023,17807,15930,1877,R&D,Asia-Pacific,Sales,Healthcare,SMB,Cash,16%
+TXN1706,02-10-2023,40701,13714,26987,Sales,Asia-Pacific,Marketing,Clothing,SMB,PayPal,3%
+TXN1707,21-03-2023,32513,18934,13579,R&D,Europe,Sales,Clothing,SMB,Bank Transfer,14%
+TXN1708,13-06-2023,24387,20465,3922,Operations,North America,IT,Software,B2B,Bank Transfer,9%
+TXN1709,27-02-2023,36723,5367,31356,R&D,Africa,Operations,Healthcare,Enterprise,Cash,18%
+TXN1710,02-01-2023,16705,20543,-3838,R&D,Asia-Pacific,Sales,Healthcare,B2C,Bank Transfer,5%
+TXN1711,29-11-2022,28064,21872,6192,R&D,North America,IT,Electronics,B2B,Credit Card,1%
+TXN1712,04-12-2023,18382,6660,11722,Sales,North America,HR,Electronics,B2C,Credit Card,28%
+TXN1713,01-10-2023,42361,13820,28541,Marketing,Africa,HR,Furniture,B2C,Cash,8%
+TXN1714,17-12-2023,20777,8902,11875,Operations,Africa,IT,Software,SMB,Cash,17%
+TXN1715,14-12-2022,40166,9516,30650,Marketing,Africa,HR,Furniture,Enterprise,Cash,12%
+TXN1716,18-05-2023,39201,15953,23248,R&D,Africa,IT,Furniture,SMB,Cash,6%
+TXN1717,22-02-2022,42965,4366,38599,Sales,North America,Operations,Healthcare,B2B,Credit Card,24%
+TXN1718,11-09-2023,6863,11481,-4618,R&D,Africa,IT,Healthcare,B2B,Cash,20%
+TXN1719,12-03-2023,48987,16102,32885,Marketing,Europe,IT,Healthcare,B2B,Credit Card,21%
+TXN1720,17-12-2023,38832,10518,28314,Operations,Africa,IT,Electronics,SMB,Cash,29%
+TXN1721,15-10-2023,28836,12153,16683,Marketing,Africa,Marketing,Software,SMB,PayPal,2%
+TXN1722,21-09-2022,22570,6074,16496,Sales,North America,IT,Electronics,SMB,Credit Card,13%
+TXN1723,25-12-2023,47646,8794,38852,R&D,South America,IT,Healthcare,B2C,Bank Transfer,19%
+TXN1724,25-11-2023,47646,9528,38118,Sales,Africa,Sales,Electronics,B2B,Cash,8%
+TXN1725,24-02-2022,6298,5172,1126,Sales,Europe,Operations,Healthcare,B2C,Bank Transfer,27%
+TXN1726,01-06-2023,29770,24474,5296,R&D,North America,IT,Software,B2B,Credit Card,24%
+TXN1727,09-11-2023,45843,16570,29273,Operations,Africa,Sales,Healthcare,B2B,Cash,0%
+TXN1728,14-10-2023,31689,5884,25805,Sales,Asia-Pacific,Sales,Software,SMB,PayPal,3%
+TXN1729,03-12-2022,21337,15237,6100,R&D,North America,Finance,Healthcare,B2C,Cash,11%
+TXN1730,22-05-2023,46261,19543,26718,Sales,Africa,IT,Electronics,B2B,Bank Transfer,20%
+TXN1731,16-01-2023,12324,8484,3840,Marketing,Asia-Pacific,HR,Furniture,B2C,Cash,11%
+TXN1732,08-03-2022,13155,22051,-8896,R&D,North America,Marketing,Electronics,SMB,Credit Card,8%
+TXN1733,11-06-2022,42105,28139,13966,R&D,North America,IT,Healthcare,B2C,Credit Card,17%
+TXN1734,11-05-2023,44665,29352,15313,Operations,Asia-Pacific,Marketing,Healthcare,SMB,Cash,17%
+TXN1735,17-12-2023,32402,4350,28052,R&D,Africa,HR,Electronics,SMB,Credit Card,24%
+TXN1736,27-11-2022,7079,8806,-1727,Sales,South America,IT,Clothing,B2C,Cash,25%
+TXN1737,09-05-2022,31422,23067,8355,Marketing,Africa,Operations,Healthcare,SMB,Cash,17%
+TXN1738,29-07-2022,22931,25239,-2308,R&D,North America,IT,Clothing,Enterprise,Bank Transfer,19%
+TXN1739,13-04-2023,40582,21562,19020,Marketing,North America,IT,Electronics,B2B,Cash,16%
+TXN1740,16-05-2022,41501,9936,31565,Sales,North America,Operations,Healthcare,SMB,Bank Transfer,12%
+TXN1741,03-08-2023,35515,28708,6807,HR,Europe,Finance,Software,SMB,Bank Transfer,16%
+TXN1742,04-03-2023,13425,4082,9343,R&D,Africa,IT,Software,B2C,Bank Transfer,25%
+TXN1743,24-11-2022,40604,28326,12278,Sales,North America,IT,Electronics,SMB,Credit Card,17%
+TXN1744,16-09-2022,36910,20010,16900,Sales,North America,HR,Furniture,B2C,Cash,20%
+TXN1745,09-04-2022,24647,19505,5142,Sales,North America,Marketing,Clothing,Enterprise,Credit Card,21%
+TXN1746,17-08-2022,39972,27333,12639,Marketing,Europe,IT,Electronics,B2B,Cash,16%
+TXN1747,02-12-2023,15759,9656,6103,R&D,Europe,Operations,Healthcare,SMB,Credit Card,22%
+TXN1748,20-09-2023,25309,5619,19690,Marketing,Africa,Operations,Electronics,SMB,Cash,2%
+TXN1749,01-05-2022,46613,12831,33782,R&D,Europe,Marketing,Electronics,SMB,Bank Transfer,17%
+TXN1750,02-08-2022,44348,22024,22324,Operations,Africa,IT,Healthcare,SMB,Cash,0%
+TXN1751,21-01-2023,25401,20984,4417,Sales,Asia-Pacific,Sales,Furniture,SMB,Cash,8%
+TXN1752,14-12-2023,17368,23490,-6122,R&D,Asia-Pacific,IT,Furniture,B2C,Bank Transfer,28%
+TXN1753,01-06-2023,21284,18401,2883,R&D,Europe,Marketing,Software,B2C,Credit Card,26%
+TXN1754,16-01-2022,27295,23245,4050,R&D,Africa,IT,Electronics,SMB,Cash,14%
+TXN1755,07-01-2023,14871,9195,5676,Sales,Africa,IT,Furniture,B2B,Credit Card,16%
+TXN1756,18-10-2022,11232,13366,-2134,Sales,Asia-Pacific,IT,Healthcare,Enterprise,Cash,20%
+TXN1757,28-07-2022,15307,5167,10140,R&D,Europe,Sales,Healthcare,B2B,Cash,9%
+TXN1758,06-06-2023,22255,7782,14473,R&D,Africa,IT,Clothing,SMB,Cash,1%
+TXN1759,28-03-2022,45907,19740,26167,R&D,Asia-Pacific,HR,Healthcare,SMB,Credit Card,22%
+TXN1760,14-12-2023,47771,3777,43994,Operations,Africa,IT,Healthcare,B2B,Cash,11%
+TXN1761,17-11-2023,41144,28517,12627,HR,Africa,HR,Healthcare,B2B,Credit Card,11%
+TXN1762,23-11-2023,31580,14412,17168,HR,Europe,Marketing,Healthcare,SMB,Credit Card,27%
+TXN1763,16-01-2023,7422,25293,-17871,R&D,South America,Operations,Clothing,B2C,Cash,4%
+TXN1764,17-10-2023,42863,21901,20962,R&D,Europe,IT,Healthcare,Enterprise,Cash,0%
+TXN1765,03-11-2022,22829,12388,10441,R&D,Europe,IT,Software,SMB,PayPal,9%
+TXN1766,23-01-2023,23798,13858,9940,R&D,Asia-Pacific,Operations,Healthcare,B2B,Credit Card,28%
+TXN1767,25-07-2022,37340,10465,26875,R&D,Africa,IT,Electronics,Enterprise,Bank Transfer,25%
+TXN1768,26-06-2023,20856,19055,1801,R&D,Africa,IT,Clothing,B2B,Credit Card,12%
+TXN1769,06-08-2023,10693,15957,-5264,R&D,North America,Marketing,Healthcare,Enterprise,PayPal,21%
+TXN1770,09-08-2023,44914,13697,31217,R&D,South America,Finance,Furniture,SMB,Cash,20%
+TXN1771,22-02-2023,17146,14897,2249,Marketing,Africa,IT,Furniture,Enterprise,PayPal,9%
+TXN1772,02-05-2023,26665,23553,3112,Operations,North America,Finance,Healthcare,Enterprise,Bank Transfer,4%
+TXN1773,16-05-2023,38817,28930,9887,R&D,Europe,IT,Healthcare,SMB,Credit Card,3%
+TXN1774,09-07-2023,28546,23490,5056,HR,North America,Marketing,Clothing,SMB,PayPal,13%
+TXN1775,07-04-2023,25704,6082,19622,R&D,North America,Marketing,Healthcare,SMB,PayPal,1%
+TXN1776,29-05-2022,32706,23028,9678,HR,Asia-Pacific,IT,Healthcare,Enterprise,Credit Card,18%
+TXN1777,17-09-2022,6375,23841,-17466,HR,North America,IT,Healthcare,B2B,Bank Transfer,9%
+TXN1778,03-04-2022,28539,13755,14784,Marketing,Africa,IT,Healthcare,SMB,Credit Card,15%
+TXN1779,16-01-2023,41643,14036,27607,HR,South America,Marketing,Electronics,SMB,Cash,14%
+TXN1780,04-12-2023,48478,19390,29088,HR,Europe,IT,Healthcare,B2B,Credit Card,25%
+TXN1781,31-03-2023,6973,20517,-13544,Marketing,Africa,Finance,Clothing,SMB,Cash,10%
+TXN1782,14-08-2022,21305,5066,16239,R&D,Africa,IT,Clothing,B2C,PayPal,0%
+TXN1783,19-06-2023,15626,29948,-14322,Marketing,Africa,Marketing,Clothing,SMB,PayPal,23%
+TXN1784,16-11-2023,32028,20968,11060,R&D,Africa,Sales,Electronics,B2B,Credit Card,7%
+TXN1785,06-03-2023,13724,23467,-9743,Sales,Europe,Sales,Clothing,SMB,PayPal,1%
+TXN1786,08-06-2023,20838,28739,-7901,Operations,Europe,Sales,Electronics,SMB,Cash,23%
+TXN1787,04-03-2022,27818,24673,3145,R&D,Asia-Pacific,Operations,Healthcare,Enterprise,Bank Transfer,0%
+TXN1788,15-03-2023,29804,20836,8968,R&D,South America,IT,Healthcare,SMB,Cash,29%
+TXN1789,30-04-2023,36675,16687,19988,Sales,Africa,HR,Healthcare,B2B,Credit Card,28%
+TXN1790,14-11-2022,10295,16272,-5977,Sales,Africa,Marketing,Healthcare,B2C,Credit Card,25%
+TXN1791,22-09-2023,5589,27926,-22337,Marketing,South America,IT,Electronics,Enterprise,Cash,14%
+TXN1792,27-02-2022,41317,27332,13985,R&D,Africa,IT,Healthcare,B2B,Cash,26%
+TXN1793,01-04-2022,11820,17706,-5886,Operations,Asia-Pacific,Operations,Clothing,SMB,Cash,26%
+TXN1794,23-10-2023,45808,14066,31742,R&D,Asia-Pacific,IT,Healthcare,B2B,Bank Transfer,29%
+TXN1795,08-01-2022,26050,28873,-2823,Marketing,Europe,Operations,Software,SMB,PayPal,8%
+TXN1796,26-12-2022,15455,10422,5033,R&D,Asia-Pacific,HR,Electronics,B2C,Credit Card,27%
+TXN1797,17-06-2022,6215,26135,-19920,Marketing,Africa,Sales,Healthcare,B2B,PayPal,2%
+TXN1798,26-09-2022,8638,24934,-16296,Marketing,South America,IT,Healthcare,SMB,Cash,21%
+TXN1799,22-01-2022,7556,16672,-9116,R&D,North America,Operations,Healthcare,Enterprise,PayPal,14%
+TXN1800,13-02-2023,15868,19821,-3953,Sales,Africa,Sales,Furniture,SMB,Cash,28%
+TXN1801,11-04-2023,17123,18203,-1080,Marketing,South America,IT,Healthcare,SMB,Credit Card,27%
+TXN1802,19-11-2023,35100,21570,13530,R&D,Africa,IT,Clothing,B2C,Cash,2%
+TXN1803,12-12-2023,27867,3857,24010,Operations,Africa,IT,Software,B2C,Bank Transfer,19%
+TXN1804,17-02-2022,35313,17986,17327,R&D,South America,HR,Furniture,B2C,Bank Transfer,28%
+TXN1805,11-09-2022,47393,21776,25617,HR,North America,Operations,Clothing,Enterprise,Cash,2%
+TXN1806,06-11-2023,10169,6153,4016,R&D,North America,IT,Healthcare,SMB,Credit Card,27%
+TXN1807,08-05-2023,27956,28463,-507,Sales,Africa,Operations,Clothing,SMB,Bank Transfer,28%
+TXN1808,30-05-2023,19368,22117,-2749,R&D,North America,Finance,Healthcare,B2B,Bank Transfer,23%
+TXN1809,25-02-2022,37121,11555,25566,R&D,Asia-Pacific,IT,Software,SMB,Cash,2%
+TXN1810,22-09-2022,20774,29013,-8239,HR,North America,Operations,Healthcare,B2B,Bank Transfer,20%
+TXN1811,20-10-2022,38771,28815,9956,Operations,North America,Sales,Electronics,Enterprise,PayPal,25%
+TXN1812,16-04-2023,49174,4787,44387,Sales,Africa,Marketing,Healthcare,B2C,Cash,2%
+TXN1813,08-02-2022,23732,5021,18711,R&D,Africa,Marketing,Healthcare,SMB,Credit Card,8%
+TXN1814,09-10-2023,46417,3201,43216,R&D,Asia-Pacific,IT,Software,SMB,Credit Card,25%
+TXN1815,27-07-2022,37106,25973,11133,R&D,Asia-Pacific,IT,Electronics,SMB,Bank Transfer,13%
+TXN1816,23-06-2023,21539,12052,9487,Operations,Europe,Marketing,Healthcare,Enterprise,Credit Card,11%
+TXN1817,13-12-2023,16918,4290,12628,Sales,Asia-Pacific,Sales,Healthcare,SMB,PayPal,24%
+TXN1818,13-05-2023,9384,28624,-19240,Marketing,South America,Marketing,Software,SMB,Cash,12%
+TXN1819,11-09-2023,13084,21665,-8581,R&D,Asia-Pacific,Marketing,Healthcare,SMB,Bank Transfer,27%
+TXN1820,22-08-2023,40132,27844,12288,R&D,Europe,IT,Clothing,SMB,Bank Transfer,22%
+TXN1821,07-06-2023,48634,3081,45553,Sales,Africa,IT,Furniture,SMB,PayPal,8%
+TXN1822,21-06-2022,6377,6734,-357,Sales,Africa,IT,Software,SMB,PayPal,6%
+TXN1823,24-01-2023,7542,20384,-12842,R&D,Africa,IT,Clothing,B2C,PayPal,7%
+TXN1824,18-11-2022,30570,19358,11212,Marketing,Asia-Pacific,IT,Furniture,SMB,Credit Card,8%
+TXN1825,22-02-2022,28180,9398,18782,HR,Africa,Marketing,Clothing,SMB,Cash,22%
+TXN1826,01-08-2023,15848,19257,-3409,R&D,Africa,Marketing,Clothing,B2C,Credit Card,26%
+TXN1827,07-03-2023,30379,17242,13137,Sales,North America,IT,Healthcare,Enterprise,Credit Card,18%
+TXN1828,30-09-2023,27183,11060,16123,R&D,North America,IT,Software,B2B,Credit Card,13%
+TXN1829,04-12-2023,33721,4934,28787,Marketing,North America,IT,Electronics,SMB,Cash,24%
+TXN1830,07-02-2023,36789,9519,27270,Sales,Europe,Marketing,Clothing,B2B,PayPal,6%
+TXN1831,01-02-2023,19310,20546,-1236,Sales,North America,IT,Software,SMB,Credit Card,26%
+TXN1832,21-01-2022,29165,4204,24961,Marketing,Africa,IT,Furniture,B2C,PayPal,12%
+TXN1833,18-09-2022,23929,23858,71,R&D,Africa,IT,Healthcare,SMB,Credit Card,10%
+TXN1834,29-04-2023,7597,27221,-19624,R&D,North America,Marketing,Furniture,SMB,Credit Card,21%
+TXN1835,01-05-2022,33374,18515,14859,Sales,Africa,Marketing,Electronics,B2B,Credit Card,27%
+TXN1836,02-11-2022,48432,23240,25192,Operations,Africa,IT,Furniture,SMB,Cash,20%
+TXN1837,04-02-2022,34559,23057,11502,R&D,North America,IT,Electronics,SMB,Bank Transfer,22%
+TXN1838,07-01-2023,9460,11618,-2158,R&D,South America,Operations,Healthcare,B2B,Bank Transfer,22%
+TXN1839,15-02-2023,46591,16404,30187,R&D,North America,IT,Software,B2C,Cash,17%
+TXN1840,27-04-2022,11450,19877,-8427,Marketing,Europe,HR,Healthcare,SMB,Credit Card,17%
+TXN1841,23-07-2023,32222,8688,23534,Marketing,Europe,HR,Healthcare,B2C,Bank Transfer,17%
+TXN1842,06-03-2023,15088,20618,-5530,Marketing,Europe,Marketing,Software,B2C,Cash,2%
+TXN1843,22-03-2022,37489,15192,22297,HR,Africa,Marketing,Clothing,B2B,Cash,26%
+TXN1844,03-12-2023,45351,23263,22088,Sales,Asia-Pacific,HR,Healthcare,B2C,Bank Transfer,21%
+TXN1845,28-02-2022,5103,18353,-13250,R&D,Europe,Sales,Healthcare,B2B,Cash,17%
+TXN1846,13-09-2022,14548,6535,8013,HR,North America,Sales,Clothing,SMB,Credit Card,18%
+TXN1847,14-12-2023,31250,12306,18944,Operations,Africa,Operations,Furniture,SMB,PayPal,18%
+TXN1848,22-02-2022,21125,19994,1131,R&D,Africa,IT,Electronics,Enterprise,Credit Card,4%
+TXN1849,29-06-2022,8251,8031,220,R&D,North America,HR,Healthcare,B2B,Credit Card,11%
+TXN1850,26-07-2023,35478,22730,12748,Marketing,Asia-Pacific,Operations,Healthcare,B2B,Cash,23%
+TXN1851,20-11-2022,35119,7341,27778,Sales,Europe,IT,Software,Enterprise,Cash,15%
+TXN1852,24-11-2023,30920,20291,10629,R&D,North America,IT,Furniture,SMB,Bank Transfer,28%
+TXN1853,15-01-2023,11119,18269,-7150,Sales,North America,Marketing,Furniture,SMB,Cash,23%
+TXN1854,22-08-2022,23529,17470,6059,R&D,Africa,Sales,Healthcare,B2C,Credit Card,3%
+TXN1855,08-02-2023,42671,16729,25942,R&D,Africa,Operations,Software,B2C,Cash,17%
+TXN1856,24-03-2022,36277,15502,20775,Marketing,Europe,Sales,Electronics,B2C,Credit Card,26%
+TXN1857,07-11-2022,36514,27493,9021,R&D,Europe,IT,Software,SMB,Credit Card,16%
+TXN1858,02-06-2022,21576,5086,16490,Operations,North America,HR,Clothing,SMB,Credit Card,9%
+TXN1859,18-08-2023,36093,12021,24072,R&D,Africa,IT,Clothing,B2C,Credit Card,16%
+TXN1860,14-06-2022,44632,13236,31396,R&D,North America,IT,Healthcare,SMB,Bank Transfer,11%
+TXN1861,03-03-2023,36868,29167,7701,Marketing,Asia-Pacific,HR,Healthcare,Enterprise,PayPal,3%
+TXN1862,10-06-2022,25808,4394,21414,R&D,North America,IT,Clothing,SMB,Cash,17%
+TXN1863,13-01-2022,12010,20363,-8353,R&D,Africa,IT,Software,B2B,Cash,1%
+TXN1864,23-04-2022,46214,5572,40642,Operations,Africa,Sales,Software,B2C,PayPal,10%
+TXN1865,09-12-2022,43303,25045,18258,R&D,Europe,IT,Electronics,B2B,Bank Transfer,5%
+TXN1866,18-01-2022,19805,28424,-8619,HR,Africa,IT,Healthcare,B2C,Cash,11%
+TXN1867,12-01-2022,19835,6157,13678,Marketing,Europe,IT,Furniture,SMB,Cash,3%
+TXN1868,14-12-2023,10272,10683,-411,R&D,North America,Marketing,Healthcare,B2C,Credit Card,5%
+TXN1869,17-09-2023,6682,8229,-1547,R&D,Asia-Pacific,IT,Electronics,SMB,PayPal,10%
+TXN1870,14-06-2023,12617,11139,1478,Operations,North America,HR,Healthcare,SMB,Credit Card,15%
+TXN1871,15-04-2022,18579,6874,11705,R&D,Africa,HR,Electronics,SMB,PayPal,2%
+TXN1872,27-06-2022,38069,4178,33891,Marketing,North America,Marketing,Healthcare,SMB,PayPal,1%
+TXN1873,21-06-2022,36962,8732,28230,Sales,Africa,Finance,Healthcare,B2C,Credit Card,23%
+TXN1874,08-02-2023,47053,21554,25499,Operations,South America,Finance,Healthcare,B2B,Credit Card,19%
+TXN1875,11-02-2022,43047,28106,14941,R&D,North America,HR,Healthcare,SMB,Credit Card,9%
+TXN1876,29-04-2022,12517,4270,8247,Marketing,South America,IT,Healthcare,B2B,Cash,15%
+TXN1877,30-07-2023,29383,27937,1446,Sales,Africa,Sales,Furniture,B2B,Cash,27%
+TXN1878,18-02-2023,38926,12488,26438,Sales,North America,Finance,Furniture,SMB,Credit Card,13%
+TXN1879,01-05-2022,37954,27494,10460,R&D,Asia-Pacific,IT,Healthcare,SMB,Credit Card,10%
+TXN1880,27-11-2022,35962,22847,13115,R&D,Africa,IT,Healthcare,Enterprise,Cash,28%
+TXN1881,14-12-2022,39947,11631,28316,Operations,Europe,Marketing,Software,B2B,Cash,20%
+TXN1882,20-08-2023,40678,19452,21226,Operations,South America,Marketing,Healthcare,B2C,Cash,27%
+TXN1883,10-05-2023,24983,27971,-2988,R&D,South America,Sales,Healthcare,SMB,Bank Transfer,25%
+TXN1884,21-07-2022,26672,17010,9662,R&D,Africa,Sales,Clothing,B2B,PayPal,22%
+TXN1885,16-09-2022,9829,27979,-18150,R&D,Europe,Operations,Furniture,Enterprise,Cash,4%
+TXN1886,09-07-2022,12684,25839,-13155,Sales,Asia-Pacific,Finance,Healthcare,SMB,Cash,12%
+TXN1887,28-12-2022,19759,11938,7821,R&D,Europe,IT,Software,B2B,Credit Card,15%
+TXN1888,03-02-2022,9100,8879,221,Sales,North America,Finance,Electronics,SMB,Bank Transfer,0%
+TXN1889,20-10-2022,25455,8724,16731,Operations,Asia-Pacific,IT,Software,B2B,Cash,21%
+TXN1890,07-01-2022,21810,27931,-6121,Marketing,North America,Marketing,Software,SMB,Cash,19%
+TXN1891,24-08-2023,22953,11986,10967,Marketing,Asia-Pacific,Sales,Clothing,B2C,PayPal,28%
+TXN1892,23-01-2022,22761,7807,14954,R&D,Europe,IT,Healthcare,SMB,PayPal,1%
+TXN1893,24-03-2023,34132,22098,12034,R&D,Africa,Sales,Healthcare,B2C,PayPal,14%
+TXN1894,01-11-2023,40901,14616,26285,R&D,North America,Finance,Software,B2B,Credit Card,25%
+TXN1895,06-01-2023,21015,24747,-3732,Sales,Africa,Marketing,Healthcare,B2B,PayPal,6%
+TXN1896,20-01-2022,12665,13122,-457,HR,Europe,IT,Furniture,B2C,Bank Transfer,12%
+TXN1897,15-04-2022,5126,10918,-5792,R&D,South America,IT,Electronics,SMB,Cash,2%
+TXN1898,23-07-2022,10173,14725,-4552,R&D,Africa,Sales,Clothing,SMB,Credit Card,22%
+TXN1899,02-12-2023,8689,10013,-1324,HR,Africa,IT,Healthcare,SMB,Cash,14%
+TXN1900,27-11-2022,35938,19939,15999,Sales,Africa,IT,Electronics,B2B,PayPal,19%
+TXN1901,10-07-2023,28847,23232,5615,Operations,Africa,IT,Software,SMB,Cash,7%
+TXN1902,01-04-2023,16789,29539,-12750,R&D,North America,Marketing,Furniture,Enterprise,Bank Transfer,22%
+TXN1903,02-02-2023,28030,5443,22587,HR,Europe,Sales,Software,SMB,Bank Transfer,8%
+TXN1904,29-11-2022,13523,20917,-7394,HR,Africa,IT,Healthcare,SMB,PayPal,22%
+TXN1905,26-11-2023,32999,17415,15584,Sales,Africa,IT,Electronics,B2B,Cash,27%
+TXN1906,10-09-2023,14794,14263,531,R&D,Africa,Operations,Healthcare,SMB,Bank Transfer,28%
+TXN1907,20-01-2023,20852,26622,-5770,R&D,Africa,HR,Healthcare,SMB,Bank Transfer,25%
+TXN1908,21-07-2023,23730,4310,19420,Sales,Europe,Finance,Electronics,SMB,Cash,2%
+TXN1909,12-09-2022,49669,12114,37555,R&D,Africa,Finance,Healthcare,SMB,Cash,2%
+TXN1910,04-01-2023,11497,5231,6266,R&D,South America,IT,Clothing,B2B,Credit Card,14%
+TXN1911,23-01-2022,45764,16243,29521,Marketing,North America,IT,Clothing,B2C,Cash,5%
+TXN1912,28-10-2022,24061,5206,18855,R&D,Europe,Operations,Clothing,SMB,Cash,3%
+TXN1913,30-10-2023,7426,25496,-18070,R&D,Asia-Pacific,IT,Clothing,SMB,Bank Transfer,14%
+TXN1914,20-05-2023,30498,26956,3542,HR,South America,Finance,Clothing,SMB,PayPal,27%
+TXN1915,09-04-2023,15308,8169,7139,R&D,Africa,IT,Healthcare,SMB,Credit Card,18%
+TXN1916,25-06-2023,37460,24309,13151,Sales,Africa,Finance,Healthcare,SMB,PayPal,24%
+TXN1917,25-03-2023,20965,14704,6261,Marketing,North America,Finance,Software,Enterprise,Credit Card,7%
+TXN1918,24-02-2023,31286,25237,6049,Sales,Africa,Marketing,Healthcare,SMB,Bank Transfer,2%
+TXN1919,01-02-2022,15784,3279,12505,R&D,North America,Sales,Software,SMB,Cash,0%
+TXN1920,26-11-2022,11686,24333,-12647,R&D,Europe,Sales,Healthcare,Enterprise,Credit Card,27%
+TXN1921,23-05-2022,29136,19527,9609,R&D,Asia-Pacific,Marketing,Electronics,SMB,PayPal,10%
+TXN1922,22-06-2023,17527,20764,-3237,R&D,Africa,Operations,Healthcare,B2B,PayPal,29%
+TXN1923,22-09-2023,11790,23474,-11684,HR,Europe,Operations,Healthcare,Enterprise,PayPal,26%
+TXN1924,03-10-2022,16225,25344,-9119,R&D,Africa,HR,Electronics,B2C,Cash,2%
+TXN1925,05-02-2022,25312,28447,-3135,Sales,Asia-Pacific,Operations,Electronics,SMB,Credit Card,19%
+TXN1926,14-08-2023,47695,21292,26403,R&D,Africa,Marketing,Clothing,Enterprise,Cash,4%
+TXN1927,16-02-2022,45689,12115,33574,HR,Europe,IT,Healthcare,Enterprise,Credit Card,25%
+TXN1928,11-06-2022,14339,18964,-4625,Operations,Africa,IT,Clothing,B2C,Cash,24%
+TXN1929,27-05-2022,8941,20944,-12003,Operations,Asia-Pacific,Finance,Clothing,B2C,Credit Card,16%
+TXN1930,04-06-2023,34578,11783,22795,Marketing,Africa,IT,Electronics,Enterprise,Credit Card,6%
+TXN1931,14-05-2022,23370,3076,20294,R&D,Africa,Marketing,Healthcare,SMB,Bank Transfer,22%
+TXN1932,18-05-2022,17360,5813,11547,HR,Asia-Pacific,Sales,Healthcare,SMB,PayPal,3%
+TXN1933,03-01-2022,20019,27672,-7653,Marketing,Africa,IT,Software,SMB,Credit Card,28%
+TXN1934,15-11-2022,30724,20947,9777,Marketing,Europe,Sales,Healthcare,Enterprise,PayPal,25%
+TXN1935,22-05-2022,21137,29487,-8350,Marketing,Asia-Pacific,IT,Electronics,B2C,Bank Transfer,5%
+TXN1936,04-05-2022,45112,7776,37336,R&D,Africa,IT,Furniture,SMB,PayPal,29%
+TXN1937,10-12-2023,26594,28413,-1819,HR,Africa,Operations,Healthcare,SMB,Cash,4%
+TXN1938,05-05-2023,36581,5966,30615,R&D,Africa,IT,Electronics,SMB,Cash,10%
+TXN1939,04-12-2023,24959,26593,-1634,R&D,North America,Sales,Software,SMB,Bank Transfer,10%
+TXN1940,14-05-2022,10121,17802,-7681,HR,Africa,IT,Healthcare,Enterprise,Cash,23%
+TXN1941,22-10-2022,20193,13176,7017,Sales,Africa,Operations,Healthcare,B2C,Cash,7%
+TXN1942,04-05-2022,16369,25650,-9281,Marketing,Africa,Sales,Electronics,Enterprise,Cash,12%
+TXN1943,16-04-2022,22513,23913,-1400,Marketing,Africa,Sales,Software,B2C,Bank Transfer,10%
+TXN1944,04-01-2022,15397,17157,-1760,R&D,Africa,Sales,Clothing,SMB,Cash,5%
+TXN1945,23-01-2022,5137,26525,-21388,R&D,Europe,IT,Electronics,B2B,Bank Transfer,27%
+TXN1946,24-03-2023,48346,23850,24496,Operations,North America,Operations,Healthcare,B2B,PayPal,19%
+TXN1947,30-09-2023,10202,15367,-5165,Operations,Africa,Marketing,Healthcare,B2C,Credit Card,9%
+TXN1948,25-11-2022,19223,9227,9996,Operations,South America,IT,Clothing,SMB,Credit Card,13%
+TXN1949,29-11-2022,10426,26489,-16063,Operations,South America,IT,Electronics,B2B,PayPal,0%
+TXN1950,13-12-2023,26097,11673,14424,Marketing,Africa,Finance,Healthcare,SMB,Cash,6%
+TXN1951,30-06-2023,43906,25279,18627,Sales,Asia-Pacific,Finance,Healthcare,Enterprise,Cash,11%
+TXN1952,12-07-2023,16130,12967,3163,Sales,Asia-Pacific,Marketing,Furniture,B2B,Cash,20%
+TXN1953,10-10-2023,20133,18511,1622,R&D,North America,HR,Healthcare,Enterprise,Cash,22%
+TXN1954,28-08-2023,17459,17621,-162,Operations,Africa,Marketing,Clothing,SMB,Cash,28%
+TXN1955,02-03-2023,28349,8242,20107,Sales,Africa,IT,Healthcare,SMB,PayPal,17%
+TXN1956,06-03-2022,48232,23171,25061,R&D,Africa,Sales,Software,B2C,Credit Card,16%
+TXN1957,04-01-2023,12924,5566,7358,R&D,South America,HR,Software,B2B,Credit Card,15%
+TXN1958,22-10-2022,15774,10953,4821,R&D,North America,IT,Electronics,SMB,Cash,13%
+TXN1959,18-04-2023,31551,15218,16333,R&D,Europe,HR,Healthcare,SMB,Credit Card,19%
+TXN1960,29-10-2023,46957,23404,23553,Operations,Africa,IT,Healthcare,SMB,Cash,28%
+TXN1961,25-10-2023,28852,6078,22774,HR,South America,IT,Healthcare,SMB,Cash,16%
+TXN1962,03-01-2022,27486,17690,9796,Marketing,Africa,IT,Clothing,SMB,PayPal,13%
+TXN1963,30-08-2022,27302,27794,-492,HR,South America,Sales,Healthcare,B2C,PayPal,18%
+TXN1964,12-04-2023,35008,11118,23890,Marketing,Africa,Sales,Healthcare,SMB,Bank Transfer,26%
+TXN1965,02-09-2022,17938,13263,4675,R&D,Asia-Pacific,Sales,Healthcare,SMB,PayPal,2%
+TXN1966,01-10-2023,15421,29311,-13890,Operations,North America,Sales,Electronics,Enterprise,Cash,21%
+TXN1967,26-08-2023,40764,12235,28529,Operations,South America,Sales,Healthcare,Enterprise,Cash,26%
+TXN1968,11-12-2022,21817,4004,17813,Sales,Asia-Pacific,IT,Electronics,SMB,Cash,13%
+TXN1969,14-01-2022,29963,10844,19119,HR,Europe,IT,Healthcare,SMB,Cash,4%
+TXN1970,10-11-2023,20144,22526,-2382,Operations,Europe,IT,Electronics,B2B,Cash,5%
+TXN1971,21-10-2022,38141,6702,31439,R&D,Asia-Pacific,Sales,Software,B2B,Bank Transfer,3%
+TXN1972,01-10-2023,34676,23937,10739,R&D,Africa,HR,Clothing,B2B,Bank Transfer,12%
+TXN1973,23-03-2022,11083,27482,-16399,R&D,North America,Operations,Healthcare,SMB,Cash,3%
+TXN1974,30-04-2023,45636,5414,40222,Operations,Africa,IT,Healthcare,B2C,Cash,19%
+TXN1975,14-05-2023,40731,16747,23984,Sales,Africa,HR,Healthcare,SMB,Credit Card,28%
+TXN1976,05-06-2022,17126,26412,-9286,Marketing,Africa,Marketing,Healthcare,Enterprise,Cash,19%
+TXN1977,14-05-2023,13869,4848,9021,Operations,Europe,IT,Furniture,B2B,Credit Card,13%
+TXN1978,08-09-2023,32889,18268,14621,Operations,Africa,IT,Healthcare,B2B,Cash,0%
+TXN1979,06-10-2023,30385,26630,3755,Operations,North America,HR,Healthcare,SMB,Bank Transfer,24%
+TXN1980,26-11-2022,49067,7879,41188,Operations,North America,Marketing,Electronics,B2B,Credit Card,23%
+TXN1981,19-08-2023,24793,23885,908,Operations,South America,IT,Furniture,B2B,Bank Transfer,11%
+TXN1982,13-12-2023,25809,8835,16974,Marketing,Europe,Operations,Electronics,B2B,Cash,27%
+TXN1983,17-06-2022,40215,16553,23662,HR,Africa,Sales,Electronics,B2B,Cash,22%
+TXN1984,15-06-2022,17036,23613,-6577,Operations,Africa,IT,Healthcare,SMB,Credit Card,8%
+TXN1985,17-12-2022,6461,26919,-20458,Marketing,South America,HR,Electronics,SMB,Cash,25%
+TXN1986,13-05-2023,30122,11107,19015,HR,Asia-Pacific,IT,Software,Enterprise,PayPal,1%
+TXN1987,09-04-2022,44838,29000,15838,R&D,Africa,Sales,Healthcare,B2C,Bank Transfer,12%
+TXN1988,17-05-2022,38062,19830,18232,R&D,Europe,IT,Clothing,B2B,Cash,4%
+TXN1989,29-06-2023,39397,16207,23190,Marketing,Africa,IT,Healthcare,SMB,Cash,4%
+TXN1990,25-03-2022,24743,27010,-2267,Sales,North America,Operations,Healthcare,SMB,Cash,20%
+TXN1991,06-08-2023,32943,22729,10214,R&D,Europe,Sales,Healthcare,Enterprise,PayPal,12%
+TXN1992,05-07-2023,30632,11926,18706,HR,Africa,Marketing,Healthcare,Enterprise,Credit Card,12%
+TXN1993,12-07-2022,43929,10814,33115,HR,Africa,Sales,Healthcare,SMB,Cash,11%
+TXN1994,23-07-2023,36410,5608,30802,R&D,Asia-Pacific,HR,Healthcare,B2B,Cash,2%
+TXN1995,06-06-2023,42597,10385,32212,R&D,Africa,IT,Software,Enterprise,Cash,17%
+TXN1996,15-02-2023,16510,14630,1880,HR,Africa,Sales,Clothing,Enterprise,PayPal,17%
+TXN1997,29-12-2023,9533,24753,-15220,R&D,Europe,IT,Healthcare,B2C,Credit Card,14%
+TXN1998,28-06-2023,15284,9144,6140,Marketing,Africa,IT,Software,B2C,PayPal,17%
+TXN1999,11-03-2023,19703,5735,13968,Operations,South America,Marketing,Healthcare,B2C,Credit Card,16%
+TXN2000,10-08-2023,19451,6644,12807,R&D,Asia-Pacific,IT,Healthcare,B2B,Bank Transfer,3%
