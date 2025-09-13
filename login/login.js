@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Validate email + password
         if (email === "test@example.com" && password === "Password123!") {
-            window.location.href = 'mfa.html';
+            window.location.href = '/home/home.html';
         } else {
             showNotification('Invalid email or password.', 'error');
         }
