@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Finora - Blockchain Transaction Transparency</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -17,26 +18,65 @@
             document.documentElement.classList.add('dark')
         }
     </script>
+    <style>
+    /* Default light theme */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: black;
+      transition: background-color 0.3s, color 0.3s;
+      text-align: center;
+      padding: 50px;
+    }
+
+    /* Dark theme */
+    body.dark {
+      background-color: #121212;
+      color: white;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+    
 </head>
+
 <body class="bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-200 transition-colors duration-300">
 
-    <header class="bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm sticky top-0 z-50 border-b border-slate-200 dark:border-slate-800">
+    <header
+        class="bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm sticky top-0 z-50 border-b border-slate-200 dark:border-slate-800">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
                     <a href="/home/home.html" class="text-2xl font-bold text-indigo-600 dark:text-indigo-400">Finora</a>
                 </div>
                 <div class="hidden md:flex items-center space-x-8">
-                  <a href="" class="font-medium text-slate-600 dark:text-slate-300 hover:text-indigo-500 dark:hover:text-indigo-400">Dashboard</a>
-                  <a href="#" class="font-medium text-slate-600 dark:text-slate-300 hover:text-indigo-500 dark:hover:text-indigo-400">Expense</a>
+                    <a href=""
+                        class="font-medium text-slate-600 dark:text-slate-300 hover:text-indigo-500 dark:hover:text-indigo-400">Dashboard</a>
+                    <a href="#"
+                        class="font-medium text-slate-600 dark:text-slate-300 hover:text-indigo-500 dark:hover:text-indigo-400">Expense</a>
 
                 </div>
                 <div class="flex items-center space-x-4">
-                    <a href="/login/login.html" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500">Login</a>
-                    <button id="theme-toggle" class="p-2 rounded-full text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500">
-                        <svg id="theme-icon-sun" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
-                        <svg id="theme-icon-moon" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
-                    </button>
+                    <a href="/login/login.html"
+                        class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500">Login</a>
+                    <div class="container">
+                        <button id="theme-toggle">Toggle Theme</button>
+                    </div>
                 </div>
             </div>
         </nav>
@@ -48,13 +88,16 @@
                 Transparency in Every Transaction
             </h1>
             <p class="mt-6 max-w-2xl mx-auto text-lg text-slate-600 dark:text-slate-400">
-                Finora leverages the power of blockchain to provide an immutable and transparent ledger of all corporate transactions. View your company's financial history with unparalleled clarity and security.
+                Finora leverages the power of blockchain to provide an immutable and transparent ledger of all corporate
+                transactions. View your company's financial history with unparalleled clarity and security.
             </p>
             <div class="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
-                <a href="login.html" class="w-full sm:w-auto px-8 py-3 text-lg font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500 transition-transform transform hover:scale-105">
+                <a href="login.html"
+                    class="w-full sm:w-auto px-8 py-3 text-lg font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500 transition-transform transform hover:scale-105">
                     View Dashboard
                 </a>
-                <a href="finances.html" class="w-full sm:w-auto px-8 py-3 text-lg font-semibold text-indigo-600 dark:text-indigo-400 border border-indigo-600 dark:border-indigo-400 rounded-lg hover:bg-indigo-600 dark:hover:bg-indigo-400 hover:text-white dark:hover:text-slate-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500 transition">
+                <a href="finances.html"
+                    class="w-full sm:w-auto px-8 py-3 text-lg font-semibold text-indigo-600 dark:text-indigo-400 border border-indigo-600 dark:border-indigo-400 rounded-lg hover:bg-indigo-600 dark:hover:bg-indigo-400 hover:text-white dark:hover:text-slate-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-50 dark:focus:ring-offset-slate-900 focus:ring-indigo-500 transition">
                     Explore Our Finances
                 </a>
             </div>
@@ -62,28 +105,33 @@
 
         <section class="mt-20 sm:mt-32">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
-                <div class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
+                <div
+                    class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
                     <h3 class="text-xl font-bold text-slate-900 dark:text-white">Immutable Records</h3>
                     <p class="mt-2 text-slate-600 dark:text-slate-400">
-                        Once a transaction is recorded, it cannot be altered or deleted, ensuring the integrity of your financial data.
+                        Once a transaction is recorded, it cannot be altered or deleted, ensuring the integrity of your
+                        financial data.
                     </p>
                 </div>
-                <div class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
+                <div
+                    class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
                     <h3 class="text-xl font-bold text-slate-900 dark:text-white">Real-Time Data</h3>
                     <p class="mt-2 text-slate-600 dark:text-slate-400">
                         Access up-to-the-minute transaction information from anywhere in the world, available 24/7.
                     </p>
                 </div>
-                <div class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
+                <div
+                    class="p-8 bg-slate-50 dark:bg-slate-800/50 rounded-2xl border border-slate-200 dark:border-slate-800">
                     <h3 class="text-xl font-bold text-slate-900 dark:text-white">Enhanced Security</h3>
                     <p class="mt-2 text-slate-600 dark:text-slate-400">
-                        Utilizing decentralized technology, your data is protected from single points of failure and unauthorized access.
+                        Utilizing decentralized technology, your data is protected from single points of failure and
+                        unauthorized access.
                     </p>
                 </div>
             </div>
         </section>
     </main>
-    
+
     <footer class="border-t border-slate-200 dark:border-slate-800">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-slate-500 dark:text-slate-400">
             &copy; 2025 Finora Inc. All rights reserved.
@@ -93,5 +141,5 @@
 
     <script src="home.js"></script>
 </body>
-</html>
 
+</html>
