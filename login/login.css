@@ -1,13 +1,51 @@
 body {
-    font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #1e3a8a, #2563eb, #60a5fa);
+  background-size: 300% 300%;
+  animation: gradientShift 10s ease infinite;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
-.form-container {
-    transition: all 0.3s ease-in-out;
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
-.form-hidden {
-    transform: scale(0.95);
-    opacity: 0;
-    pointer-events: none;
-    position: absolute;
-    width: 100%; 
+
+.container {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(8px);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 24px rgba(0,0,0,0.2);
+  text-align: center;
+  width: 320px;
+  transition: transform 0.3s ease;
 }
+
+.container:hover {
+  transform: translateY(-4px);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #1e3a8a;
+  font-weight: 600;
+}
+
+#user-info {
+  margin-top: 20px;
+}
+
+#user-info.hidden {
+  display: none;
+}
+
+#user-pic {
+  border-radius: 50%;
+  width:
