@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two-Factor Authentication - Secure Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="mfa.css">
+</head>
+<body class="bg-slate-900 flex items-center justify-center min-h-screen">
+
+    <div class="relative w-full max-w-md p-4">
+        <div id="mfa-view" class="form-container bg-slate-800 p-8 rounded-2xl shadow-lg border border-slate-700">
+            <h2 class="text-2xl font-bold text-slate-100 text-center mb-2">Two-Factor Authentication</h2>
+            <p class="text-center text-slate-400 mb-6">Enter the 6-digit code from your authenticator app.</p>
+            <form id="mfa-form">
+                <div class="flex justify-center gap-2 mb-6">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                    <input type="text" maxlength="1" class="w-12 h-14 text-center text-2xl font-semibold border rounded-lg focus:ring-2 bg-slate-900 border-slate-600 text-slate-100 focus:ring-indigo-500 focus:border-indigo-500" pattern="[0-9]">
+                </div>
+                <button type="submit" class="w-full bg-indigo-600 text-white py-2.5 rounded-lg font-semibold hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-800 focus:ring-indigo-500 transition-transform transform hover:scale-105">Verify Code</button>
+            </form>
+             <p class="text-center text-sm text-slate-400 mt-6">
+                <a href="login.html" class="font-medium text-indigo-400 hover:text-indigo-300">Cancel</a>
+            </p>
+        </div>
+    </div>
+    
+    <div id="notification" class="fixed top-5 right-5 bg-slate-700 shadow-lg rounded-lg p-4 flex items-center transition-transform translate-x-full duration-300 border border-slate-600">
+        <div id="notification-icon" class="mr-3"></div>
+        <p id="notification-message" class="text-sm font-medium text-slate-200"></p>
+    </div>
+
+    <script src="mfa.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.form-container {
+    transition: all 0.3s ease-in-out;
+}
+.form-hidden {
+    transform: scale(0.95);
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 100%; 
+}
